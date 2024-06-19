@@ -1,0 +1,1284 @@
+{
+    "items": [
+		{
+			"id": 0,
+			"name": "None",
+			"type": ""
+		},
+		{
+			"id": 1,
+			"name": "Potion",
+			"type": "Battle Consumable"
+		},
+		{
+			"id": 2,
+			"name": "Hi-Potion",
+			"type": "Battle Consumable"
+		},
+		{
+			"id": 3,
+			"name": "Ether",
+			"type": "Battle Consumable"
+		},
+		{
+			"id": 4,
+			"name": "Elixir",
+			"type": "Battle Consumable"
+		},
+		{
+			"id": 5,
+			"name": "*Unused?*",
+			"type": "Battle Consumable"
+		},
+		{
+			"id": 6,
+			"name": "Mega-Potion",
+			"type": "Battle Consumable"
+		},
+		{
+			"id": 7,
+			"name": "Mega-Ether",
+			"type": "Battle Consumable"
+		},
+		{
+			"id": 8,
+			"name": "Megalixir",
+			"type": "Battle Consumable"
+		},
+		{
+			"id": 9,
+			"name": "Fury Stone",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 10,
+			"name": "Power Stone",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 11,
+			"name": "Energy Stone",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 12,
+			"name": "Blazing Stone",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 13,
+			"name": "Frost Stone",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 14,
+			"name": "Lightning Stone",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 15,
+			"name": "Dazzling Stone",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 16,
+			"name": "Stormy Stone",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 17,
+			"name": "Protect Chain",
+			"type": "Accessory"
+		},
+		{
+			"id": 18,
+			"name": "Protera Chain",
+			"type": "Accessory"
+		},
+		{
+			"id": 19,
+			"name": "Protega Chain",
+			"type": "Accessory"
+		},
+		{
+			"id": 20,
+			"name": "Fire Ring",
+			"type": "Accessory"
+		},
+		{
+			"id": 21,
+			"name": "Fira Ring",
+			"type": "Accessory"
+		},
+		{
+			"id": 22,
+			"name": "Firaga Ring",
+			"type": "Accessory"
+		},
+		{
+			"id": 23,
+			"name": "Blizzard Ring",
+			"type": "Accessory"
+		},
+		{
+			"id": 24,
+			"name": "Blizzara Ring",
+			"type": "Accessory"
+		},
+		{
+			"id": 25,
+			"name": "Blizzaga Ring",
+			"type": "Accessory"
+		},
+		{
+			"id": 26,
+			"name": "Thunder Ring",
+			"type": "Accessory"
+		},
+		{
+			"id": 27,
+			"name": "Thundara Ring",
+			"type": "Accessory"
+		},
+		{
+			"id": 28,
+			"name": "Thundaga Ring",
+			"type": "Accessory"
+		},
+		{
+			"id": 29,
+			"name": "Ability Stud",
+			"type": "Accessory"
+		},
+		{
+			"id": 30,
+			"name": "Guard Earring",
+			"type": "Accessory"
+		},
+		{
+			"id": 31,
+			"name": "Master Earring",
+			"type": "Accessory"
+		},
+		{
+			"id": 32,
+			"name": "Chaos Ring",
+			"type": "Accessory"
+		},
+		{
+			"id": 33,
+			"name": "Dark Ring",
+			"type": "Accessory"
+		},
+		{
+			"id": 34,
+			"name": "Element Ring",
+			"type": "Accessory"
+		},
+		{
+			"id": 35,
+			"name": "Three Stars",
+			"type": "Accessory"
+		},
+		{
+			"id": 36,
+			"name": "Power Chain",
+			"type": "Accessory"
+		},
+		{
+			"id": 37,
+			"name": "Golem Chain",
+			"type": "Accessory"
+		},
+		{
+			"id": 38,
+			"name": "Titan Chain",
+			"type": "Accessory"
+		},
+		{
+			"id": 39,
+			"name": "Energy Bangle",
+			"type": "Accessory"
+		},
+		{
+			"id": 40,
+			"name": "Angel Bangle",
+			"type": "Accessory"
+		},
+		{
+			"id": 41,
+			"name": "Gaia Bangle",
+			"type": "Accessory"
+		},
+		{
+			"id": 42,
+			"name": "Magic Armlet",
+			"type": "Accessory"
+		},
+		{
+			"id": 43,
+			"name": "Rune Armlet",
+			"type": "Accessory"
+		},
+		{
+			"id": 44,
+			"name": "Atlas Armlet",
+			"type": "Accessory"
+		},
+		{
+			"id": 45,
+			"name": "Heartguard",
+			"type": "Accessory"
+		},
+		{
+			"id": 46,
+			"name": "Ribbon",
+			"type": "Accessory"
+		},
+		{
+			"id": 47,
+			"name": "Crystal Crown",
+			"type": "Accessory"
+		},
+		{
+			"id": 48,
+			"name": "Brave Warrior",
+			"type": "Accessory"
+		},
+		{
+			"id": 49,
+			"name": "Ifrit's Horn",
+			"type": "Accessory"
+		},
+		{
+			"id": 50,
+			"name": "Inferno Band",
+			"type": "Accessory"
+		},
+		{
+			"id": 51,
+			"name": "White Fang",
+			"type": "Accessory"
+		},
+		{
+			"id": 52,
+			"name": "Ray of Light",
+			"type": "Accessory"
+		},
+		{
+			"id": 53,
+			"name": "Holy Circlet",
+			"type": "Accessory"
+		},
+		{
+			"id": 54,
+			"name": "Raven's Claw",
+			"type": "Accessory"
+		},
+		{
+			"id": 55,
+			"name": "Omega Arts",
+			"type": "Accessory"
+		},
+		{
+			"id": 56,
+			"name": "EXP Earring",
+			"type": "Accessory"
+		},
+		{
+			"id": 57,
+			"name": "*Unused?*",
+			"type": "Accessory"
+		},
+		{
+			"id": 58,
+			"name": "EXP Ring",
+			"type": "Accessory"
+		},
+		{
+			"id": 59,
+			"name": "EXP Bracelet",
+			"type": "Accessory"
+		},
+		{
+			"id": 60,
+			"name": "EXP Necklace",
+			"type": "Accessory"
+		},
+		{
+			"id": 61,
+			"name": "Firagun Band",
+			"type": "Accessory"
+		},
+		{
+			"id": 62,
+			"name": "Blizzagun Band",
+			"type": "Accessory"
+		},
+		{
+			"id": 63,
+			"name": "Thundagun Band",
+			"type": "Accessory"
+		},
+		{
+			"id": 64,
+			"name": "Ifrit Belt",
+			"type": "Accessory"
+		},
+		{
+			"id": 65,
+			"name": "Shiva Belt",
+			"type": "Accessory"
+		},
+		{
+			"id": 66,
+			"name": "Ramuh Belt",
+			"type": "Accessory"
+		},
+		{
+			"id": 67,
+			"name": "Moogle Badge",
+			"type": "Accessory"
+		},
+		{
+			"id": 68,
+			"name": "Cosmic Arts",
+			"type": "Accessory"
+		},
+		{
+			"id": 69,
+			"name": "Royal Crown",
+			"type": "Accessory"
+		},
+		{
+			"id": 70,
+			"name": "Prime Cap",
+			"type": "Accessory"
+		},
+		{
+			"id": 71,
+			"name": "Obsidian Ring",
+			"type": "Accessory"
+		},
+		{
+			"id": 72,
+			"name": "*Unused?*",
+			"type": "Accessory"
+		},
+		{
+			"id": 73,
+			"name": "*Unused?*",
+			"type": "Accessory"
+		},
+		{
+			"id": 74,
+			"name": "*Unused?*",
+			"type": "Accessory"
+		},
+		{
+			"id": 75,
+			"name": "*Unused?*",
+			"type": "Accessory"
+		},
+		{
+			"id": 76,
+			"name": "*Unused?*",
+			"type": "Accessory"
+		},
+		{
+			"id": 77,
+			"name": "*Unused?*",
+			"type": "Accessory"
+		},
+		{
+			"id": 78,
+			"name": "*Unused?*",
+			"type": "Accessory"
+		},
+		{
+			"id": 79,
+			"name": "*Unused?*",
+			"type": "Accessory"
+		},
+		{
+			"id": 80,
+			"name": "*Unused?*",
+			"type": "Accessory"
+		},
+		{
+			"id": 81,
+			"name": "Kingdom Key",
+			"type": "Weapon (Sora)"
+		},
+		{
+			"id": 82,
+			"name": "Dream Sword",
+			"type": "Weapon (Sora)"
+		},
+		{
+			"id": 83,
+			"name": "Dream Shield",
+			"type": "Weapon (Sora)"
+		},
+		{
+			"id": 84,
+			"name": "Dream Rod",
+			"type": "Weapon (Sora)"
+		},
+		{
+			"id": 85,
+			"name": "Wooden Sword",
+			"type": "Weapon (Sora)"
+		},
+		{
+			"id": 86,
+			"name": "Jungle King",
+			"type": "Weapon (Sora)"
+		},
+		{
+			"id": 87,
+			"name": "Three Wishes",
+			"type": "Weapon (Sora)"
+		},
+		{
+			"id": 88,
+			"name": "Fairy Harp",
+			"type": "Weapon (Sora)"
+		},
+		{
+			"id": 89,
+			"name": "Pumpkin Head",
+			"type": "Weapon (Sora)"
+		},
+		{
+			"id": 90,
+			"name": "Crabclaw",
+			"type": "Weapon (Sora)"
+		},
+		{
+			"id": 91,
+			"name": "Divine Rose",
+			"type": "Weapon (Sora)"
+		},
+		{
+			"id": 92,
+			"name": "Spellbinder",
+			"type": "Weapon (Sora)"
+		},
+		{
+			"id": 93,
+			"name": "Olympia",
+			"type": "Weapon (Sora)"
+		},
+		{
+			"id": 94,
+			"name": "Lionheart",
+			"type": "Weapon (Sora)"
+		},
+		{
+			"id": 95,
+			"name": "Metal Chocobo",
+			"type": "Weapon (Sora)"
+		},
+		{
+			"id": 96,
+			"name": "Oathkeeper",
+			"type": "Weapon (Sora)"
+		},
+		{
+			"id": 97,
+			"name": "Oblivion",
+			"type": "Weapon (Sora)"
+		},
+		{
+			"id": 98,
+			"name": "Lady Luck",
+			"type": "Weapon (Sora)"
+		},
+		{
+			"id": 99,
+			"name": "Wishing Star",
+			"type": "Weapon (Sora)"
+		},
+		{
+			"id": 100,
+			"name": "Ultima Weapon",
+			"type": "Weapon (Sora)"
+		},
+		{
+			"id": 101,
+			"name": "Diamond Dust",
+			"type": "Weapon (Sora)"
+		},
+		{
+			"id": 102,
+			"name": "One-Winged Angel",
+			"type": "Weapon (Sora)"
+		},
+		{
+			"id": 103,
+			"name": "Mage's Staff",
+			"type": "Weapon (Donald)"
+		},
+		{
+			"id": 104,
+			"name": "Morning Star",
+			"type": "Weapon (Donald)"
+		},
+		{
+			"id": 105,
+			"name": "Shooting Star",
+			"type": "Weapon (Donald)"
+		},
+		{
+			"id": 106,
+			"name": "Magus Staff",
+			"type": "Weapon (Donald)"
+		},
+		{
+			"id": 107,
+			"name": "Wisdom Staff",
+			"type": "Weapon (Donald)"
+		},
+		{
+			"id": 108,
+			"name": "Warhammer",
+			"type": "Weapon (Donald)"
+		},
+		{
+			"id": 109,
+			"name": "Silver Mallet",
+			"type": "Weapon (Donald)"
+		},
+		{
+			"id": 110,
+			"name": "Grand Mallet",
+			"type": "Weapon (Donald)"
+		},
+		{
+			"id": 111,
+			"name": "Lord Fortune",
+			"type": "Weapon (Donald)"
+		},
+		{
+			"id": 112,
+			"name": "Violetta",
+			"type": "Weapon (Donald)"
+		},
+		{
+			"id": 113,
+			"name": "Dream Rod",
+			"type": "Weapon (Donald)"
+		},
+		{
+			"id": 114,
+			"name": "Save The Queen",
+			"type": "Weapon (Donald)"
+		},
+		{
+			"id": 115,
+			"name": "Wizard's Relic",
+			"type": "Weapon (Donald)"
+		},
+		{
+			"id": 116,
+			"name": "Meteor Strike",
+			"type": "Weapon (Donald)"
+		},
+		{
+			"id": 117,
+			"name": "Fantasista",
+			"type": "Weapon (Donald)"
+		},
+		{
+			"id": 118,
+			"name": "*Unused?*",
+			"type": "Weapon (Donald)"
+		},
+		{
+			"id": 119,
+			"name": "Knight's Shield",
+			"type": "Weapon (Goofy)"
+		},
+		{
+			"id": 120,
+			"name": "Mythril Shield",
+			"type": "Weapon (Goofy)"
+		},
+		{
+			"id": 121,
+			"name": "Onyx Shield",
+			"type": "Weapon (Goofy)"
+		},
+		{
+			"id": 122,
+			"name": "Stout Shield",
+			"type": "Weapon (Goofy)"
+		},
+		{
+			"id": 123,
+			"name": "Golem Shield",
+			"type": "Weapon (Goofy)"
+		},
+		{
+			"id": 124,
+			"name": "Adamant Shield",
+			"type": "Weapon (Goofy)"
+		},
+		{
+			"id": 125,
+			"name": "Smasher",
+			"type": "Weapon (Goofy)"
+		},
+		{
+			"id": 126,
+			"name": "Gigas Fist",
+			"type": "Weapon (Goofy)"
+		},
+		{
+			"id": 127,
+			"name": "Genji Shield",
+			"type": "Weapon (Goofy)"
+		},
+		{
+			"id": 128,
+			"name": "Herc's Shield",
+			"type": "Weapon (Goofy)"
+		},
+		{
+			"id": 129,
+			"name": "Dream Shield",
+			"type": "Weapon (Goofy)"
+		},
+		{
+			"id": 130,
+			"name": "Save The King",
+			"type": "Weapon (Goofy)"
+		},
+		{
+			"id": 131,
+			"name": "Defender",
+			"type": "Weapon (Goofy)"
+		},
+		{
+			"id": 132,
+			"name": "Mighty Shield",
+			"type": "Weapon (Goofy)"
+		},
+		{
+			"id": 133,
+			"name": "Seven Elements",
+			"type": "Weapon (Goofy)"
+		},
+		{
+			"id": 134,
+			"name": "*Unused?*",
+			"type": "Weapon (Goofy)"
+		},
+		{
+			"id": 135,
+			"name": "Spear",
+			"type": "Weapon (Tarzan)"
+		},
+		{
+			"id": 136,
+			"name": "No Weapon",
+			"type": "Weapon (-)"
+		},
+		{
+			"id": 137,
+			"name": "Sword",
+			"type": "Weapon (Aladdin)"
+		},
+		{
+			"id": 138,
+			"name": "No Weapon",
+			"type": "Weapon (-)"
+		},
+		{
+			"id": 139,
+			"name": "No Weapon",
+			"type": "Weapon (-)"
+		},
+		{
+			"id": 140,
+			"name": "Dagger",
+			"type": "Weapon (Peter Pan)"
+		},
+		{
+			"id": 141,
+			"name": "Claws",
+			"type": "Weapon (Beast)"
+		},
+		{
+			"id": 142,
+			"name": "Tent",
+			"type": "Menu Consumable"
+		},
+		{
+			"id": 143,
+			"name": "Camping Set",
+			"type": "Menu Consumable"
+		},
+		{
+			"id": 144,
+			"name": "Cottage",
+			"type": "Menu Consumable"
+		},
+		{
+			"id": 145,
+			"name": "*Unused?*",
+			"type": "Menu Consumable"
+		},
+		{
+			"id": 146,
+			"name": "*Unused?*",
+			"type": "Menu Consumable"
+		},
+		{
+			"id": 147,
+			"name": "*Unused?*",
+			"type": "Menu Consumable"
+		},
+		{
+			"id": 148,
+			"name": "*Unused?*",
+			"type": "Menu Consumable"
+		},
+		{
+			"id": 149,
+			"name": "Ansem's Report 11",
+			"type": "Report"
+		},
+		{
+			"id": 150,
+			"name": "Ansem's Report 12",
+			"type": "Report"
+		},
+		{
+			"id": 151,
+			"name": "Ansem's Report 13",
+			"type": "Report"
+		},
+		{
+			"id": 152,
+			"name": "Power Up",
+			"type": "Menu Consumable"
+		},
+		{
+			"id": 153,
+			"name": "Defense Up",
+			"type": "Menu Consumable"
+		},
+		{
+			"id": 154,
+			"name": "AP Up",
+			"type": "Menu Consumable"
+		},
+		{
+			"id": 155,
+			"name": "Serenity Power",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 156,
+			"name": "Dark Matter",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 157,
+			"name": "Mythril Stone",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 158,
+			"name": "Fire Arts",
+			"type": "Key Item"
+		},
+		{
+			"id": 159,
+			"name": "Blizzard Arts",
+			"type": "Key Item"
+		},
+		{
+			"id": 160,
+			"name": "Thunder Arts",
+			"type": "Key Item"
+		},
+		{
+			"id": 161,
+			"name": "Cure Arts",
+			"type": "Key Item"
+		},
+		{
+			"id": 162,
+			"name": "Gravity Arts",
+			"type": "Key Item"
+		},
+		{
+			"id": 163,
+			"name": "Stop Arts",
+			"type": "Key Item"
+		},
+		{
+			"id": 164,
+			"name": "Aero Arts",
+			"type": "Key Item"
+		},
+		{
+			"id": 165,
+			"name": "Shiitake Rank",
+			"type": "Key Item"
+		},
+		{
+			"id": 166,
+			"name": "Matsuake Rank",
+			"type": "Key Item"
+		},
+		{
+			"id": 167,
+			"name": "Mystery Mold",
+			"type": "Key Item"
+		},
+		{
+			"id": 168,
+			"name": "Ansem's Report 1",
+			"type": "Report"
+		},
+		{
+			"id": 169,
+			"name": "Ansem's Report 2",
+			"type": "Report"
+		},
+		{
+			"id": 170,
+			"name": "Ansem's Report 3",
+			"type": "Report"
+		},
+		{
+			"id": 171,
+			"name": "Ansem's Report 4",
+			"type": "Report"
+		},
+		{
+			"id": 172,
+			"name": "Ansem's Report 5",
+			"type": "Report"
+		},
+		{
+			"id": 173,
+			"name": "Ansem's Report 6",
+			"type": "Report"
+		},
+		{
+			"id": 174,
+			"name": "Ansem's Report 7",
+			"type": "Report"
+		},
+		{
+			"id": 175,
+			"name": "Ansem's Report 8",
+			"type": "Report"
+		},
+		{
+			"id": 176,
+			"name": "Ansem's Report 9",
+			"type": "Report"
+		},
+		{
+			"id": 177,
+			"name": "Ansem's Report 10",
+			"type": "Report"
+		},
+		{
+			"id": 178,
+			"name": "Khama vol. 8",
+			"type": "Key Item"
+		},
+		{
+			"id": 179,
+			"name": "Salegg vol. 6",
+			"type": "Key Item"
+		},
+		{
+			"id": 180,
+			"name": "Azal vol. 3",
+			"type": "Key Item"
+		},
+		{
+			"id": 181,
+			"name": "Mava vol. 3",
+			"type": "Key Item"
+		},
+		{
+			"id": 182,
+			"name": "Mava vol. 6",
+			"type": "Key Item"
+		},
+		{
+			"id": 183,
+			"name": "Theon vol. 6",
+			"type": "Key Item"
+		},
+		{
+			"id": 184,
+			"name": "Nahara vol. 5",
+			"type": "Key Item"
+		},
+		{
+			"id": 185,
+			"name": "Hafet vol. 4",
+			"type": "Key Item"
+		},
+		{
+			"id": 186,
+			"name": "Empty Bottle",
+			"type": "Key Item"
+		},
+		{
+			"id": 187,
+			"name": "Old Book",
+			"type": "Key Item"
+		},
+		{
+			"id": 188,
+			"name": "Emblem Piece",
+			"type": "Key Item"
+		},
+		{
+			"id": 189,
+			"name": "Emblem Piece",
+			"type": "Key Item"
+		},
+		{
+			"id": 190,
+			"name": "Emblem Piece",
+			"type": "Key Item"
+		},
+		{
+			"id": 191,
+			"name": "Emblem Piece",
+			"type": "Key Item"
+		},
+		{
+			"id": 192,
+			"name": "Log",
+			"type": "Key Item"
+		},
+		{
+			"id": 193,
+			"name": "Cloth",
+			"type": "Key Item"
+		},
+		{
+			"id": 194,
+			"name": "Rope",
+			"type": "Key Item"
+		},
+		{
+			"id": 195,
+			"name": "Seagull Egg",
+			"type": "Key Item"
+		},
+		{
+			"id": 196,
+			"name": "Fish",
+			"type": "Key Item"
+		},
+		{
+			"id": 197,
+			"name": "Mushroom",
+			"type": "Key Item"
+		},
+		{
+			"id": 198,
+			"name": "Coconut",
+			"type": "Key Item"
+		},
+		{
+			"id": 199,
+			"name": "Drinking Water",
+			"type": "Key Item"
+		},
+		{
+			"id": 200,
+			"name": "Navi-G Piece",
+			"type": "Key Item *(DJ)*"
+		},
+		{
+			"id": 201,
+			"name": "Navi-G Piece",
+			"type": "Key Item *(WL)*"
+		},
+		{
+			"id": 202,
+			"name": "Navi-Gummi",
+			"type": "Key Item"
+		},
+		{
+			"id": 203,
+			"name": "Navi-G Piece",
+			"type": "Key Item *(TT)*"
+		},
+		{
+			"id": 204,
+			"name": "Navi-G Piece",
+			"type": "Key Item *(NL)*"
+		},
+		{
+			"id": 205,
+			"name": "Navi-Gummi",
+			"type": "Key Item"
+		},
+		{
+			"id": 206,
+			"name": "Watergleam",
+			"type": "Key Item"
+		},
+		{
+			"id": 207,
+			"name": "Naturespark",
+			"type": "Key Item"
+		},
+		{
+			"id": 208,
+			"name": "Fireglow",
+			"type": "Key Item"
+		},
+		{
+			"id": 209,
+			"name": "Earthshine",
+			"type": "Key Item"
+		},
+		{
+			"id": 210,
+			"name": "Crystal Trident",
+			"type": "Key Item"
+		},
+		{
+			"id": 211,
+			"name": "Postcard",
+			"type": "Key Item"
+		},
+		{
+			"id": 212,
+			"name": "Torn Page",
+			"type": "Key Item"
+		},
+		{
+			"id": 213,
+			"name": "Torn Page",
+			"type": "Key Item"
+		},
+		{
+			"id": 214,
+			"name": "Torn Page",
+			"type": "Key Item"
+		},
+		{
+			"id": 215,
+			"name": "Torn Page",
+			"type": "Key Item"
+		},
+		{
+			"id": 216,
+			"name": "Torn Page",
+			"type": "Key Item"
+		},
+		{
+			"id": 217,
+			"name": "Slide 1",
+			"type": "Key Item"
+		},
+		{
+			"id": 218,
+			"name": "Slide 2",
+			"type": "Key Item"
+		},
+		{
+			"id": 219,
+			"name": "Slide 3",
+			"type": "Key Item"
+		},
+		{
+			"id": 220,
+			"name": "Slide 4",
+			"type": "Key Item"
+		},
+		{
+			"id": 221,
+			"name": "Slide 5",
+			"type": "Key Item"
+		},
+		{
+			"id": 222,
+			"name": "Slide 6",
+			"type": "Key Item"
+		},
+		{
+			"id": 223,
+			"name": "Footprints",
+			"type": "Key Item"
+		},
+		{
+			"id": 224,
+			"name": "Claw Marks",
+			"type": "Key Item"
+		},
+		{
+			"id": 225,
+			"name": "Stench",
+			"type": "Key Item"
+		},
+		{
+			"id": 226,
+			"name": "Antenna",
+			"type": "Key Item"
+		},
+		{
+			"id": 227,
+			"name": "Forget-Me-Not",
+			"type": "Key Item"
+		},
+		{
+			"id": 228,
+			"name": "Jack-in-the-Box",
+			"type": "Key Item"
+		},
+		{
+			"id": 229,
+			"name": "Entry Pass",
+			"type": "Key Item"
+		},
+		{
+			"id": 230,
+			"name": "Hero License",
+			"type": "Key Item"
+		},
+		{
+			"id": 231,
+			"name": "Pretty Stone",
+			"type": "Key Item"
+		},
+		{
+			"id": 232,
+			"name": "*Unused?*",
+			"type": "Key Item"
+		},
+		{
+			"id": 233,
+			"name": "Lucid Shard",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 234,
+			"name": "Lucid Gem",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 235,
+			"name": "Lucid Crystal",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 236,
+			"name": "Spirit Shard",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 237,
+			"name": "Spirit Gem",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 238,
+			"name": "Power Shard",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 239,
+			"name": "Power Gem",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 240,
+			"name": "Power Crystal",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 241,
+			"name": "Blaze Shard",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 242,
+			"name": "Blaze Gem",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 243,
+			"name": "Frost Shard",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 244,
+			"name": "Frost Gem",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 245,
+			"name": "Thunder Shard",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 246,
+			"name": "Thunder Gem",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 247,
+			"name": "Shiny Crystal",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 248,
+			"name": "Bright Shard",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 249,
+			"name": "Bright Gem",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 250,
+			"name": "Btright Crystal",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 251,
+			"name": "Mystery Goo",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 252,
+			"name": "Gale",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 253,
+			"name": "Mythril Shard",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 254,
+			"name": "Mythril",
+			"type": "Synthesis Material"
+		},
+		{
+			"id": 255,
+			"name": "Orichalcum",
+			"type": "Synthesis Material"
+		}
+	]
+}
