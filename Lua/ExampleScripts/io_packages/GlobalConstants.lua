@@ -241,8 +241,22 @@ local Items <const> = {
 	ORICHALCUM = 0xFF
 }
 
+local Magic <const> = {
+	FIRE = 0x0,
+	BLIZZARD = 0x1,
+	THUNDER = 0x2,
+	CURE = 0x3,
+	GRAVITY = 0x4,
+	STOP = 0x5,
+	AERO = 0x6
+}
+
 function GlobalConstants:GetItems()
 	return Items
+end
+
+function GlobalConstants:GetMagic()
+	return Magic
 end
 
 return GlobalConstants
