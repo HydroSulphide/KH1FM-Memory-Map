@@ -1,0 +1,1274 @@
+{
+	"abilities": [
+		{
+			"id": 0,
+			"name": "None",
+			"equipped": true
+		},
+		{
+			"id": 1,
+			"name": "High Jump",
+			"equipped": true
+		},
+		{
+			"id": 2,
+			"name": "Mermaid Kick",
+			"equipped": true
+		},
+		{
+			"id": 3,
+			"name": "Glide",
+			"equipped": true
+		},
+		{
+			"id": 4,
+			"name": "Superglide",
+			"equipped": true
+		},
+		{
+			"id": 5,
+			"name": "Treasure Magnet",
+			"equipped": true
+		},
+		{
+			"id": 6,
+			"name": "Combo Plus",
+			"equipped": true
+		},
+		{
+			"id": 7,
+			"name": "Air Combo Plus",
+			"equipped": true
+		},
+		{
+			"id": 8,
+			"name": "Critical Plus",
+			"equipped": true
+		},
+		{
+			"id": 9,
+			"name": "Second Wind",
+			"equipped": true
+		},
+		{
+			"id": 10,
+			"name": "Scan",
+			"equipped": true
+		},
+		{
+			"id": 11,
+			"name": "Sonic Blade",
+			"equipped": true
+		},
+		{
+			"id": 12,
+			"name": "Ars Arcanum",
+			"equipped": true
+		},
+		{
+			"id": 13,
+			"name": "Strike Raid",
+			"equipped": true
+		},
+		{
+			"id": 14,
+			"name": "Ragnarok",
+			"equipped": true
+		},
+		{
+			"id": 15,
+			"name": "Trinity Limit",
+			"equipped": true
+		},
+		{
+			"id": 16,
+			"name": "Cheer",
+			"equipped": true
+		},
+		{
+			"id": 17,
+			"name": "Vortex",
+			"equipped": true
+		},
+		{
+			"id": 18,
+			"name": "Aerial Sweep",
+			"equipped": true
+		},
+		{
+			"id": 19,
+			"name": "Counterattack",
+			"equipped": true
+		},
+		{
+			"id": 20,
+			"name": "Blitz",
+			"equipped": true
+		},
+		{
+			"id": 21,
+			"name": "Guard",
+			"equipped": true
+		},
+		{
+			"id": 22,
+			"name": "Dodge Roll",
+			"equipped": true
+		},
+		{
+			"id": 23,
+			"name": "MP Haste",
+			"equipped": true
+		},
+		{
+			"id": 24,
+			"name": "MP Rage",
+			"equipped": true
+		},
+		{
+			"id": 25,
+			"name": "Second Chance",
+			"equipped": true
+		},
+		{
+			"id": 26,
+			"name": "Berserk",
+			"equipped": true
+		},
+		{
+			"id": 27,
+			"name": "Jackpot",
+			"equipped": true
+		},
+		{
+			"id": 28,
+			"name": "Lucky Strike",
+			"equipped": true
+		},
+		{
+			"id": 29,
+			"name": "Charge",
+			"equipped": true
+		},
+		{
+			"id": 30,
+			"name": "Rocket",
+			"equipped": true
+		},
+		{
+			"id": 31,
+			"name": "Tornado",
+			"equipped": true
+		},
+		{
+			"id": 32,
+			"name": "MP Gift",
+			"equipped": true
+		},
+		{
+			"id": 33,
+			"name": "Raging Roar",
+			"equipped": true
+		},
+		{
+			"id": 34,
+			"name": "Asp's Bite",
+			"equipped": true
+		},
+		{
+			"id": 35,
+			"name": "Healing Herb",
+			"equipped": true
+		},
+		{
+			"id": 36,
+			"name": "Wind Armor",
+			"equipped": true
+		},
+		{
+			"id": 37,
+			"name": "Crescent",
+			"equipped": true
+		},
+		{
+			"id": 38,
+			"name": "Sandstorm",
+			"equipped": true
+		},
+		{
+			"id": 39,
+			"name": "Applause!",
+			"equipped": true
+		},
+		{
+			"id": 40,
+			"name": "Blazing Fury",
+			"equipped": true
+		},
+		{
+			"id": 41,
+			"name": "Icy Terror",
+			"equipped": true
+		},
+		{
+			"id": 42,
+			"name": "Bolts of Sorrow",
+			"equipped": true
+		},
+		{
+			"id": 43,
+			"name": "Ghostly Scream",
+			"equipped": true
+		},
+		{
+			"id": 44,
+			"name": "Hummingbird",
+			"equipped": true
+		},
+		{
+			"id": 45,
+			"name": "Time-Out",
+			"equipped": true
+		},
+		{
+			"id": 46,
+			"name": "Storm's Eye",
+			"equipped": true
+		},
+		{
+			"id": 47,
+			"name": "Ferocious Lunge",
+			"equipped": true
+		},
+		{
+			"id": 48,
+			"name": "Furious Bellow",
+			"equipped": true
+		},
+		{
+			"id": 49,
+			"name": "Spiral Wave",
+			"equipped": true
+		},
+		{
+			"id": 50,
+			"name": "Thunder Potion",
+			"equipped": true
+		},
+		{
+			"id": 51,
+			"name": "Cure Potion",
+			"equipped": true
+		},
+		{
+			"id": 52,
+			"name": "Aero Potion",
+			"equipped": true
+		},
+		{
+			"id": 53,
+			"name": "Slapshot",
+			"equipped": true
+		},
+		{
+			"id": 54,
+			"name": "Sliding Dash",
+			"equipped": true
+		},
+		{
+			"id": 55,
+			"name": "Hurricane Blast",
+			"equipped": true
+		},
+		{
+			"id": 56,
+			"name": "Ripple Drive",
+			"equipped": true
+		},
+		{
+			"id": 57,
+			"name": "Stun Impact",
+			"equipped": true
+		},
+		{
+			"id": 58,
+			"name": "Gravity Break",
+			"equipped": true
+		},
+		{
+			"id": 59,
+			"name": "Zantetsuken",
+			"equipped": true
+		},
+		{
+			"id": 60,
+			"name": "Tech Boost",
+			"equipped": true
+		},
+		{
+			"id": 61,
+			"name": "Encounter Plus",
+			"equipped": true
+		},
+		{
+			"id": 62,
+			"name": "Leaf Bracer",
+			"equipped": true
+		},
+		{
+			"id": 63,
+			"name": "Evolution",
+			"equipped": true
+		},
+		{
+			"id": 64,
+			"name": "EXP Zero",
+			"equipped": true
+		},
+		{
+			"id": 65,
+			"name": "Combo Master",
+			"equipped": true
+		},
+		{
+			"id": 66,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 67,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 68,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 69,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 70,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 71,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 72,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 73,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 74,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 75,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 76,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 77,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 78,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 79,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 80,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 81,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 82,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 83,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 84,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 85,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 86,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 87,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 88,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 89,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 90,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 91,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 93,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 94,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 95,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 96,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 97,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 98,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 99,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 100,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 101,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 102,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 103,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 104,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 105,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 106,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 107,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 108,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 109,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 110,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 111,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 112,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 113,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 114,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 115,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 116,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 117,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 118,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 119,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 120,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 121,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 122,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 123,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 124,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 125,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 126,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 127,
+			"name": "*Unused?*",
+			"equipped": true
+		},
+		{
+			"id": 128,
+			"name": "None",
+			"equipped": false
+		},
+		{
+			"id": 129,
+			"name": "High Jump",
+			"equipped": false
+		},
+		{
+			"id": 130,
+			"name": "Mermaid Kick",
+			"equipped": false
+		},
+		{
+			"id": 131,
+			"name": "Glide",
+			"equipped": false
+		},
+		{
+			"id": 132,
+			"name": "Superglide",
+			"equipped": false
+		},
+		{
+			"id": 133,
+			"name": "Treasure Magnet",
+			"equipped": false
+		},
+		{
+			"id": 134,
+			"name": "Combo Plus",
+			"equipped": false
+		},
+		{
+			"id": 135,
+			"name": "Air Combo Plus",
+			"equipped": false
+		},
+		{
+			"id": 136,
+			"name": "Critical Plus",
+			"equipped": false
+		},
+		{
+			"id": 137,
+			"name": "Second Wind",
+			"equipped": false
+		},
+		{
+			"id": 138,
+			"name": "Scan",
+			"equipped": false
+		},
+		{
+			"id": 139,
+			"name": "Sonic Blade",
+			"equipped": false
+		},
+		{
+			"id": 140,
+			"name": "Ars Arcanum",
+			"equipped": false
+		},
+		{
+			"id": 141,
+			"name": "Strike Raid",
+			"equipped": false
+		},
+		{
+			"id": 142,
+			"name": "Ragnarok",
+			"equipped": false
+		},
+		{
+			"id": 143,
+			"name": "Trinity Limit",
+			"equipped": false
+		},
+		{
+			"id": 144,
+			"name": "Cheer",
+			"equipped": false
+		},
+		{
+			"id": 145,
+			"name": "Vortex",
+			"equipped": false
+		},
+		{
+			"id": 146,
+			"name": "Aerial Sweep",
+			"equipped": false
+		},
+		{
+			"id": 147,
+			"name": "Counterattack",
+			"equipped": false
+		},
+		{
+			"id": 148,
+			"name": "Blitz",
+			"equipped": false
+		},
+		{
+			"id": 149,
+			"name": "Guard",
+			"equipped": false
+		},
+		{
+			"id": 150,
+			"name": "Dodge Roll",
+			"equipped": false
+		},
+		{
+			"id": 151,
+			"name": "MP Haste",
+			"equipped": false
+		},
+		{
+			"id": 152,
+			"name": "MP Rage",
+			"equipped": false
+		},
+		{
+			"id": 153,
+			"name": "Second Chance",
+			"equipped": false
+		},
+		{
+			"id": 154,
+			"name": "Berserk",
+			"equipped": false
+		},
+		{
+			"id": 155,
+			"name": "Jackpot",
+			"equipped": false
+		},
+		{
+			"id": 156,
+			"name": "Lucky Strike",
+			"equipped": false
+		},
+		{
+			"id": 157,
+			"name": "Charge",
+			"equipped": false
+		},
+		{
+			"id": 158,
+			"name": "Rocket",
+			"equipped": false
+		},
+		{
+			"id": 159,
+			"name": "Tornado",
+			"equipped": false
+		},
+		{
+			"id": 160,
+			"name": "MP Gift",
+			"equipped": false
+		},
+		{
+			"id": 161,
+			"name": "Raging Roar",
+			"equipped": false
+		},
+		{
+			"id": 162,
+			"name": "Asp's Bite",
+			"equipped": false
+		},
+		{
+			"id": 163,
+			"name": "Healing Herb",
+			"equipped": false
+		},
+		{
+			"id": 164,
+			"name": "Wind Armor",
+			"equipped": false
+		},
+		{
+			"id": 165,
+			"name": "Crescent",
+			"equipped": false
+		},
+		{
+			"id": 166,
+			"name": "Sandstorm",
+			"equipped": false
+		},
+		{
+			"id": 167,
+			"name": "Applause!",
+			"equipped": false
+		},
+		{
+			"id": 168,
+			"name": "Blazing Fury",
+			"equipped": false
+		},
+		{
+			"id": 169,
+			"name": "Icy Terror",
+			"equipped": false
+		},
+		{
+			"id": 170,
+			"name": "Bolts of Sorrow",
+			"equipped": false
+		},
+		{
+			"id": 171,
+			"name": "Ghostly Scream",
+			"equipped": false
+		},
+		{
+			"id": 172,
+			"name": "Hummingbird",
+			"equipped": false
+		},
+		{
+			"id": 173,
+			"name": "Time-Out",
+			"equipped": false
+		},
+		{
+			"id": 174,
+			"name": "Storm's Eye",
+			"equipped": false
+		},
+		{
+			"id": 175,
+			"name": "Ferocious Lunge",
+			"equipped": false
+		},
+		{
+			"id": 176,
+			"name": "Furious Bellow",
+			"equipped": false
+		},
+		{
+			"id": 177,
+			"name": "Spiral Wave",
+			"equipped": false
+		},
+		{
+			"id": 178,
+			"name": "Thunder Potion",
+			"equipped": false
+		},
+		{
+			"id": 179,
+			"name": "Cure Potion",
+			"equipped": false
+		},
+		{
+			"id": 180,
+			"name": "Aero Potion",
+			"equipped": false
+		},
+		{
+			"id": 181,
+			"name": "Slapshot",
+			"equipped": false
+		},
+		{
+			"id": 182,
+			"name": "Sliding Dash",
+			"equipped": false
+		},
+		{
+			"id": 183,
+			"name": "Hurricane Blast",
+			"equipped": false
+		},
+		{
+			"id": 184,
+			"name": "Ripple Drive",
+			"equipped": false
+		},
+		{
+			"id": 185,
+			"name": "Stun Impact",
+			"equipped": false
+		},
+		{
+			"id": 186,
+			"name": "Gravity Break",
+			"equipped": false
+		},
+		{
+			"id": 187,
+			"name": "Zantetsuken",
+			"equipped": false
+		},
+		{
+			"id": 188,
+			"name": "Tech Boost",
+			"equipped": false
+		},
+		{
+			"id": 189,
+			"name": "Encounter Plus",
+			"equipped": false
+		},
+		{
+			"id": 190,
+			"name": "Leaf Bracer",
+			"equipped": false
+		},
+		{
+			"id": 191,
+			"name": "Evolution",
+			"equipped": false
+		},
+		{
+			"id": 192,
+			"name": "EXP Zero",
+			"equipped": false
+		},
+		{
+			"id": 193,
+			"name": "Combo Master",
+			"equipped": false
+		},
+		{
+			"id": 194,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 195,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 196,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 197,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 198,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 199,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 200,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 201,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 202,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 203,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 204,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 205,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 206,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 207,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 208,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 209,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 210,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 211,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 212,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 213,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 214,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 215,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 216,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 217,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 218,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 219,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 221,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 222,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 223,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 224,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 225,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 226,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 227,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 228,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 229,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 230,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 231,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 232,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 233,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 234,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 235,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 236,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 237,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 238,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 239,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 240,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 241,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 242,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 243,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 244,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 245,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 246,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 247,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 248,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 249,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 250,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 251,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 252,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 253,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 254,
+			"name": "*Unused?*",
+			"equipped": false
+		},
+		{
+			"id": 255,
+			"name": "*Unused?*",
+			"equipped": false
+		}
+	]
+}

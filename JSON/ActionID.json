@@ -1,0 +1,1028 @@
+{
+	"actions": [
+		{
+			"id": 0,
+			"name": "Dumbo"
+		},
+		{
+			"id": 1,
+			"name": "Bambi"
+		},
+		{
+			"id": 2,
+			"name": "Genie"
+		},
+		{
+			"id": 3,
+			"name": "Tinker Bell"
+		},
+		{
+			"id": 4,
+			"name": "Mushu"
+		},
+		{
+			"id": 5,
+			"name": "Simba"
+		},
+		{
+			"id": 6,
+			"name": "Bahamut"
+		},
+		{
+			"id": 7,
+			"name": "Save"
+		},
+		{
+			"id": 8,
+			"name": "Open"
+		},
+		{
+			"id": 9,
+			"name": "Sora"
+		},
+		{
+			"id": 10,
+			"name": "Donald"
+		},
+		{
+			"id": 11,
+			"name": "Goofy"
+		},
+		{
+			"id": 12,
+			"name": "Tarzan"
+		},
+		{
+			"id": 13,
+			"name": "Pooh"
+		},
+		{
+			"id": 14,
+			"name": "Aladdin"
+		},
+		{
+			"id": 15,
+			"name": "Ariel"
+		},
+		{
+			"id": 16,
+			"name": "Jack"
+		},
+		{
+			"id": 17,
+			"name": "Peter Pan"
+		},
+		{
+			"id": 18,
+			"name": "Beast"
+		},
+		{
+			"id": 19,
+			"name": "-"
+		},
+		{
+			"id": 20,
+			"name": "Shortcut"
+		},
+		{
+			"id": 21,
+			"name": "Jump Next"
+		},
+		{
+			"id": 22,
+			"name": "Jump On"
+		},
+		{
+			"id": 23,
+			"name": "Splash"
+		},
+		{
+			"id": 24,
+			"name": "Fire Breath"
+		},
+		{
+			"id": 25,
+			"name": "Rush"
+		},
+		{
+			"id": 26,
+			"name": "Test"
+		},
+		{
+			"id": 27,
+			"name": "N/A"
+		},
+		{
+			"id": 28,
+			"name": "Sonic"
+		},
+		{
+			"id": 29,
+			"name": "All"
+		},
+		{
+			"id": 30,
+			"name": "Rave"
+		},
+		{
+			"id": 31,
+			"name": "Blast"
+		},
+		{
+			"id": 32,
+			"name": "Dismiss"
+		},
+		{
+			"id": 33,
+			"name": "Target"
+		},
+		{
+			"id": 34,
+			"name": "Showtime"
+		},
+		{
+			"id": 35,
+			"name": "Trinity"
+		},
+		{
+			"id": 36,
+			"name": "Trinity"
+		},
+		{
+			"id": 37,
+			"name": "N/A"
+		},
+		{
+			"id": 38,
+			"name": "Open"
+		},
+		{
+			"id": 39,
+			"name": "Examine"
+		},
+		{
+			"id": 40,
+			"name": "Arcanum"
+		},
+		{
+			"id": 41,
+			"name": "Bash"
+		},
+		{
+			"id": 42,
+			"name": "Finish"
+		},
+		{
+			"id": 43,
+			"name": "Ragnarok"
+		},
+		{
+			"id": 44,
+			"name": "Impact"
+		},
+		{
+			"id": 45,
+			"name": "Charge Up"
+		},
+		{
+			"id": 46,
+			"name": "Proud Road"
+		},
+		{
+			"id": 47,
+			"name": "Strike"
+		},
+		{
+			"id": 48,
+			"name": "Raid"
+		},
+		{
+			"id": 49,
+			"name": "Judgement"
+		},
+		{
+			"id": 50,
+			"name": "Freeze"
+		},
+		{
+			"id": 51,
+			"name": "Hit"
+		},
+		{
+			"id": 52,
+			"name": "Counter"
+		},
+		{
+			"id": 53,
+			"name": "Call"
+		},
+		{
+			"id": 54,
+			"name": "Move"
+		},
+		{
+			"id": 55,
+			"name": "Drink"
+		},
+		{
+			"id": 56,
+			"name": "Eat"
+		},
+		{
+			"id": 57,
+			"name": "Sit"
+		},
+		{
+			"id": 58,
+			"name": "Push"
+		},
+		{
+			"id": 59,
+			"name": "Read"
+		},
+		{
+			"id": 60,
+			"name": "Touch"
+		},
+		{
+			"id": 61,
+			"name": "Unlock"
+		},
+		{
+			"id": 62,
+			"name": "Release"
+		},
+		{
+			"id": 63,
+			"name": "Grab On"
+		},
+		{
+			"id": 64,
+			"name": "Pull Out"
+		},
+		{
+			"id": 65,
+			"name": "Take"
+		},
+		{
+			"id": 66,
+			"name": "Turn"
+		},
+		{
+			"id": 67,
+			"name": "Mail Card"
+		},
+		{
+			"id": 68,
+			"name": "Get In"
+		},
+		{
+			"id": 69,
+			"name": "Knock"
+		},
+		{
+			"id": 70,
+			"name": "Pull"
+		},
+		{
+			"id": 71,
+			"name": "Flower"
+		},
+		{
+			"id": 72,
+			"name": "Cancel"
+		},
+		{
+			"id": 73,
+			"name": "Jump Off"
+		},
+		{
+			"id": 74,
+			"name": "Shock"
+		},
+		{
+			"id": 75,
+			"name": "Release"
+		},
+		{
+			"id": 76,
+			"name": "Ghost"
+		},
+		{
+			"id": 77,
+			"name": "???"
+		},
+		{
+			"id": 78,
+			"name": "e"
+		},
+		{
+			"id": 79,
+			"name": "e"
+		},
+		{
+			"id": 80,
+			"name": "e"
+		},
+		{
+			"id": 81,
+			"name": "e"
+		},
+		{
+			"id": 82,
+			"name": "e"
+		},
+		{
+			"id": 83,
+			"name": "e"
+		},
+		{
+			"id": 84,
+			"name": "e"
+		},
+		{
+			"id": 85,
+			"name": "e"
+		},
+		{
+			"id": 86,
+			"name": "e"
+		},
+		{
+			"id": 87,
+			"name": "e"
+		},
+		{
+			"id": 88,
+			"name": "e"
+		},
+		{
+			"id": 89,
+			"name": "e"
+		},
+		{
+			"id": 90,
+			"name": "e"
+		},
+		{
+			"id": 91,
+			"name": "e"
+		},
+		{
+			"id": 92,
+			"name": "e"
+		},
+		{
+			"id": 93,
+			"name": "e"
+		},
+		{
+			"id": 94,
+			"name": "e"
+		},
+		{
+			"id": 95,
+			"name": "e"
+		},
+		{
+			"id": 96,
+			"name": "e"
+		},
+		{
+			"id": 97,
+			"name": "e"
+		},
+		{
+			"id": 98,
+			"name": "e"
+		},
+		{
+			"id": 99,
+			"name": "e"
+		},
+		{
+			"id": 100,
+			"name": "e"
+		},
+		{
+			"id": 101,
+			"name": "e"
+		},
+		{
+			"id": 102,
+			"name": "e"
+		},
+		{
+			"id": 103,
+			"name": "e"
+		},
+		{
+			"id": 104,
+			"name": "e"
+		},
+		{
+			"id": 105,
+			"name": "e"
+		},
+		{
+			"id": 106,
+			"name": "e"
+		},
+		{
+			"id": 107,
+			"name": "e"
+		},
+		{
+			"id": 108,
+			"name": "e"
+		},
+		{
+			"id": 109,
+			"name": "e"
+		},
+		{
+			"id": 110,
+			"name": "e"
+		},
+		{
+			"id": 111,
+			"name": "e"
+		},
+		{
+			"id": 112,
+			"name": "e"
+		},
+		{
+			"id": 113,
+			"name": "e"
+		},
+		{
+			"id": 114,
+			"name": "e"
+		},
+		{
+			"id": 115,
+			"name": "e"
+		},
+		{
+			"id": 116,
+			"name": "e"
+		},
+		{
+			"id": 117,
+			"name": "e"
+		},
+		{
+			"id": 118,
+			"name": "e"
+		},
+		{
+			"id": 119,
+			"name": "e"
+		},
+		{
+			"id": 120,
+			"name": "e"
+		},
+		{
+			"id": 121,
+			"name": "e"
+		},
+		{
+			"id": 122,
+			"name": "e"
+		},
+		{
+			"id": 123,
+			"name": "e"
+		},
+		{
+			"id": 124,
+			"name": "e"
+		},
+		{
+			"id": 125,
+			"name": "e"
+		},
+		{
+			"id": 126,
+			"name": "e"
+		},
+		{
+			"id": 127,
+			"name": "e"
+		},
+		{
+			"id": 128,
+			"name": "e"
+		},
+		{
+			"id": 129,
+			"name": "e"
+		},
+		{
+			"id": 130,
+			"name": "e"
+		},
+		{
+			"id": 131,
+			"name": "e"
+		},
+		{
+			"id": 132,
+			"name": "e"
+		},
+		{
+			"id": 133,
+			"name": "e"
+		},
+		{
+			"id": 134,
+			"name": "e"
+		},
+		{
+			"id": 135,
+			"name": "e"
+		},
+		{
+			"id": 136,
+			"name": "e"
+		},
+		{
+			"id": 137,
+			"name": "e"
+		},
+		{
+			"id": 138,
+			"name": "e"
+		},
+		{
+			"id": 139,
+			"name": "e"
+		},
+		{
+			"id": 140,
+			"name": "e"
+		},
+		{
+			"id": 141,
+			"name": "e"
+		},
+		{
+			"id": 142,
+			"name": "e"
+		},
+		{
+			"id": 143,
+			"name": "e"
+		},
+		{
+			"id": 144,
+			"name": "e"
+		},
+		{
+			"id": 145,
+			"name": "e"
+		},
+		{
+			"id": 146,
+			"name": "e"
+		},
+		{
+			"id": 147,
+			"name": "e"
+		},
+		{
+			"id": 148,
+			"name": "e"
+		},
+		{
+			"id": 149,
+			"name": "e"
+		},
+		{
+			"id": 150,
+			"name": "e"
+		},
+		{
+			"id": 151,
+			"name": "e"
+		},
+		{
+			"id": 152,
+			"name": "e"
+		},
+		{
+			"id": 153,
+			"name": "e"
+		},
+		{
+			"id": 154,
+			"name": "e"
+		},
+		{
+			"id": 155,
+			"name": "e"
+		},
+		{
+			"id": 156,
+			"name": "e"
+		},
+		{
+			"id": 157,
+			"name": "e"
+		},
+		{
+			"id": 158,
+			"name": "e"
+		},
+		{
+			"id": 159,
+			"name": "e"
+		},
+		{
+			"id": 160,
+			"name": "e"
+		},
+		{
+			"id": 161,
+			"name": "e"
+		},
+		{
+			"id": 162,
+			"name": "e"
+		},
+		{
+			"id": 163,
+			"name": "e"
+		},
+		{
+			"id": 164,
+			"name": "e"
+		},
+		{
+			"id": 165,
+			"name": "e"
+		},
+		{
+			"id": 166,
+			"name": "e"
+		},
+		{
+			"id": 167,
+			"name": "e"
+		},
+		{
+			"id": 168,
+			"name": "e"
+		},
+		{
+			"id": 169,
+			"name": "e"
+		},
+		{
+			"id": 170,
+			"name": "e"
+		},
+		{
+			"id": 171,
+			"name": "e"
+		},
+		{
+			"id": 172,
+			"name": "e"
+		},
+		{
+			"id": 173,
+			"name": "e"
+		},
+		{
+			"id": 174,
+			"name": "e"
+		},
+		{
+			"id": 175,
+			"name": "e"
+		},
+		{
+			"id": 176,
+			"name": "e"
+		},
+		{
+			"id": 177,
+			"name": "e"
+		},
+		{
+			"id": 178,
+			"name": "e"
+		},
+		{
+			"id": 179,
+			"name": "e"
+		},
+		{
+			"id": 180,
+			"name": "e"
+		},
+		{
+			"id": 181,
+			"name": "e"
+		},
+		{
+			"id": 182,
+			"name": "e"
+		},
+		{
+			"id": 183,
+			"name": "e"
+		},
+		{
+			"id": 184,
+			"name": "e"
+		},
+		{
+			"id": 185,
+			"name": "e"
+		},
+		{
+			"id": 186,
+			"name": "e"
+		},
+		{
+			"id": 187,
+			"name": "e"
+		},
+		{
+			"id": 188,
+			"name": "e"
+		},
+		{
+			"id": 189,
+			"name": "e"
+		},
+		{
+			"id": 190,
+			"name": "e"
+		},
+		{
+			"id": 191,
+			"name": "e"
+		},
+		{
+			"id": 192,
+			"name": "e"
+		},
+		{
+			"id": 193,
+			"name": "e"
+		},
+		{
+			"id": 194,
+			"name": "e"
+		},
+		{
+			"id": 195,
+			"name": "e"
+		},
+		{
+			"id": 196,
+			"name": "e"
+		},
+		{
+			"id": 197,
+			"name": "e"
+		},
+		{
+			"id": 198,
+			"name": "e"
+		},
+		{
+			"id": 199,
+			"name": "e"
+		},
+		{
+			"id": 200,
+			"name": "e"
+		},
+		{
+			"id": 201,
+			"name": "e"
+		},
+		{
+			"id": 202,
+			"name": "e"
+		},
+		{
+			"id": 203,
+			"name": "e"
+		},
+		{
+			"id": 204,
+			"name": "e"
+		},
+		{
+			"id": 205,
+			"name": "e"
+		},
+		{
+			"id": 206,
+			"name": "e"
+		},
+		{
+			"id": 207,
+			"name": "e"
+		},
+		{
+			"id": 208,
+			"name": "e"
+		},
+		{
+			"id": 209,
+			"name": "e"
+		},
+		{
+			"id": 210,
+			"name": "Attack"
+		},
+		{
+			"id": 211,
+			"name": "Magic"
+		},
+		{
+			"id": 212,
+			"name": "Items"
+		},
+		{
+			"id": 213,
+			"name": "Talk"
+		},
+		{
+			"id": 214,
+			"name": "Examine"
+		},
+		{
+			"id": 215,
+			"name": "Summon"
+		},
+		{
+			"id": 216,
+			"name": "Fire"
+		},
+		{
+			"id": 217,
+			"name": "Fira"
+		},
+		{
+			"id": 218,
+			"name": "Firaga"
+		},
+		{
+			"id": 219,
+			"name": "Blizzard"
+		},
+		{
+			"id": 220,
+			"name": "Blizzara"
+		},
+		{
+			"id": 221,
+			"name": "Blizzaga"
+		},
+		{
+			"id": 222,
+			"name": "Thunder"
+		},
+		{
+			"id": 223,
+			"name": "Thundara"
+		},
+		{
+			"id": 224,
+			"name": "Thundaga"
+		},
+		{
+			"id": 225,
+			"name": "Cure"
+		},
+		{
+			"id": 226,
+			"name": "Cura"
+		},
+		{
+			"id": 227,
+			"name": "Curaga"
+		},
+		{
+			"id": 228,
+			"name": "Gravity"
+		},
+		{
+			"id": 229,
+			"name": "Gravira"
+		},
+		{
+			"id": 230,
+			"name": "Graviga"
+		},
+		{
+			"id": 231,
+			"name": "Stop"
+		},
+		{
+			"id": 232,
+			"name": "Stopra"
+		},
+		{
+			"id": 233,
+			"name": "Stopga"
+		},
+		{
+			"id": 234,
+			"name": "Aero"
+		},
+		{
+			"id": 235,
+			"name": "Aerora"
+		},
+		{
+			"id": 236,
+			"name": "Aeroga"
+		},
+		{
+			"id": 237,
+			"name": "Lift"
+		},
+		{
+			"id": 238,
+			"name": "Drop"
+		},
+		{
+			"id": 239,
+			"name": "Throw"
+		},
+		{
+			"id": 240,
+			"name": "Potion"
+		},
+		{
+			"id": 241,
+			"name": "Hi-Potion"
+		},
+		{
+			"id": 242,
+			"name": "Ether"
+		},
+		{
+			"id": 243,
+			"name": "Elixir"
+		},
+		{
+			"id": 244,
+			"name": ""
+		},
+		{
+			"id": 245,
+			"name": "Mega-Potion"
+		},
+		{
+			"id": 246,
+			"name": "Mega-Ether"
+		},
+		{
+			"id": 247,
+			"name": "Megalixir"
+		},
+		{
+			"id": 248,
+			"name": "Fury Stone"
+		},
+		{
+			"id": 249,
+			"name": "Power Stone"
+		},
+		{
+			"id": 250,
+			"name": "Energy Stone"
+		},
+		{
+			"id": 251,
+			"name": "Blazing Stone"
+		},
+		{
+			"id": 252,
+			"name": "Frost Stone"
+		},
+		{
+			"id": 253,
+			"name": "Lightning Stone"
+		},
+		{
+			"id": 254,
+			"name": "Dazzling Stone"
+		},
+		{
+			"id": 255,
+			"name": "*No Slot"
+		}
+	]
+}
