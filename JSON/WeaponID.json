@@ -1,0 +1,370 @@
+{
+	"weapons": [
+		{
+			"id": 0,
+			"name": "Kingdom Key",
+			"model": "xw_ex_5010",
+			"statspointer": 47366712
+		},
+		{
+			"id": 1,
+			"name": "Dream Sword",
+			"model": "xw_dh_5000",
+			"statspointer": 47366800
+		},
+		{
+			"id": 2,
+			"name": "Dream Shield",
+			"model": "xw_dh_5010",
+			"statspointer": 47366888
+		},
+		{
+			"id": 3,
+			"name": "Dream Rod",
+			"model": "xw_dh_5020",
+			"statspointer": 47366976
+		},
+		{
+			"id": 4,
+			"name": "Wooden Sword",
+			"model": "xw_di_5000",
+			"statspointer": 47367064
+		},
+		{
+			"id": 5,
+			"name": "Jungle King",
+			"model": "xw_ex_5020",
+			"statspointer": 47367152
+		},
+		{
+			"id": 6,
+			"name": "Three Wishes",
+			"model": "xw_ex_5030",
+			"statspointer": 47367240
+		},
+		{
+			"id": 7,
+			"name": "Fairy Harp",
+			"model": "xw_ex_5040",
+			"statspointer": 47367328
+		},
+		{
+			"id": 8,
+			"name": "Pumpkinhead",
+			"model": "xw_ex_5050",
+			"statspointer": 47367416
+		},
+		{
+			"id": 9,
+			"name": "Crabclaw",
+			"model": "xw_ex_5060",
+			"statspointer": 47367504
+		},
+		{
+			"id": 10,
+			"name": "Divine Rose",
+			"model": "xw_ex_5070",
+			"statspointer": 47367592
+		},
+		{
+			"id": 11,
+			"name": "Spellbinder",
+			"model": "xw_ex_5080",
+			"statspointer": 47367680
+		},
+		{
+			"id": 12,
+			"name": "Olympia",
+			"model": "xw_ex_5090",
+			"statspointer": 47367768
+		},
+		{
+			"id": 13,
+			"name": "Lionheart",
+			"model": "xw_ex_5100",
+			"statspointer": 47367856
+		},
+		{
+			"id": 14,
+			"name": "Metal Chocobo",
+			"model": "xw_ex_5110",
+			"statspointer": 47367944
+		},
+		{
+			"id": 15,
+			"name": "Oathkeeper",
+			"model": "xw_ex_5120",
+			"statspointer": 47368032
+		},
+		{
+			"id": 16,
+			"name": "Oblivion",
+			"model": "xw_ex_5130",
+			"statspointer": 47368120
+		},
+		{
+			"id": 17,
+			"name": "Lady Luck",
+			"model": "xw_ex_5140",
+			"statspointer": 47368208
+		},
+		{
+			"id": 18,
+			"name": "Wishing Star",
+			"model": "xw_ex_5150",
+			"statspointer": 47368296
+		},
+		{
+			"id": 19,
+			"name": "Ultima Weapon",
+			"model": "xw_ex_5160",
+			"statspointer": 47368384
+		},
+		{
+			"id": 20,
+			"name": "Diamond Dust",
+			"model": "xw_ex_5190",
+			"statspointer": 47368472
+		},
+		{
+			"id": 21,
+			"name": "One-Winged Angel|2d2c9a0|2d2c9a1",
+			"model": "xw_ex_5200",
+			"statspointer": 47368560
+		},
+		{
+			"id": 22,
+			"name": "Mage´s Staff",
+			"model": "xw_ex_5210",
+			"statspointer": 47368648
+		},
+		{
+			"id": 23,
+			"name": "Morning Star",
+			"model": "xw_ex_5220",
+			"statspointer": 47368736
+		},
+		{
+			"id": 24,
+			"name": "Shooting Star",
+			"model": "xw_ex_5230",
+			"statspointer": 47368824
+		},
+		{
+			"id": 25,
+			"name": "Magus Staff",
+			"model": "xw_ex_5240",
+			"statspointer": 47368912
+		},
+		{
+			"id": 26,
+			"name": "Wisdom Staff",
+			"model": "xw_ex_5250",
+			"statspointer": 47369000
+		},
+		{
+			"id": 27,
+			"name": "Warhammer",
+			"model": "xw_ex_5260",
+			"statspointer": 47369088
+		},
+		{
+			"id": 28,
+			"name": "Silver Mallet",
+			"model": "xw_ex_5270",
+			"statspointer": 47369176
+		},
+		{
+			"id": 29,
+			"name": "Grand Mallet",
+			"model": "xw_ex_5280",
+			"statspointer": 47369264
+		},
+		{
+			"id": 30,
+			"name": "Lort Fortune",
+			"model": "xw_ex_5290",
+			"statspointer": 47369352
+		},
+		{
+			"id": 31,
+			"name": "Violetta",
+			"model": "xw_ex_5300",
+			"statspointer": 47369440
+		},
+		{
+			"id": 32,
+			"name": "Dream Rod",
+			"model": "xw_ex_5310",
+			"statspointer": 47369528
+		},
+		{
+			"id": 33,
+			"name": "Save the Queen",
+			"model": "xw_ex_5320",
+			"statspointer": 47369616
+		},
+		{
+			"id": 34,
+			"name": "Wizard´s Relic",
+			"model": "xw_ex_5330",
+			"statspointer": 47369704
+		},
+		{
+			"id": 35,
+			"name": "Meteor Strike",
+			"model": "xw_ex_5350",
+			"statspointer": 47369792
+		},
+		{
+			"id": 36,
+			"name": "Fantasista",
+			"model": "xw_ex_5360",
+			"statspointer": 47369880
+		},
+		{
+			"id": 37,
+			"name": "*Unused Staff*",
+			"model": "xw_ex_5340",
+			"statspointer": 47369968
+		},
+		{
+			"id": 38,
+			"name": "Knight´s Shield",
+			"model": "xw_ex_5410",
+			"statspointer": 47370056
+		},
+		{
+			"id": 39,
+			"name": "Mythril Shield",
+			"model": "xw_ex_5420",
+			"statspointer": 47370144
+		},
+		{
+			"id": 40,
+			"name": "Onyx Shield",
+			"model": "xw_ex_5430",
+			"statspointer": 47370232
+		},
+		{
+			"id": 41,
+			"name": "Stout Shield",
+			"model": "xw_ex_5440",
+			"statspointer": 47370320
+		},
+		{
+			"id": 42,
+			"name": "Golem Shield",
+			"model": "xw_ex_5450",
+			"statspointer": 47370408
+		},
+		{
+			"id": 43,
+			"name": "Adamant Shield",
+			"model": "xw_ex_5460",
+			"statspointer": 47370496
+		},
+		{
+			"id": 44,
+			"name": "Smasher",
+			"model": "xw_ex_5470",
+			"statspointer": 47370584
+		},
+		{
+			"id": 45,
+			"name": "Gigas Fist",
+			"model": "xw_ex_5480",
+			"statspointer": 47370672
+		},
+		{
+			"id": 46,
+			"name": "Genji Shield",
+			"model": "xw_ex_5490",
+			"statspointer": 47370760
+		},
+		{
+			"id": 47,
+			"name": "Herc´s Shield",
+			"model": "xw_ex_5500",
+			"statspointer": 47370848
+		},
+		{
+			"id": 48,
+			"name": "Dream Shield",
+			"model": "xw_ex_5510",
+			"statspointer": 47370936
+		},
+		{
+			"id": 49,
+			"name": "Save the King",
+			"model": "xw_ex_5520",
+			"statspointer": 47371024
+		},
+		{
+			"id": 50,
+			"name": "Defender",
+			"model": "xw_ex_5530",
+			"statspointer": 47371112
+		},
+		{
+			"id": 51,
+			"name": "Mighty Shield",
+			"model": "xw_ex_5560",
+			"statspointer": 47371200
+		},
+		{
+			"id": 52,
+			"name": "Seven Elements",
+			"model": "xw_ex_5570",
+			"statspointer": 47371288
+		},
+		{
+			"id": 53,
+			"name": "*Unused Shield*",
+			"model": "xw_ex_5550",
+			"statspointer": 47371376
+		},
+		{
+			"id": 54,
+			"name": "Tarzan Spear",
+			"model": "xw_tz_5000",
+			"statspointer": 47371464
+		},
+		{
+			"id": 55,
+			"name": "Aladdin Saber",
+			"model": "xw_al_5000",
+			"statspointer": 47371552
+		},
+		{
+			"id": 56,
+			"name": "*Crash*",
+			"model": "xw_lm_5030",
+			"statspointer": 47371640
+		},
+		{
+			"id": 57,
+			"name": "*Crash*",
+			"model": "xw_nm_5000",
+			"statspointer": 47371728
+		},
+		{
+			"id": 58,
+			"name": "Peter Pan Dagger|2d2d658|2d2d659",
+			"model": "xw_pp_5000",
+			"statspointer": 47371816
+		},
+		{
+			"id": 59,
+			"name": "*Crash*",
+			"model": "xw_pc_5000",
+			"statspointer": 47371904
+		},
+		{
+			"id": 60,
+			"name": "*Crash*",
+			"model": "xw_nothing",
+			"statspointer": 47371992
+		}
+	]
+}
