@@ -3768,7 +3768,7 @@
               <ShowAsHex>1</ShowAsHex>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>Array of byte</VariableType>
-              <ByteLength>0</ByteLength>
+              <ByteLength>812</ByteLength>
               <Address>"KINGDOM HEARTS FINAL MIX.exe"+1CFF1C4</Address>
             </CheatEntry>
             <CheatEntry>
@@ -3777,7 +3777,7 @@
               <ShowAsHex>1</ShowAsHex>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>Array of byte</VariableType>
-              <ByteLength>0</ByteLength>
+              <ByteLength>815</ByteLength>
               <Address>"KINGDOM HEARTS FINAL MIX.exe"+1CFF4F3</Address>
             </CheatEntry>
             <CheatEntry>
@@ -3786,7 +3786,7 @@
               <ShowAsHex>1</ShowAsHex>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>Array of byte</VariableType>
-              <ByteLength>0</ByteLength>
+              <ByteLength>1044</ByteLength>
               <Address>"KINGDOM HEARTS FINAL MIX.exe"+1CFF825</Address>
             </CheatEntry>
             <CheatEntry>
@@ -3795,7 +3795,7 @@
               <ShowAsHex>1</ShowAsHex>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>Array of byte</VariableType>
-              <ByteLength>0</ByteLength>
+              <ByteLength>973</ByteLength>
               <Address>"KINGDOM HEARTS FINAL MIX.exe"+1CFFC3C</Address>
             </CheatEntry>
             <CheatEntry>
@@ -3854,12 +3854,39 @@
             </CheatEntry>
             <CheatEntry>
               <ID>1070</ID>
-              <Description>"No description"</Description>
+              <Description>"Journal: Deep Jungle 1"</Description>
               <ShowAsHex>1</ShowAsHex>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>Array of byte</VariableType>
               <ByteLength>0</ByteLength>
               <Address>"KINGDOM HEARTS FINAL MIX.exe"+1D00AD9</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1074</ID>
+              <Description>"Journal: Deep Jungle 2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>0</ByteLength>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+1D00C4D</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1075</ID>
+              <Description>"Journal: Deep Jungle 3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>0</ByteLength>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+1D00F0B</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1076</ID>
+              <Description>"Journal: Agrabah"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>0</ByteLength>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+1D011DC</Address>
             </CheatEntry>
           </CheatEntries>
         </CheatEntry>
@@ -7090,6 +7117,1122 @@
               </CheatEntries>
             </CheatEntry>
           </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1071</ID>
+      <Description>"Journal closed?"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"KINGDOM HEARTS FINAL MIX.exe"+2E99248</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1072</ID>
+      <Description>"Journal closed?"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"KINGDOM HEARTS FINAL MIX.exe"+2E990E4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1073</ID>
+      <Description>"Journal opened?"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"KINGDOM HEARTS FINAL MIX.exe"+2E990C0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1232</ID>
+      <Description>"Gummi"</Description>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1077</ID>
+          <Description>"Gummi: Fire-G"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51DC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1081</ID>
+          <Description>"Gummi: Fira-G"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51DD</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1082</ID>
+          <Description>"Gummi: Firaga-G"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51DE</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1083</ID>
+          <Description>"Gummi: Flare-G"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51DF</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1084</ID>
+          <Description>"Gummi: Holy-G"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51E0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1079</ID>
+          <Description>"Gummi: Protect-G 1"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51E1</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1078</ID>
+          <Description>"Gummi: Protect-G 2"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51E2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1080</ID>
+          <Description>"Gummi: Protect-G 3"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51E3</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1085</ID>
+          <Description>"Gummi: Protect-G 4"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51E4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1086</ID>
+          <Description>"Gummi: Protect-G 5"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51E5</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1087</ID>
+          <Description>"Gummi: Protect-G 6"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51E6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1088</ID>
+          <Description>"Gummi: Protect-G 7"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51E7</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1089</ID>
+          <Description>"Gummi: Protect-G 8"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51E8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1090</ID>
+          <Description>"Gummi: Shell-G 1"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51E9</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1091</ID>
+          <Description>"Gummi: Shell-G 2"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51EA</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1092</ID>
+          <Description>"Gummi: Shell-G 3"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51EB</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1093</ID>
+          <Description>"Gummi: Shell-G 4"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51EC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1094</ID>
+          <Description>"Gummi: Shell-G 5"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51ED</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1095</ID>
+          <Description>"Gummi: Shell-G 6"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51EE</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1096</ID>
+          <Description>"Gummi: Shell-G 7"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51EF</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1097</ID>
+          <Description>"Gummi: Shell-G 8"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51F0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1098</ID>
+          <Description>"Gummi: Dispel-G 1"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51F1</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1099</ID>
+          <Description>"Gummi: Dispel-G 2"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51F2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1100</ID>
+          <Description>"Gummi: Dispel-G 3"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51F3</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1101</ID>
+          <Description>"Gummi: Dispel-G 4"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51F4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1102</ID>
+          <Description>"Gummi: Dispel-G 5"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51F5</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1103</ID>
+          <Description>"Gummi: Dispel-G 6"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51F6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1104</ID>
+          <Description>"Gummi: Dispel-G 7"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51F7</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1105</ID>
+          <Description>"Gummi: Dispel-G 8"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51F8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1106</ID>
+          <Description>"Gummi: Aerora-G 1"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51F9</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1107</ID>
+          <Description>"Gummi: Aerora-G 2"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51FA</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1108</ID>
+          <Description>"Gummi: Aerora-G 3"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51FB</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1109</ID>
+          <Description>"Gummi: Aerora-G 4"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51FC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1110</ID>
+          <Description>"Gummi: Tornado-G 1"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51FD</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1111</ID>
+          <Description>"Gummi: Tornado-G 2"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51FE</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1112</ID>
+          <Description>"Gummi: Float-G 1"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF51FF</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1233</ID>
+          <Description>"Gummi: Aero-G 1"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5200</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1113</ID>
+          <Description>"Gummi: Aero-G 2"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5201</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1114</ID>
+          <Description>"Gummi: Aero-G 3"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5202</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1115</ID>
+          <Description>"Gummi: Aero-G 4"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5203</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1116</ID>
+          <Description>"Gummi: Drain-G 1"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5204</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1117</ID>
+          <Description>"Gummi: Drain-G 2"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5205</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1118</ID>
+          <Description>"Gummi: Osmose-G 1"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5206</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1119</ID>
+          <Description>"Gummi: Osmose-G 2"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5207</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1120</ID>
+          <Description>"Gummi: Transform-G"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5208</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1121</ID>
+          <Description>"Gummi: Warp-G"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5209</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1122</ID>
+          <Description>"Gummi: Scan-G 1"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF520A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1123</ID>
+          <Description>"Gummi: Scan-G 2"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF520B</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1124</ID>
+          <Description>"Gummi: Haste-G"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF520C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1125</ID>
+          <Description>"Gummi: Haste2-G "</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF520D</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1126</ID>
+          <Description>"Gummi: Shield-G"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF520E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1127</ID>
+          <Description>"Gummi: Shield2-G"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF520F</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1128</ID>
+          <Description>"Gummi: Esuna-G 1"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5210</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1129</ID>
+          <Description>"Gummi: Esuna-G 2"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5211</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1130</ID>
+          <Description>"Gummi: Thunder-G"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5212</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1131</ID>
+          <Description>"Gummi: Thundara-G"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5213</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1132</ID>
+          <Description>"Gummi: Thundaga-G"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5214</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1133</ID>
+          <Description>"Gummi: Comet-G"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5215</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1134</ID>
+          <Description>"Gummi: Meteor-G"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5216</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1135</ID>
+          <Description>"Gummi: Ultima-G"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5217</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1136</ID>
+          <Description>"Gummi: Spray"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5218</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1137</ID>
+          <Description>"Gummi: Palette"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5219</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1138</ID>
+          <Description>"Gummi: SYS. UP1"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF521A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1139</ID>
+          <Description>"Gummi: SYS. UP2"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF521B</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1140</ID>
+          <Description>"Gummi: COM. LV1"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF521C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1141</ID>
+          <Description>"Gummi: COM. LV2"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF521D</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1142</ID>
+          <Description>"Gummi: COM. LV3"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF521E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1143</ID>
+          <Description>"Gummi: Kingdom"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF521F</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1144</ID>
+          <Description>"Gummi: Hyperion"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5220</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1145</ID>
+          <Description>"Gummi: Gepetto"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5221</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1146</ID>
+          <Description>"Gummi: Cid"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5222</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1147</ID>
+          <Description>"Gummi: Leon"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5223</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1148</ID>
+          <Description>"Gummi: Yuffie"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5224</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1149</ID>
+          <Description>"Gummi: Aerith"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5225</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1150</ID>
+          <Description>"Gummi: Cactuar"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5226</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1151</ID>
+          <Description>"Gummi: Chocobo"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5227</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1152</ID>
+          <Description>"Gummi: Cindy"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5228</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1153</ID>
+          <Description>"Gummi: Shiva"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5229</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1154</ID>
+          <Description>"Gummi: Lamia"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF522A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1155</ID>
+          <Description>"Gummi: Sandy"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF522B</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1156</ID>
+          <Description>"Gummi: Sylph"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF522C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1157</ID>
+          <Description>"Gummi: Carbuncle"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF522D</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1158</ID>
+          <Description>"Gummi: Mindy"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF522E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1159</ID>
+          <Description>"Gummi: Goblin"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF522F</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1160</ID>
+          <Description>"Gummi: Bomb"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5230</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1161</ID>
+          <Description>"Gummi: Remora"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5231</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1162</ID>
+          <Description>"Gummi: Ahriman"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5232</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1163</ID>
+          <Description>"Gummi: Imp"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5233</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1164</ID>
+          <Description>"Gummi: Siren"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5234</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1165</ID>
+          <Description>"Gummi: Stingray"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5235</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1166</ID>
+          <Description>"Gummi: Catoblepas"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5236</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1167</ID>
+          <Description>"Gummi: Adamant"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5237</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1168</ID>
+          <Description>"Gummi: Serpent"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5238</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1169</ID>
+          <Description>"Gummi: Ifrit"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5239</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1170</ID>
+          <Description>"Gummi: Odin"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF523A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1171</ID>
+          <Description>"Gummi: Atomos"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF523B</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1172</ID>
+          <Description>"Gummi: Golem"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF523C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1173</ID>
+          <Description>"Gummi: Diablos"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF523D</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1174</ID>
+          <Description>"Gummi: Deathguise"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF523E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1175</ID>
+          <Description>"Gummi: Typhoon"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF523F</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1176</ID>
+          <Description>"Gummi: Alexander"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5240</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1177</ID>
+          <Description>"Gummi: Leviathan"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5241</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1178</ID>
+          <Description>"Gummi: Ramuh"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5242</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1179</ID>
+          <Description>"Gummi: Omega"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5243</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1180</ID>
+          <Description>"Gummi: Moogles"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5244</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1181</ID>
+          <Description>"Gummi: Valefor"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5245</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1182</ID>
+          <Description>"Gummi: PuPu"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5246</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1183</ID>
+          <Description>"Gummi: Cerberus"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5247</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1184</ID>
+          <Description>"Gummi: Tonberry"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5248</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1185</ID>
+          <Description>"Gummi: Pandaemonium"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5249</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1186</ID>
+          <Description>"Gummi: Ixion"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF524A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1187</ID>
+          <Description>"Gummi: Gilgamesh"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF524B</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1188</ID>
+          <Description>"Gummi: Phoenix"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF524C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1189</ID>
+          <Description>"Gummi: Eden"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF524D</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1190</ID>
+          <Description>"Gummi: Bahamut"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF524E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1191</ID>
+          <Description>"Gummi: Cure-G 1"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF524F</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1192</ID>
+          <Description>"Gummi: Cure-G 2"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5250</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1193</ID>
+          <Description>"Gummi: Cure-G 3"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5251</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1194</ID>
+          <Description>"Gummi: Cure-G 4"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5252</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1195</ID>
+          <Description>"Gummi: Cure-G 5"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5253</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1196</ID>
+          <Description>"Gummi: Cure-G 6"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5254</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1197</ID>
+          <Description>"Gummi: Cure-G 7"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5255</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1198</ID>
+          <Description>"Gummi: Cure-G 8"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5256</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1199</ID>
+          <Description>"Gummi: Cure-G 9"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5257</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1200</ID>
+          <Description>"Gummi: Wheel-G"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5258</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1201</ID>
+          <Description>"Gummi: Fang-G"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5259</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1202</ID>
+          <Description>"Gummi: Horn-G"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF525A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1203</ID>
+          <Description>"Gummi: Angel-G"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF525B</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1204</ID>
+          <Description>"Gummi: Dark-G"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF525C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1205</ID>
+          <Description>"Gummi: Shoes-G"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF525D</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1206</ID>
+          <Description>"Gummi: Rock-G 1"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF525E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1207</ID>
+          <Description>"Gummi: Rock-G 2"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF525F</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1208</ID>
+          <Description>"Gummi: Scissors-G 1"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5260</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1209</ID>
+          <Description>"Gummi: Scissors-G 2"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5261</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1210</ID>
+          <Description>"Gummi: Paper-G 1"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5262</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1211</ID>
+          <Description>"Gummi: Paper-G 2"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5263</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1212</ID>
+          <Description>"Gummi: Crown-G"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5264</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1213</ID>
+          <Description>"Gummi: Drill-G"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5265</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1214</ID>
+          <Description>"Gummi: Caterpillar-G 1"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5266</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1215</ID>
+          <Description>"Gummi: Caterpillar-G 2"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5267</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1216</ID>
+          <Description>"Gummi: Cure-G 10"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5268</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1217</ID>
+          <Description>"Gummi: Cure-G 11"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5269</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1218</ID>
+          <Description>"Gummi: Cure-G 12"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF526A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1219</ID>
+          <Description>"Gummi: Cure-G 13"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF526B</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1220</ID>
+          <Description>"Gummi: Cure-G 14"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF526C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1221</ID>
+          <Description>"Gummi: Cure-G 15"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF526D</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1222</ID>
+          <Description>"Gummi: Cure-G 16"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF526E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1223</ID>
+          <Description>"Gummi: Cure-G 17"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF526F</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1224</ID>
+          <Description>"Gummi: Cure-G 18"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5270</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1225</ID>
+          <Description>"Gummi: Cure-G 19"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5271</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1226</ID>
+          <Description>"Gummi: Cure-G 20"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5272</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1227</ID>
+          <Description>"Gummi: Cure-G 21"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5273</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1228</ID>
+          <Description>"Gummi: Cure-G 22"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5274</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1229</ID>
+          <Description>"Gummi: Cure-G 23"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5275</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1230</ID>
+          <Description>"Gummi: Cure-G 24"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5276</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1231</ID>
+          <Description>"Gummi: Cure-G 25"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DF5277</Address>
         </CheatEntry>
       </CheatEntries>
     </CheatEntry>
