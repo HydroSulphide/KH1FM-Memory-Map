@@ -1,6 +1,6 @@
 GlobalConstants = {}
 
-local Items <const> = { 
+local Items <const> = {
 	NONE = 0x0,
 	POTION = 0x1,
 	HI_POTION = 0x2,
@@ -846,6 +846,947 @@ local WeaponModels <const> = {
 	UNUSED_MODEL_4 = "xw_nothing"
 }
 
+local Font <const> = {
+	[' '] = 0x1,
+	['\n'] = 0x2,
+	['▮'] = 0x20,
+	['0'] = 0x21,
+	['1'] = 0x22,
+	['2'] = 0x23,
+	['3'] = 0x24,
+	['4'] = 0x25,
+	['5'] = 0x26,
+	['6'] = 0x27,
+	['7'] = 0x28,
+	['8'] = 0x29,
+	['9'] = 0x2A,
+	['A'] = 0x2B,
+	['B'] = 0x2C,
+	['C'] = 0x2D,
+	['D'] = 0x2E,
+	['E'] = 0x2F,
+	['F'] = 0x30,
+	['G'] = 0x31,
+	['H'] = 0x32,
+	['I'] = 0x33,
+	['J'] = 0x34,
+	['K'] = 0x35,
+	['L'] = 0x36,
+	['M'] = 0x37,
+	['N'] = 0x38,
+	['O'] = 0x39,
+	['P'] = 0x3A,
+	['Q'] = 0x3B,
+	['R'] = 0x3C,
+	['S'] = 0x3D,
+	['T'] = 0x3E,
+	['U'] = 0x3F,
+	['V'] = 0x40,
+	['W'] = 0x41,
+	['X'] = 0x42,
+	['Y'] = 0x43,
+	['Z'] = 0x44,
+	['a'] = 0x45,
+	['b'] = 0x46,
+	['c'] = 0x47,
+	['d'] = 0x48,
+	['e'] = 0x49,
+	['f'] = 0x4A,
+	['g'] = 0x4B,
+	['h'] = 0x4C,
+	['i'] = 0x4D,
+	['j'] = 0x4E,
+	['k'] = 0x4F,
+	['l'] = 0x50,
+	['m'] = 0x51,
+	['n'] = 0x52,
+	['o'] = 0x53,
+	['p'] = 0x54,
+	['q'] = 0x55,
+	['r'] = 0x56,
+	['s'] = 0x57,
+	['t'] = 0x58,
+	['u'] = 0x59,
+	['v'] = 0x5A,
+	['w'] = 0x5B,
+	['x'] = 0x5C,
+	['y'] = 0x5D,
+	['z'] = 0x5E,
+	['!'] = 0x5F,
+	['?'] = 0x60,
+	['&'] = 0x61,
+	['%'] = 0x62,
+	['+'] = 0x63,
+	['-'] = 0x64,
+	['×'] = 0x65,
+	['/'] = 0x66,
+	['*'] = 0x67,
+	['.'] = 0x68,
+	[','] = 0x69,
+	['•'] = 0x6A,
+	[':'] = 0x6B,
+	[';'] = 0x6C,
+	['…'] = 0x6D,
+	['−'] = 0x6E,
+	['–'] = 0x6F,
+	['~'] = 0x70,
+	['\''] = 0x71,
+	['“'] = 0x72,
+	['„'] = 0x73,
+	['('] = 0x74,
+	[')'] = 0x75,
+	['['] = 0x76,
+	[']'] = 0x77,
+	['〈'] = 0x78,
+	['〉'] = 0x79,
+	['★'] = 0x7A,
+	['☆'] = 0x7B,
+	['↑'] = 0x7C,
+	['↓'] = 0x7D,
+	['→'] = 0x7E,
+	['←'] = 0x7F,
+	['●'] = 0x80,
+	['■'] = 0x81,
+	BATTLE_CONSUMABLE = 0x82,
+	MENU_CONSUMABLE = 0x83,
+	OTHER_ITEM = 0x84,
+	ABILTY_STARS = 0x85,
+	WEAPON_SORA = 0x86,
+	WEAPON_DONALD = 0x87,
+	WEAPON_GOOFY = 0x88,
+	ACCESSORY = 0x89,
+	MAGIC = 0x8A,
+	MICKY_MOUSE = 0x8B,
+	PS_CIRCLE = 0x8C,
+	PS_CROSS = 0x8D,
+	PS_TRIANGLE = 0x8E,
+	PS_SQUARE = 0x8F,
+	['ᐃ'] = 0x90,
+	['ᐁ'] = 0x91,
+	['ᐅ'] = 0x92,
+	['ᐊ'] = 0x93,
+	GUMMI_1 = 0x94,
+	GUMMI_2 = 0x95,
+	GUMMI_3 = 0x96,
+	GUMMI_4 = 0x97,
+	GUMMI_5 = 0x98,
+	GUMMI_6 = 0x99,
+	GUMMI_7 = 0x9A,
+	GUMMI_8 = 0x9B,
+	GUMMI_9 = 0x9C,
+	GUMMI_10 = 0x9D,
+	['▢'] = 0x9E,
+	WIDE_DIGIT_1 = 0x9F,
+	WIDE_DIGIT_2 = 0xA0,
+	WIDE_DIGIT_3 = 0xA1,
+	WIDE_DIGIT_4= 0xA2,
+	WIDE_DIGIT_5 = 0xA3,
+	WIDE_DIGIT_6 = 0xA4,
+	WIDE_DIGIT_7 = 0xA5,
+	WIDE_DIGIT_8 = 0xA6,
+	WIDE_DIGIT_9 = 0xA7,
+	['⋯'] = 0xA8,
+	['®'] = 0xA9,
+	['Ⅲ'] = 0xC4,
+	['Ⅶ'] = 0xC5,
+	['Ⅷ'] = 0xC6,
+	['Ⅹ'] = 0xC7,
+	['Œ'] = 0xC8,
+	['æ'] = 0xC9,
+	['¡'] = 0xCA,
+	['¿'] = 0xCB,
+	['À'] = 0xCC,
+	['Á'] = 0xCD,
+	['Â'] = 0xCE,
+	['Ä'] = 0xCF,
+	['Ç'] = 0xD0,
+	['È'] = 0xD1,
+	['É'] = 0xD2,
+	['Ê'] = 0xD3,
+	['Ë'] = 0xD4,
+	['Ì'] = 0xD5,
+	['Í'] = 0xD6,
+	['Î'] = 0xD7,
+	['Ï'] = 0xD8,
+	['Ñ'] = 0xD9,
+	['Ò'] = 0xDA,
+	['Ó'] = 0xDB,
+	['Ô'] = 0xDC,
+	['Ö'] = 0xDD,
+	['Ù'] = 0xDE,
+	['Ú'] = 0xDF,
+	['Û'] = 0xE0,
+	['Ü'] = 0xE1,
+	['ß'] = 0xE2,
+	['à'] = 0xE3,
+	['á'] = 0xE4,
+	['â'] = 0xE5,
+	['ä'] = 0xE6,
+	['ç'] = 0xE7,
+	['è'] = 0xE8,
+	['é'] = 0xE9,
+	['ê'] = 0xEA,
+	['ë'] = 0xEB,
+	['ì'] = 0xEC,
+	['í'] = 0xED,
+	['î'] = 0xEE,
+	['ï'] = 0xEF,
+	['ñ'] = 0xF0,
+	['ò'] = 0xF1,
+	['ó'] = 0xF2,
+	['ô'] = 0xF3,
+	['ö'] = 0xF4,
+	['ù'] = 0xF5,
+	['ú'] = 0xF6,
+	['û'] = 0xF7,
+	['ü'] = 0xF8,
+	['°'] = 0xF9,
+	['—'] = 0xFA,
+	['»'] = 0xFB,
+	['«'] = 0xFC,
+	NEW_PAGE = 0x0F01,
+}
+
+-- These are wrong. They are always loaded to these addresses, when the journal is opened, but these addresses are also used by something else, when it's closed => bugs and crashes
+local JournalEntries <const> = {
+	CHARACTERS = {
+		SORA_1 = {
+			ADDRESS = 0x1A5EDA4,
+			LENGTH = 210
+		},
+		SORA_2 = {
+			ADDRESS = 0x1A5EE7A,
+			LENGTH = 252
+		},
+		RIKU_1 = {
+			ADDRESS = 0x1A5EF79,
+			LENGTH = 232
+		},
+		RIKU_2 = {
+			ADDRESS = 0x1A5F064,
+			LENGTH = 291
+		},
+		RIKU_3 = {
+			ADDRESS = 0x1A5F18A,
+			LENGTH = 157
+		},
+		RIKU_4 = {
+			ADDRESS = 0x1A5F22A,
+			LENGTH = 269
+		},
+		KAIRI_1 = {
+			ADDRESS = 0x1A5F33A,
+			LENGTH = 226
+		},
+		KAIRI_2 = {
+			ADDRESS = 0x1A5F41F,
+			LENGTH = 289
+		},
+		MICKEY_MOUSE = {
+			ADDRESS = 0x1A5F543,
+			LENGTH = 288
+		},
+		DONALD_DUCK_1 = {
+			ADDRESS = 0x1A5F666,
+			LENGTH = 293
+		},
+		DONALD_DUCK_2 = {
+			ADDRESS = 0x1A5F78E,
+			LENGTH = 266
+		},
+		GOOFY_1 = {
+			ADDRESS = 0x1A5F89B,
+			LENGTH = 326
+		},
+		GOOFY_2 = {
+			ADDRESS = 0x1A5F9E4,
+			LENGTH = 295
+		},
+		MINNIE_MOUSE = {
+			ADDRESS = 0x1A5FB0E,
+			LENGTH = 303
+		},
+		DAISY_DUCK = {
+			ADDRESS = 0x1A5FC40,
+			LENGTH = 242
+		},
+		PLUTO = {
+			ADDRESS = 0x1A5FD35,
+			LENGTH = 262
+		},
+		CHIP = {
+			ADDRESS = 0x1A5FE3E,
+			LENGTH = 251
+		},
+		DALE = {
+			ADDRESS = 0x1A5FF3C,
+			LENGTH = 255
+		},
+		HUEY = {
+			ADDRESS = 0x1A6003E,
+			LENGTH = 232
+		},
+		DEWEY = {
+			ADDRESS = 0x1A60129,
+			LENGTH = 218
+		},
+		LOUIE = {
+			ADDRESS = 0x1A60206,
+			LENGTH = 261
+		},
+		MERLIN = {
+			ADDRESS = 0x1A6030E,
+			LENGTH = 330
+		},
+		FAIRY_GODMOTHER = {
+			ADDRESS = 0x1A6045B,
+			LENGTH = 310
+		},
+		PONGO = {
+			ADDRESS = 0x1A60594,
+			LENGTH = 234
+		},
+		PERDITA = {
+			ADDRESS = 0x1A60681,
+			LENGTH = 230
+		},
+		PUPPIES = {
+			ADDRESS = 0x1A6076A,
+			LENGTH = 261
+		},
+		BROOMS = {
+			ADDRESS = 0x1A60872,
+			LENGTH = 212
+		},
+		LEON = {
+			ADDRESS = 0x1A60949,
+			LENGTH = 388
+		},
+		YUFFIE = {
+			ADDRESS = 0x1A60AD0,
+			LENGTH = 239
+		},
+		AERITH = {
+			ADDRESS = 0x1A60BC2,
+			LENGTH = 277
+		},
+		CLOUD = {
+			ADDRESS = 0x1A60CDA,
+			LENGTH = 258
+		},
+		SEPHIROTH = {
+			ADDRESS = 0x1A60DDF,
+			LENGTH = 257
+		},
+		CID = {
+			ADDRESS = 0x1A60EE3,
+			LENGTH = 256
+		},
+		TIDUS = {
+			ADDRESS = 0x1A60FE6,
+			LENGTH = 206
+		},
+		SELPHIE = {
+			ADDRESS = 0x1A610B7,
+			LENGTH = 201
+		},
+		WAKKA = {
+			ADDRESS = 0x1A61183,
+			LENGTH = 194
+		},
+		MOOGLES = {
+			ADDRESS = 0x1A61248,
+			LENGTH = 167
+		},
+		ANSEM_1 = {
+			ADDRESS = 0x1A612F2,
+			LENGTH = 236
+		},
+		SNOW_WHITE = {
+			ADDRESS = 0x1A613E1,
+			LENGTH = 305
+		},
+		CINDERELLA = {
+			ADDRESS = 0x1A61515,
+			LENGTH = 299
+		},
+		AURORA = {
+			ADDRESS = 0x1A61643,
+			LENGTH = 244
+		},
+		BELLE = {
+			ADDRESS = 0x1A6173A,
+			LENGTH = 305
+		},
+		BEAST = {
+			ADDRESS = 0x1A6186E,
+			LENGTH = 280
+		},
+		MALEFICENT_1 = {
+			ADDRESS = 0x1A61989,
+			LENGTH = 228
+		},
+		MALEFICENT_2 = {
+			ADDRESS = 0x1A61A70,
+			LENGTH = 271
+		},
+		MALEFICENT_3 = {
+			ADDRESS = 0x1A61B82,
+			LENGTH = 274
+		},
+		DRAGON = {
+			ADDRESS = 0x1A61C97,
+			LENGTH = 252
+		},
+		ANSEM_2 = {
+			ADDRESS = 0x1A61D96,
+			LENGTH = 399
+		},
+		UNKNOWN = {
+			ADDRESS = 0x1A61F28,
+			LENGTH = 321
+		},
+		BAMBI = {
+			ADDRESS = 0x1A6206C,
+			LENGTH = 288
+		},
+		MUSHU = {
+			ADDRESS = 0x1A6218F,
+			LENGTH = 277
+		},
+		SIMBA = {
+			ADDRESS = 0x1A622A7,
+			LENGTH = 330
+		},
+		ALICE_1 = {
+			ADDRESS = 0x1A623F4,
+			LENGTH = 278
+		},
+		ALICE_2 = {
+			ADDRESS = 0x1A6250D,
+			LENGTH = 296
+		},
+		QUEEN_OF_HEARTS = {
+			ADDRESS = 0x1A62638,
+			LENGTH = 277
+		},
+		CARDS_HEARTS = {
+			ADDRESS = 0x1A62750,
+			LENGTH = 207
+		},
+		CARDS_SPADES = {
+			ADDRESS = 0x1A62822,
+			LENGTH = 212
+		},
+		WHITE_RABBIT = {
+			ADDRESS = 0x1A628F9,
+			LENGTH = 188
+		},
+		CHESHIRE_CAT = {
+			ADDRESS = 0x1A629B8,
+			LENGTH = 204
+		},
+		DOORKNOB = {
+			ADDRESS = 0x1A62A87,
+			LENGTH = 256
+		},
+		HERCULES = {
+			ADDRESS = 0x1A62B8A,
+			LENGTH = 217
+		},
+		PHILOCTETES = {
+			ADDRESS = 0x1A62C66,
+			LENGTH = 230
+		},
+		HADES_1 = {
+			ADDRESS = 0x1A62D4F,
+			LENGTH = 223
+		},
+		HADES_2 = {
+			ADDRESS = 0x1A62E31,
+			LENGTH = 247
+		},
+		CERBERUS = {
+			ADDRESS = 0x1A62F2B,
+			LENGTH = 223
+		},
+		ROCK_TITAN = {
+			ADDRESS = 0x1A6300D,
+			LENGTH = 235
+		},
+		ICE_TITAN = {
+			ADDRESS = 0x1A630FB,
+			LENGTH = 277
+		},
+		TARZAN = {
+			ADDRESS = 0x1A63213,
+			LENGTH = 260
+		},
+		JANE_PORTER = {
+			ADDRESS = 0x1A6331A,
+			LENGTH = 284
+		},
+		CLAYTON_1 = {
+			ADDRESS = 0x1A63439,
+			LENGTH = 256
+		},
+		CLAYTON_2 = {
+			ADDRESS = 0x1A6353C,
+			LENGTH = 288
+		},
+		TERK = {
+			ADDRESS = 0x1A6365F,
+			LENGTH = 277
+		},
+		KERCHAK = {
+			ADDRESS = 0x1A63777,
+			LENGTH = 279
+		},
+		KALA = {
+			ADDRESS = 0x1A63891,
+			LENGTH = 268
+		},
+		SABOR = {
+			ADDRESS = 0x1A639A0,
+			LENGTH = 213
+		},
+		ALADDIN_1 = {
+			ADDRESS = 0x1A63A78,
+			LENGTH = 276
+		},
+		ALADDIN_2 = {
+			ADDRESS = 0x1A63B8F,
+			LENGTH = 247
+		},
+		GENIE_1 = {
+			ADDRESS = 0x1A63C89,
+			LENGTH = 244
+		},
+		GENIE_2 = {
+			ADDRESS = 0x1A63D80,
+			LENGTH = 298
+		},
+		JASMINE_1 = {
+			ADDRESS = 0x1A63EAD,
+			LENGTH = 268
+		},
+		JASMINE_2 = {
+			ADDRESS = 0x1A63FBC,
+			LENGTH = 301
+		},
+		JAFAR_1 = {
+			ADDRESS = 0x1A640EC,
+			LENGTH = 209
+		},
+		JAFAR_2 = {
+			ADDRESS = 0x1A641C0,
+			LENGTH = 248
+		},
+		JAFAR_GENIE = {
+			ADDRESS = 0x1A642BB,
+			LENGTH = 253
+		},
+		ABU = {
+			ADDRESS = 0x1A643BB,
+			LENGTH = 254
+		},
+		IAGO = {
+			ADDRESS = 0x1A644BC,
+			LENGTH = 240
+		},
+		CARPET = {
+			ADDRESS = 0x1A645AF,
+			LENGTH = 234
+		},
+		PINOCCHIO_1 = {
+			ADDRESS = 0x1A6469C,
+			LENGTH = 312
+		},
+		PINOCCHIO_2 = {
+			ADDRESS = 0x1A647D7,
+			LENGTH = 294
+		},
+		GEPPETTO_1 = {
+			ADDRESS = 0x1A64900,
+			LENGTH = 262
+		},
+		GEPPETTO_2 = {
+			ADDRESS = 0x1A64A09,
+			LENGTH = 245
+		},
+		JIMINY_CRICKET = {
+			ADDRESS = 0x1A64B01,
+			LENGTH = 182
+		},
+		ARIEL_1 = {
+			ADDRESS = 0x1A64BBA,
+			LENGTH = 263
+		},
+		ARIEL_2 = {
+			ADDRESS = 0x1A64CC4,
+			LENGTH = 284
+		},
+		KING_TRITON = {
+			ADDRESS = 0x1A64DE3,
+			LENGTH = 242
+		},
+		URSULA_1 = {
+			ADDRESS = 0x1A64ED8,
+			LENGTH = 246
+		},
+		URSULA_2 = {
+			ADDRESS = 0x1A64FD1,
+			LENGTH = 212
+		},
+		SEBASTIAN = {
+			ADDRESS = 0x1A650A8,
+			LENGTH = 257
+		},
+		FLOUNDER = {
+			ADDRESS = 0x1A651AC,
+			LENGTH = 227
+		},
+		JETSAM = {
+			ADDRESS = 0x1A65292,
+			LENGTH = 281
+		},
+		FLOTSAM = {
+			ADDRESS = 0x1A653AE,
+			LENGTH = 281
+		},
+		JACK_SKELLINGTON = {
+			ADDRESS = 0x1A654CA,
+			LENGTH = 307
+		},
+		SALLY = {
+			ADDRESS = 0x1A65600,
+			LENGTH = 287
+		},
+		OOGIE_BOOGIE_1 = {
+			ADDRESS = 0x1A65722,
+			LENGTH = 287
+		},
+		OOGIE_BOOGIE_2 = {
+			ADDRESS = 0x1A65844,
+			LENGTH = 251
+		},
+		DR_FINKELSTEIN = {
+			ADDRESS = 0x1A65942,
+			LENGTH = 293
+		},
+		ZERO = {
+			ADDRESS = 0x1A65A6A,
+			LENGTH = 230
+		},
+		LOCK = {
+			ADDRESS = 0x1A65B53,
+			LENGTH = 297
+		},
+		SHOCK = {
+			ADDRESS = 0x1A65C7F,
+			LENGTH = 274
+		},
+		BARREL = {
+			ADDRESS = 0x1A65D94,
+			LENGTH = 234
+		},
+		THE_MAYOR = {
+			ADDRESS = 0x1A65E81,
+			LENGTH = 293
+		},
+		PETER_PAN = {
+			ADDRESS = 0x1A65FA9,
+			LENGTH = 264
+		},
+		TINKER_BELL_1 = {
+			ADDRESS = 0x1A660B4,
+			LENGTH = 284
+		},
+		TINKER_BELL_2 = {
+			ADDRESS = 0x1A661D3,
+			LENGTH = 306
+		},
+		WENDY = {
+			ADDRESS = 0x1A66308,
+			LENGTH = 239
+		},
+		CAPTAIN_HOOK_1 = {
+			ADDRESS = 0x1A663FA,
+			LENGTH = 326
+		},
+		CAPTAIN_HOOK_2 = {
+			ADDRESS = 0x1A66543,
+			LENGTH = 265
+		},
+		MR_SMEE = {
+			ADDRESS = 0x1A6664F,
+			LENGTH = 157
+		},
+		THE_CROCODILE = {
+			ADDRESS = 0x1A666EF,
+			LENGTH = 285
+		},
+		WINNIE_THE_POOH = {
+			ADDRESS = 0x1A6680F,
+			LENGTH = 292
+		},
+		PIGLET = {
+			ADDRESS = 0x1A66936,
+			LENGTH = 252
+		},
+		TIGGER = {
+			ADDRESS = 0x1A66A35,
+			LENGTH = 270
+		},
+		OWL = {
+			ADDRESS = 0x1A66B46,
+			LENGTH = 301
+		},
+		RABBIT = {
+			ADDRESS = 0x1A66C76,
+			LENGTH = 265
+		},
+		EEYORE = {
+			ADDRESS = 0x1A66D82,
+			LENGTH = 281
+		},
+		ROO = {
+			ADDRESS = 0x1A66E9E,
+			LENGTH = 224
+		}
+	},
+	HEARTLESS = {
+		SHADOW = {
+			ADDRESS = 0x1A66F81,
+			LENGTH = 184
+		},
+		GIGAS_SHADOW = {
+			ADDRESS = 0x1A6703C,
+			LENGTH = 229
+		},
+		SOLDIER = {
+			ADDRESS = 0x1A67124,
+			LENGTH = 214
+		},
+		STEALTH_SOLDIER = {
+			ADDRESS = 0x1A671FD,
+			LENGTH = 222
+		},
+		LARGE_BODY = {
+			ADDRESS = 0x1A672DE,
+			LENGTH = 181
+		},
+		RED_NOCTURNE = {
+			ADDRESS = 0x1A67396,
+			LENGTH = 211
+		},
+		BLUE_RHAPSODY = {
+			ADDRESS = 0x1A6746C,
+			LENGTH = 140
+		},
+		YELLOW_OPERA = {
+			ADDRESS = 0x1A674FB,
+			LENGTH = 145
+		},
+		GREEN_REQUIEM = {
+			ADDRESS = 0x1A6758F,
+			LENGTH = 171
+		},
+		BLACK_BALLADE = {
+			ADDRESS = 0x1A6763D,
+			LENGTH = 232
+		},
+		POWERWILD = {
+			ADDRESS = 0x1A67728,
+			LENGTH = 178
+		},
+		BOUNCYWILD = {
+			ADDRESS = 0x1A677DD,
+			LENGTH = 174
+		},
+		SNIPERWILD = {
+			ADDRESS = 0x1A6788E,
+			LENGTH = 201
+		},
+		AIR_SOLDIER = {
+			ADDRESS = 0x1A6795A,
+			LENGTH = 145
+		},
+		BANDIT = {
+			ADDRESS = 0x1A679EE,
+			LENGTH = 146
+		},
+		FAT_BANDIT = {
+			ADDRESS = 0x1A67A83,
+			LENGTH = 224
+		},
+		POT_SPIDER = {
+			ADDRESS = 0x1A67B66,
+			LENGTH = 144
+		},
+		BARREL_SPIDER = {
+			ADDRESS = 0x1A67BF9,
+			LENGTH = 142
+		},
+		POT_SCORPION = {
+			ADDRESS = 0x1A67C8A,
+			LENGTH = 238
+		},
+		SEARCH_GHOST = {
+			ADDRESS = 0x1A67D7B,
+			LENGTH = 179
+		},
+		GRAND_GHOST = {
+			ADDRESS = 0x1A67E31,
+			LENGTH = 216
+		},
+		SEA_NEON = {
+			ADDRESS = 0x1A67F0C,
+			LENGTH = 123
+		},
+		SHELTERING_ZONE = {
+			ADDRESS = 0x1A67F8A,
+			LENGTH = 220
+		},
+		SCREWDIVER = {
+			ADDRESS = 0x1A68069,
+			LENGTH = 181
+		},
+		AQUATANK = {
+			ADDRESS = 0x1A68121,
+			LENGTH = 165
+		},
+		WIGHT_KNIGHT = {
+			ADDRESS = 0x1A681C9,
+			LENGTH = 150
+		},
+		GARGOYLE = {
+			ADDRESS = 0x1A68262,
+			LENGTH = 220
+		},
+		CHIMERA = {
+			ADDRESS = 0x1A68341,
+			LENGTH = 263
+		},
+		PIRATE = {
+			ADDRESS = 0x1A6844B,
+			LENGTH = 192
+		},
+		AIR_PIRATE = {
+			ADDRESS = 0x1A6850E,
+			LENGTH = 179
+		},
+		BATTLESHIP = {
+			ADDRESS = 0x1A685C4,
+			LENGTH = 139
+		},
+		JET_BALLOON = {
+			ADDRESS = 0x1A68652,
+			LENGTH = 299
+		},
+		DARKBALL = {
+			ADDRESS = 0x1A68780,
+			LENGTH = 130
+		},
+		DEFENDER = {
+			ADDRESS = 0x1A68805,
+			LENGTH = 154
+		},
+		WYVERN = {
+			ADDRESS = 0x1A688A2,
+			LENGTH = 217
+		},
+		WIZARD = {
+			ADDRESS = 0x1A6897E,
+			LENGTH = 125
+		},
+		BEHEMOTH = {
+			ADDRESS = 0x1A689FE,
+			LENGTH = 221
+		},
+		DESTROYED_BEHEMOTH = {
+			ADDRESS = 0x1A68ADE,
+			LENGTH = 224
+		},
+		ARCH_BEHEMOTH = {
+			ADDRESS = 0x1A68BC1,
+			LENGTH = 164
+		},
+		INVISIBLE = {
+			ADDRESS = 0x1A68C68,
+			LENGTH = 231
+		},
+		ANGEL_STAR = {
+			ADDRESS = 0x1A68D52,
+			LENGTH = 204
+		},
+		NEOSHADOW = {
+			ADDRESS = 0x1A68E21,
+			LENGTH = 198
+		},
+		WHITE_MUSHROOM = {
+			ADDRESS = 0x1A68EEA,
+			LENGTH = 97
+		},
+		BLACK_FUNGUS = {
+			ADDRESS = 0x1A68F4E,
+			LENGTH = 141
+		},
+		RARE_TRUFFLE = {
+			ADDRESS = 0x1A68FDE,
+			LENGTH = 135
+		},
+		PINK_AGARICUS = {
+			ADDRESS = 0x1A69068,
+			LENGTH = 137
+		},
+		DARKSIDE = {
+			ADDRESS = 0x1A690F4,
+			LENGTH = 229
+		},
+		GUARD_ARMOR = {
+			ADDRESS = 0x1A691DC,
+			LENGTH = 218
+		},
+		RED_ARMOR = {
+			ADDRESS = 0x1A692B9,
+			LENGTH = 238
+		},
+		OPPOSITE_ARMOR = {
+			ADDRESS = 0x1A693AA,
+			LENGTH = 129
+		},
+		TRICKMASTER = {
+			ADDRESS = 0x1A6942E,
+			LENGTH = 160
+		},
+		STEALTH_SNEAK = {
+			ADDRESS = 0x1A694D1,
+			LENGTH = 156
+		},
+		SNEAK_ARMY = {
+			ADDRESS = 0x1A69570,
+			LENGTH = 242
+		},
+		POT_CENTIPEDE = {
+			ADDRESS = 0x1A69665,
+			LENGTH = 209
+		},
+		PARASITE_CAGE = {
+			ADDRESS = 0x1A69739,
+			LENGTH = 157
+		},
+		KURT_ZISA = {
+			ADDRESS = 0x1A697D9,
+			LENGTH = 217
+		},
+		PHANTOM = {
+			ADDRESS = 0x1A698B5,
+			LENGTH = 286
+		}
+	}
+}
+
 function GlobalConstants:GetItems()
 	return Items
 end
@@ -876,6 +1817,14 @@ end
 
 function GlobalConstants:GetWeaponModels()
 	return WeaponModels
+end
+
+function GlobalConstants:GetFont()
+	return Font
+end
+
+function GlobalConstants:GetJournalEntries()
+	return JournalEntries
 end
 
 return GlobalConstants

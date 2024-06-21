@@ -1,0 +1,792 @@
+{
+	"font": [
+		{
+			"id": 1,
+			"character": " "
+		},
+		{
+			"id": 2,
+			"character": "\n"
+		},
+		{
+			"id": 32,
+			"character": "▮"
+		},
+		{
+			"id": 33,
+			"character": "0"
+		},
+		{
+			"id": 34,
+			"character": "1"
+		},
+		{
+			"id": 35,
+			"character": "2"
+		},
+		{
+			"id": 36,
+			"character": "3"
+		},
+		{
+			"id": 37,
+			"character": "4"
+		},
+		{
+			"id": 38,
+			"character": "5"
+		},
+		{
+			"id": 39,
+			"character": "6"
+		},
+		{
+			"id": 40,
+			"character": "7"
+		},
+		{
+			"id": 41,
+			"character": "8"
+		},
+		{
+			"id": 42,
+			"character": "9"
+		},
+		{
+			"id": 43,
+			"character": "A"
+		},
+		{
+			"id": 44,
+			"character": "B"
+		},
+		{
+			"id": 45,
+			"character": "C"
+		},
+		{
+			"id": 46,
+			"character": "D"
+		},
+		{
+			"id": 47,
+			"character": "E"
+		},
+		{
+			"id": 48,
+			"character": "F"
+		},
+		{
+			"id": 49,
+			"character": "G"
+		},
+		{
+			"id": 50,
+			"character": "H"
+		},
+		{
+			"id": 51,
+			"character": "I"
+		},
+		{
+			"id": 52,
+			"character": "J"
+		},
+		{
+			"id": 53,
+			"character": "K"
+		},
+		{
+			"id": 54,
+			"character": "L"
+		},
+		{
+			"id": 55,
+			"character": "M"
+		},
+		{
+			"id": 56,
+			"character": "N"
+		},
+		{
+			"id": 57,
+			"character": "O"
+		},
+		{
+			"id": 58,
+			"character": "P"
+		},
+		{
+			"id": 59,
+			"character": "Q"
+		},
+		{
+			"id": 60,
+			"character": "R"
+		},
+		{
+			"id": 61,
+			"character": "S"
+		},
+		{
+			"id": 62,
+			"character": "T"
+		},
+		{
+			"id": 63,
+			"character": "U"
+		},
+		{
+			"id": 64,
+			"character": "V"
+		},
+		{
+			"id": 65,
+			"character": "W"
+		},
+		{
+			"id": 66,
+			"character": "X"
+		},
+		{
+			"id": 67,
+			"character": "Y"
+		},
+		{
+			"id": 68,
+			"character": "Z"
+		},
+		{
+			"id": 69,
+			"character": "a"
+		},
+		{
+			"id": 70,
+			"character": "b"
+		},
+		{
+			"id": 71,
+			"character": "c"
+		},
+		{
+			"id": 72,
+			"character": "d"
+		},
+		{
+			"id": 73,
+			"character": "e"
+		},
+		{
+			"id": 74,
+			"character": "f"
+		},
+		{
+			"id": 75,
+			"character": "g"
+		},
+		{
+			"id": 76,
+			"character": "h"
+		},
+		{
+			"id": 77,
+			"character": "i"
+		},
+		{
+			"id": 78,
+			"character": "j"
+		},
+		{
+			"id": 79,
+			"character": "k"
+		},
+		{
+			"id": 80,
+			"character": "l"
+		},
+		{
+			"id": 81,
+			"character": "m"
+		},
+		{
+			"id": 82,
+			"character": "n"
+		},
+		{
+			"id": 83,
+			"character": "o"
+		},
+		{
+			"id": 84,
+			"character": "p"
+		},
+		{
+			"id": 85,
+			"character": "q"
+		},
+		{
+			"id": 86,
+			"character": "r"
+		},
+		{
+			"id": 87,
+			"character": "s"
+		},
+		{
+			"id": 88,
+			"character": "t"
+		},
+		{
+			"id": 89,
+			"character": "u"
+		},
+		{
+			"id": 90,
+			"character": "v"
+		},
+		{
+			"id": 91,
+			"character": "w"
+		},
+		{
+			"id": 92,
+			"character": "x"
+		},
+		{
+			"id": 93,
+			"character": "y"
+		},
+		{
+			"id": 94,
+			"character": "z"
+		},
+		{
+			"id": 95,
+			"character": "!"
+		},
+		{
+			"id": 96,
+			"character": "?"
+		},
+		{
+			"id": 97,
+			"character": "&"
+		},
+		{
+			"id": 98,
+			"character": "%"
+		},
+		{
+			"id": 99,
+			"character": "+"
+		},
+		{
+			"id": 100,
+			"character": "-"
+		},
+		{
+			"id": 101,
+			"character": "×"
+		},
+		{
+			"id": 102,
+			"character": "/"
+		},
+		{
+			"id": 103,
+			"character": "*"
+		},
+		{
+			"id": 104,
+			"character": "."
+		},
+		{
+			"id": 105,
+			"character": ","
+		},
+		{
+			"id": 106,
+			"character": "•"
+		},
+		{
+			"id": 107,
+			"character": ":"
+		},
+		{
+			"id": 108,
+			"character": ";"
+		},
+		{
+			"id": 109,
+			"character": "…"
+		},
+		{
+			"id": 110,
+			"character": "−"
+		},
+		{
+			"id": 111,
+			"character": "–"
+		},
+		{
+			"id": 112,
+			"character": "~"
+		},
+		{
+			"id": 113,
+			"character": ""
+		},
+		{
+			"id": 114,
+			"character": "“"
+		},
+		{
+			"id": 115,
+			"character": "„"
+		},
+		{
+			"id": 116,
+			"character": "("
+		},
+		{
+			"id": 117,
+			"character": ")"
+		},
+		{
+			"id": 118,
+			"character": "["
+		},
+		{
+			"id": 119,
+			"character": "]"
+		},
+		{
+			"id": 120,
+			"character": "〈"
+		},
+		{
+			"id": 121,
+			"character": "〉"
+		},
+		{
+			"id": 122,
+			"character": "★"
+		},
+		{
+			"id": 123,
+			"character": "☆"
+		},
+		{
+			"id": 124,
+			"character": "↑"
+		},
+		{
+			"id": 125,
+			"character": "↓"
+		},
+		{
+			"id": 126,
+			"character": "→"
+		},
+		{
+			"id": 127,
+			"character": "←"
+		},
+		{
+			"id": 128,
+			"character": "●"
+		},
+		{
+			"id": 129,
+			"character": "■"
+		},
+		{
+			"id": 130,
+			"character": ""
+		},
+		{
+			"id": 131,
+			"character": ""
+		},
+		{
+			"id": 132,
+			"character": ""
+		},
+		{
+			"id": 133,
+			"character": ""
+		},
+		{
+			"id": 134,
+			"character": ""
+		},
+		{
+			"id": 135,
+			"character": ""
+		},
+		{
+			"id": 136,
+			"character": ""
+		},
+		{
+			"id": 137,
+			"character": ""
+		},
+		{
+			"id": 138,
+			"character": ""
+		},
+		{
+			"id": 139,
+			"character": ""
+		},
+		{
+			"id": 140,
+			"character": ""
+		},
+		{
+			"id": 141,
+			"character": ""
+		},
+		{
+			"id": 142,
+			"character": ""
+		},
+		{
+			"id": 143,
+			"character": ""
+		},
+		{
+			"id": 144,
+			"character": "ᐃ"
+		},
+		{
+			"id": 145,
+			"character": "ᐁ"
+		},
+		{
+			"id": 146,
+			"character": "ᐅ"
+		},
+		{
+			"id": 147,
+			"character": "ᐊ"
+		},
+		{
+			"id": 148,
+			"character": ""
+		},
+		{
+			"id": 149,
+			"character": ""
+		},
+		{
+			"id": 150,
+			"character": ""
+		},
+		{
+			"id": 151,
+			"character": ""
+		},
+		{
+			"id": 152,
+			"character": ""
+		},
+		{
+			"id": 153,
+			"character": ""
+		},
+		{
+			"id": 154,
+			"character": ""
+		},
+		{
+			"id": 155,
+			"character": ""
+		},
+		{
+			"id": 156,
+			"character": ""
+		},
+		{
+			"id": 157,
+			"character": "◷"
+		},
+		{
+			"id": 158,
+			"character": "▢"
+		},
+		{
+			"id": 159,
+			"character": "1"
+		},
+		{
+			"id": 160,
+			"character": "2"
+		},
+		{
+			"id": 161,
+			"character": "3"
+		},
+		{
+			"id": 162,
+			"character": "4"
+		},
+		{
+			"id": 163,
+			"character": "5"
+		},
+		{
+			"id": 164,
+			"character": "6"
+		},
+		{
+			"id": 165,
+			"character": "7"
+		},
+		{
+			"id": 166,
+			"character": "8"
+		},
+		{
+			"id": 167,
+			"character": "9"
+		},
+		{
+			"id": 168,
+			"character": "⋯"
+		},
+		{
+			"id": 169,
+			"character": "®"
+		},
+		{
+			"id": 196,
+			"character": "Ⅲ"
+		},
+		{
+			"id": 197,
+			"character": "Ⅶ"
+		},
+		{
+			"id": 198,
+			"character": "Ⅷ"
+		},
+		{
+			"id": 199,
+			"character": "Ⅹ"
+		},
+		{
+			"id": 200,
+			"character": "Œ"
+		},
+		{
+			"id": 201,
+			"character": "æ"
+		},
+		{
+			"id": 202,
+			"character": "¡"
+		},
+		{
+			"id": 203,
+			"character": "¿"
+		},
+		{
+			"id": 204,
+			"character": "À"
+		},
+		{
+			"id": 205,
+			"character": "Á"
+		},
+		{
+			"id": 206,
+			"character": "Â"
+		},
+		{
+			"id": 207,
+			"character": "Ä"
+		},
+		{
+			"id": 208,
+			"character": "Ç"
+		},
+		{
+			"id": 209,
+			"character": "È"
+		},
+		{
+			"id": 210,
+			"character": "É"
+		},
+		{
+			"id": 211,
+			"character": "Ê"
+		},
+		{
+			"id": 212,
+			"character": "Ë"
+		},
+		{
+			"id": 213,
+			"character": "Ì"
+		},
+		{
+			"id": 214,
+			"character": "Í"
+		},
+		{
+			"id": 215,
+			"character": "Î"
+		},
+		{
+			"id": 216,
+			"character": "Ï"
+		},
+		{
+			"id": 217,
+			"character": "Ñ"
+		},
+		{
+			"id": 218,
+			"character": "Ò"
+		},
+		{
+			"id": 219,
+			"character": "Ó"
+		},
+		{
+			"id": 220,
+			"character": "Ô"
+		},
+		{
+			"id": 221,
+			"character": "Ö"
+		},
+		{
+			"id": 222,
+			"character": "Ù"
+		},
+		{
+			"id": 223,
+			"character": "Ú"
+		},
+		{
+			"id": 224,
+			"character": "Û"
+		},
+		{
+			"id": 225,
+			"character": "Ü"
+		},
+		{
+			"id": 226,
+			"character": "ß"
+		},
+		{
+			"id": 227,
+			"character": "à"
+		},
+		{
+			"id": 228,
+			"character": "á"
+		},
+		{
+			"id": 229,
+			"character": "â"
+		},
+		{
+			"id": 230,
+			"character": "ä"
+		},
+		{
+			"id": 231,
+			"character": "ç"
+		},
+		{
+			"id": 232,
+			"character": "è"
+		},
+		{
+			"id": 233,
+			"character": "é"
+		},
+		{
+			"id": 234,
+			"character": "ê"
+		},
+		{
+			"id": 235,
+			"character": "ë"
+		},
+		{
+			"id": 236,
+			"character": "ì"
+		},
+		{
+			"id": 237,
+			"character": "í"
+		},
+		{
+			"id": 238,
+			"character": "î"
+		},
+		{
+			"id": 239,
+			"character": "ï"
+		},
+		{
+			"id": 240,
+			"character": "ñ"
+		},
+		{
+			"id": 241,
+			"character": "ò"
+		},
+		{
+			"id": 242,
+			"character": "ó"
+		},
+		{
+			"id": 243,
+			"character": "ô"
+		},
+		{
+			"id": 244,
+			"character": "ö"
+		},
+		{
+			"id": 245,
+			"character": "ù"
+		},
+		{
+			"id": 246,
+			"character": "ú"
+		},
+		{
+			"id": 247,
+			"character": "û"
+		},
+		{
+			"id": 248,
+			"character": "ü"
+		},
+		{
+			"id": 249,
+			"character": "°"
+		},
+		{
+			"id": 250,
+			"character": "—"
+		},
+		{
+			"id": 251,
+			"character": "»"
+		},
+		{
+			"id": 252,
+			"character": "«"
+		}
+	]
+}
