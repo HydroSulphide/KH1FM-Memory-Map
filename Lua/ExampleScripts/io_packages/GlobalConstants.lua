@@ -1,5 +1,7 @@
 GlobalConstants = {}
 
+local EpicOffset <const> = 0x253806C
+
 local Items <const> = {
 	NONE = 0x0,
 	POTION = 0x1,
@@ -1003,6 +1005,59 @@ local WeaponModels <const> = {
 	PETER_PAN_DAGGER_MODEL = "xw_pp_5000",
 	UNUSED_MODEL_3 = "xw_pc_5000",
 	UNUSED_MODEL_4 = "xw_nothing"
+}
+
+-- all floats, except mode id (byte)
+local Camera <const> = {
+	MODE_ID = 0x299BB08,
+	MAX_Y_ANGLE = 0x3EA384,
+	MIN_Y_ANGLE = 0x3EA3C8,
+	STANDARD = {
+		ROTATION_Y = 0x2538060,
+		LOCAL_OFFSET_X = 0x253806C,
+		LOCAL_OFFSET_Y = 0x2538070,
+		LOCAL_OFFSET_Z = 0x2538074,
+		SMOOTH_LOCAL_OFFSET_X = 0x2538078,
+		GLOBAL_OFFSET_X = 0x253807C
+	},
+	LOCK_ON = {
+		ROTATION_Y = 0x506DF4,
+		LOCAL_OFFSET_X = 0x506DF8,
+	},
+	CLIMB = {
+		ROTATION_Y = 0x506E14,
+		LOCAL_OFFSET_X = 0x506E18
+	},
+	HANG = {
+		ROTATION_Y = 0x506E34,
+		LOCAL_OFFSET_X = 0x506E38
+	},
+	POLE = {
+		ROTATION_Y = 0x506E54,
+		LOCAL_OFFSET_X = 0x506E58
+	},
+	WALL = {
+		LOCAL_OFFSET_Z = 0x506E84,
+		LOCAL_OFFSET_X = 0x506E88
+	},
+	SLIDE = {
+		LOCAL_OFFSET_X = 0x2DE9114
+	}
+}
+
+local CameraModes <const> = {
+	NONE = 0x0,
+	STANDARD = 0x1,
+	FIRST_PERSON_LOOK = 0x2,
+	LOCK_ON = 0x3,
+	CLIMB = 0x4,
+	HANG = 0x5,
+	POLE = 0x6,
+	FIXED_ROOM_ORIGIN = 0x7,
+	WALL = 0x8,
+	SMALL_ROOM = 0x9, -- accessory shop, aladdin's house etc.
+	POOH_BOOK = 0xA,
+	FIRST_PERSON_RUN = 0xB,
 }
 
 local Font <const> = {
@@ -2106,6 +2161,14 @@ end
 
 function GlobalConstants:GetWeaponModels()
 	return WeaponModels
+end
+
+function GlobalConstants:GetCamera()
+	return Camera
+end
+
+function GlobalConstants:GetCameraModes()
+	return CameraModes
 end
 
 function GlobalConstants:GetFont()
