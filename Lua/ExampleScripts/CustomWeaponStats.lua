@@ -21,13 +21,13 @@ end
 
 function _OnFrame()
 	if ReadInt(isSteamVersion) == 0x41455453 then
-		-- Sets Strength of Kindom Key to 14 like Ultima Weapon
+		-- Sets Strength of Kindom Key to 14 like Ultima
 		WriteByte(GlobalConstants:GetWeaponStatPointers().KINGDOM_KEY + GlobalConstants:GetWeaponStatOffsets().STRENGTH, 14)
 		-- Sets Critical Rate of Kindom Key to 200 like Wishing Star (always crititcal)
 		WriteByte(GlobalConstants:GetWeaponStatPointers().KINGDOM_KEY + GlobalConstants:GetWeaponStatOffsets().CRITICAL_RATE, 200)
 		-- Sets Critical Bonus of Kindom Key to 16 like One-Winged Angel
 		WriteByte(GlobalConstants:GetWeaponStatPointers().KINGDOM_KEY + GlobalConstants:GetWeaponStatOffsets().CRITICAL_BONUS, 16)
-		-- Sets Recoil of Kindom Key to 90 like Ultima Weapon
+		-- Sets Recoil of Kindom Key to 90 like Ultima
 		WriteByte(GlobalConstants:GetWeaponStatPointers().KINGDOM_KEY + GlobalConstants:GetWeaponStatOffsets().RECOIL, 90)
 		-- Sets MP of Kindom Key to 3 like Diamond Dust
 		WriteByte(GlobalConstants:GetWeaponStatPointers().KINGDOM_KEY + GlobalConstants:GetWeaponStatOffsets().MP, 3)
