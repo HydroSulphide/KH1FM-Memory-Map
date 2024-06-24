@@ -25,7 +25,8 @@ Guide to install LuaBackend and get Lua scripts to run on Steam Deck/Linux:
 * Navigate to the "/Documents/My Games/KINGDOM HEARTS HD 1.5+2.5 ReMIX" directory of the KINGDOM HEARTS HD 1.5+2.5 ReMIX proton prefix: (default location: "/home/deck/.local/share/Steam/steamapps/compatdata/2552430/pfx_drive/users/steamuser/Documents/My Games/KINGDOM HEARTS HD 1.5+2.5 ReMIX")
 * Inside this folder create a directory "scripts" and inside that directory create a directory called "kh1"
 * Place your scripts inside this directory (default location: "/home/deck/.local/share/Steam/steamapps/compatdata/2552430/pfx_drive/users/steamuser/Documents/My Games/KINGDOM HEARTS HD 1.5+2.5 ReMIX/scripts/kh1")
-* Open steam and navigate to "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-" in your library and set following launch options (found in settings->properties->general->launch options): WINEDLLOVERRIDES="dinput8=n,b" %command%
+* Open steam and navigate to "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-" in your library and set following launch options (found in settings->properties->general->launch options): 
+```WINEDLLOVERRIDES="dinput8=n,b" %command%```
 This step is needed so that our dinput8.dll we copied before is used instead of the native one installed in the proton prefix
 
 If you don't want to navigate to the scripts folder inside the prefix every time you install a script, you can define a custom path inside the LuaBackend.toml, that is not relative to the Documents folder inside the prefix. For example:
