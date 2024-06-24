@@ -1,7 +1,5 @@
 GlobalConstants = {}
 
-local EpicOffset <const> = 0x253806C
-
 local Items <const> = {
 	NONE = 0x0,
 	POTION = 0x1,
@@ -410,6 +408,31 @@ local Magic <const> = {
 	GRAVITY = 0x4,
 	STOP = 0x5,
 	AERO = 0x6
+}
+
+-- Gravity is percentage value, Stop and Aero is duration in seconds
+local MacigDamage <const> = {
+	FIRE = 0x2D28CB0,
+	FIRA = 0x2D28D20,
+	FIRAGA = 0x2D28D90,
+	BLIZZARD = 0x2D28E00,
+	BLIZZARA = 0x2D28E70,
+	BLIZZAGA = 0x2D28EE0,
+	THUNDER = 0x2D28F50,
+	THUNDARA = 0x2D28FC0,
+	THUNDAGA = 0x2D29030,
+	CURE = 0x2D290A0,
+	CURA = 0x2D29110,
+	CURAGA = 0x2D29180,
+	GRAVITY = 0x2D291F0,
+	GRAVIRA = 0x2D29260,
+	GRAVIGA = 0x2D292D0,
+	STOP = 0x2D29340,
+	STOPRA = 0x2D293B0,
+	STOPGA = 0x2D29420,
+	AERO = 0x2D2945C,
+	AERORA = 0x2D294CC,
+	AEROGA = 0x2D2953C,
 }
 
 local Abilities <const> = {
@@ -2175,6 +2198,10 @@ end
 
 function GlobalConstants:GetMagic()
 	return Magic
+end
+
+function GlobalConstants:GetMacigDamage()
+	return MacigDamage
 end
 
 function GlobalConstants:GetActions()
