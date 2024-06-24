@@ -6,7 +6,7 @@ require("GlobalConstants")
 
 local isSteamVersion = 0x232DD64
 
-local gummiStartAddress = 0x2DF51DC
+local gummiStartAddress = 0x2DF51D8
 local amount = 99
 
 
