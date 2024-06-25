@@ -85,6 +85,48 @@ local CharacterStatOffsets <const> = {
 	UNLOCK_MAGIC = 0x71 -- Bitmap: lsb is fire
 }
 
+local StartChoice <const> = {
+	WEAPON = 0x2DE97EC, -- 0 = Sword, 1 = Shield, 2 = Rod
+	BASE_STATS = {
+		SWORD_SHIELD = {
+			STRENGTH = 0x2D22E68,
+			DEFENSE = 0x2D22E69,
+			MP = 0x2D22E6A,
+			AP = 0x2D22E6B
+		},
+		SWORD_ROD = {
+			STRENGTH = 0x2D22E6C,
+			DEFENSE = 0x2D22E6D,
+			MP = 0x2D22E6E,
+			AP = 0x2D22E6F
+		},
+		SHIELD_SWORD = {
+			STRENGTH = 0x2D22E70,
+			DEFENSE = 0x2D22E71,
+			MP = 0x2D22E72,
+			AP = 0x2D22E73
+		},
+		SHIELD_ROD = {
+			STRENGTH = 0x2D22E74,
+			DEFENSE = 0x2D22E75,
+			MP = 0x2D22E76,
+			AP = 0x2D22E77
+		},
+		ROD_SWORD = {
+			STRENGTH = 0x2D22E78,
+			DEFENSE = 0x2D22E79,
+			MP = 0x2D22E7A,
+			AP = 0x2D22E7B
+		},
+		ROD_SHIELD = {
+			STRENGTH = 0x2D22E7C,
+			DEFENSE = 0x2D22E7D,
+			MP = 0x2D22E7E,
+			AP = 0x2D22E7F
+		}
+	}
+}
+
 local Items <const> = {
 	NONE = 0x0,
 	POTION = 0x1,
@@ -659,6 +701,14 @@ local Abilities <const> = {
 	COMBO_MASTER_UNEQUIPPED = 0xC1
 }
 
+local AbilityLevelUpPointers <const> = {
+	SORA_SWORD = 0x2D26866,
+	SORA_SHIELD = 0x2D268CE,
+	SORA_ROD = 0x2D26938,
+	DONALD = 0x2D26C5D,
+	GOOFY = 0x2D26DF6
+}
+
 local MPCosts <const> = {
 	FIRE = 0x2D28C98,
 	FIRA = 0x2D28D08,
@@ -1026,7 +1076,7 @@ local WeaponStatPointers <const> = {
 	DREAM_SHIELD = 0x2D2C2E8,
 	DREAM_ROD = 0x2D2C340,
 	WOODEN_SWORD = 0x2D2C398,
-	JUNGLE_KING = 0x2D2C23F0,
+	JUNGLE_KING = 0x2D2C3F0,
 	THREE_WISHES = 0x2D2C448,
 	FAIRY_HARP = 0x2D2C4A0,
 	PUMPKINHEAD = 0x2D2C4F8,
@@ -2277,12 +2327,18 @@ local JournalEntries <const> = {
 	}
 }
 
+
+
 function GlobalConstants:GetCharacterStatPointers()
 	return CharacterStatPointers
 end
 
 function GlobalConstants:GetCharacterStatOffsets()
 	return CharacterStatOffsets
+end
+
+function GlobalConstants:GetStartChoice()
+	return StartChoice
 end
 
 function GlobalConstants:GetItems()
@@ -2307,6 +2363,10 @@ end
 
 function GlobalConstants:GetAbilities()
 	return Abilities
+end
+
+function GlobalConstants:GetAbilityLevelUpPointers()
+	return AbilityLevelUpPointers
 end
 
 function GlobalConstants:GetMPCosts()
