@@ -10,10 +10,10 @@ This repository is an very early stage and will be improved over time by communi
 
 # Example Scripts
 
-All example lua scripts in this repo and the wiki require [LuaBackend v1.7.3-hook](https://github.com/Sirius902/LuaBackend/releases/tag/v1.7.3-hook) installed.
+All example lua scripts in this repo and the wiki require [LuaBackend Hook](https://github.com/Sirius902/LuaBackend/releases) installed.
 Make sure your LuaBackend.toml file looks like [this](https://github.com/HydroSulphide/KH1FM-Memory-Map/blob/main/Lua/LuaBackend/LuaBackend.toml)
 
-Most scripts will use constants defined in module [Lua/ExampleScripts/io_packages/GlobalConstants.lua](https://github.com/HydroSulphide/KH1FM-Memory-Map/blob/main/Lua/ExampleScripts/io_packages/GlobalConstants.lua)
+Most scripts will use constants defined in module [GlobalConstants.lua](https://github.com/HydroSulphide/KH1FM-Memory-Map/blob/main/Lua/ExampleScripts/io_packages/GlobalConstants.lua)
 Just add this io_packages folder to the directory, where your lua scripts are located.
 
 # Steam Deck

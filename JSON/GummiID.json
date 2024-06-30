@@ -1,627 +1,644 @@
 {
 	"gummi": [
+
 		{
 			"id": 0,
-			"name": "Fire-G"
+			"name": "Cure-G"
 		},
 		{
 			"id": 1,
-			"name": "Fira-G"
+			"name": "Curaga-G"
 		},
 		{
 			"id": 2,
-			"name": "Firaga-G"
+			"name": "Life-G"
 		},
 		{
 			"id": 3,
-			"name": "Flare-G"
+			"name": "Full-Life-G"
 		},
 		{
 			"id": 4,
-			"name": "Holy-G"
+			"name": "Fire-G"
 		},
 		{
 			"id": 5,
-			"name": "Protect-G 1"
+			"name": "Fira-G"
 		},
 		{
 			"id": 6,
-			"name": "Protect-G 2"
+			"name": "Firaga-G"
 		},
 		{
 			"id": 7,
-			"name": "Protect-G 3"
+			"name": "Flare-G"
 		},
 		{
 			"id": 8,
-			"name": "Protect-G 4"
+			"name": "Holy-G"
 		},
 		{
 			"id": 9,
-			"name": "Protect-G 5"
+			"name": "Protect-G 1"
 		},
 		{
 			"id": 10,
-			"name": "Protect-G 6"
+			"name": "Protect-G 2"
 		},
 		{
 			"id": 11,
-			"name": "Protect-G 7"
+			"name": "Protect-G 3"
 		},
 		{
 			"id": 12,
-			"name": "Protect-G 8"
+			"name": "Protect-G 4"
 		},
 		{
 			"id": 13,
-			"name": "Shell-G 1"
+			"name": "Protect-G 5"
 		},
 		{
 			"id": 14,
-			"name": "Shell-G 2"
+			"name": "Protect-G 6"
 		},
 		{
 			"id": 15,
-			"name": "Shell-G 3"
+			"name": "Protect-G 7"
 		},
 		{
 			"id": 16,
-			"name": "Shell-G 4"
+			"name": "Protect-G 8"
 		},
 		{
 			"id": 17,
-			"name": "Shell-G 5"
+			"name": "Shell-G 1"
 		},
 		{
 			"id": 18,
-			"name": "Shell-G 6"
+			"name": "Shell-G 2"
 		},
 		{
 			"id": 19,
-			"name": "Shell-G 7"
+			"name": "Shell-G 3"
 		},
 		{
 			"id": 20,
-			"name": "Shell-G 8"
+			"name": "Shell-G 4"
 		},
 		{
 			"id": 21,
-			"name": "Dispel-G 1"
+			"name": "Shell-G 5"
 		},
 		{
 			"id": 22,
-			"name": "Dispel-G 2"
+			"name": "Shell-G 6"
 		},
 		{
 			"id": 23,
-			"name": "Dispel-G 3"
+			"name": "Shell-G 7"
 		},
 		{
 			"id": 24,
-			"name": "Dispel-G 4"
+			"name": "Shell-G 8"
 		},
 		{
 			"id": 25,
-			"name": "Dispel-G 5"
+			"name": "Dispel-G 1"
 		},
 		{
 			"id": 26,
-			"name": "Dispel-G 6"
+			"name": "Dispel-G 2"
 		},
 		{
 			"id": 27,
-			"name": "Dispel-G 7"
+			"name": "Dispel-G 3"
 		},
 		{
 			"id": 28,
-			"name": "Dispel-G 8"
+			"name": "Dispel-G 4"
 		},
 		{
 			"id": 29,
-			"name": "Aerora-G 1"
+			"name": "Dispel-G 5"
 		},
 		{
 			"id": 30,
-			"name": "Aerora-G 2"
+			"name": "Dispel-G 6"
 		},
 		{
 			"id": 31,
-			"name": "Aerora-G 3"
+			"name": "Dispel-G 7"
 		},
 		{
 			"id": 32,
-			"name": "Aerora-G 4"
+			"name": "Dispel-G 8"
 		},
 		{
 			"id": 33,
-			"name": "Tornado-G 1"
+			"name": "Aerora-G 1"
 		},
 		{
 			"id": 34,
-			"name": "Tornado-G 2"
+			"name": "Aerora-G 2"
 		},
 		{
 			"id": 35,
-			"name": "Float-G 1"
+			"name": "Aerora-G 3"
 		},
 		{
 			"id": 36,
-			"name": "Aero-G 1"
+			"name": "Aerora-G 4"
 		},
 		{
 			"id": 37,
-			"name": "Aero-G 2"
+			"name": "Tornado-G 1"
 		},
 		{
 			"id": 38,
-			"name": "Aero-G 3"
+			"name": "Tornado-G 2"
 		},
 		{
 			"id": 39,
-			"name": "Aero-G 4"
+			"name": "Float-G 1"
 		},
 		{
 			"id": 40,
-			"name": "Drain-G 1"
+			"name": "Aero-G 1"
 		},
 		{
 			"id": 41,
-			"name": "Drain-G 2"
+			"name": "Aero-G 2"
 		},
 		{
 			"id": 42,
-			"name": "Osmose-G 1"
+			"name": "Aero-G 3"
 		},
 		{
 			"id": 43,
-			"name": "Osmose-G 2"
+			"name": "Aero-G 4"
 		},
 		{
 			"id": 44,
-			"name": "Transform-G"
+			"name": "Drain-G 1"
 		},
 		{
 			"id": 45,
-			"name": "Warp-G"
+			"name": "Drain-G 2"
 		},
 		{
 			"id": 46,
-			"name": "Scan-G 1"
+			"name": "Osmose-G 1"
 		},
 		{
 			"id": 47,
-			"name": "Scan-G 2"
+			"name": "Osmose-G 2"
 		},
 		{
 			"id": 48,
-			"name": "Haste-G"
+			"name": "Transform-G"
 		},
 		{
 			"id": 49,
-			"name": "Haste2-G "
+			"name": "Warp-G"
 		},
 		{
 			"id": 50,
-			"name": "Shield-G"
+			"name": "Scan-G 1"
 		},
 		{
 			"id": 51,
-			"name": "Shield2-G"
+			"name": "Scan-G 2"
 		},
 		{
 			"id": 52,
-			"name": "Esuna-G 1"
+			"name": "Haste-G"
 		},
 		{
 			"id": 53,
-			"name": "Esuna-G 2"
+			"name": "Haste2-G "
 		},
 		{
 			"id": 54,
-			"name": "Thunder-G"
+			"name": "Shield-G"
 		},
 		{
 			"id": 55,
-			"name": "Thundara-G"
+			"name": "Shield2-G"
 		},
 		{
 			"id": 56,
-			"name": "Thundaga-G"
+			"name": "Esuna-G 1"
 		},
 		{
 			"id": 57,
-			"name": "Comet-G"
+			"name": "Esuna-G 2"
 		},
 		{
 			"id": 58,
-			"name": "Meteor-G"
+			"name": "Thunder-G"
 		},
 		{
 			"id": 59,
-			"name": "Ultima-G"
+			"name": "Thundara-G"
 		},
 		{
 			"id": 60,
-			"name": "Spray"
+			"name": "Thundaga-G"
 		},
 		{
 			"id": 61,
-			"name": "Palette"
+			"name": "Comet-G"
 		},
 		{
 			"id": 62,
-			"name": "SYS. UP1"
+			"name": "Meteor-G"
 		},
 		{
 			"id": 63,
-			"name": "SYS. UP2"
+			"name": "Ultima-G"
 		},
 		{
 			"id": 64,
-			"name": "COM. LV1"
+			"name": "Spray"
 		},
 		{
 			"id": 65,
-			"name": "COM. LV2"
+			"name": "Palette"
 		},
 		{
 			"id": 66,
-			"name": "COM. LV3"
+			"name": "SYS. UP1"
 		},
 		{
 			"id": 67,
-			"name": "Kingdom"
+			"name": "SYS. UP2"
 		},
 		{
 			"id": 68,
-			"name": "Hyperion"
+			"name": "COM. LV1"
 		},
 		{
 			"id": 69,
-			"name": "Gepetto"
+			"name": "COM. LV2"
 		},
 		{
 			"id": 70,
-			"name": "Cid"
+			"name": "COM. LV3"
 		},
 		{
 			"id": 71,
-			"name": "Leon"
+			"name": "Kingdom"
 		},
 		{
 			"id": 72,
-			"name": "Yuffie"
+			"name": "Hyperion"
 		},
 		{
 			"id": 73,
-			"name": "Aerith"
+			"name": "Gepetto"
 		},
 		{
 			"id": 74,
-			"name": "Cactuar"
+			"name": "Cid"
 		},
 		{
 			"id": 75,
-			"name": "Chocobo"
+			"name": "Leon"
 		},
 		{
 			"id": 76,
-			"name": "Cindy"
+			"name": "Yuffie"
 		},
 		{
 			"id": 77,
-			"name": "Shiva"
+			"name": "Aerith"
 		},
 		{
 			"id": 78,
-			"name": "Lamia"
+			"name": "Cactuar"
 		},
 		{
 			"id": 79,
-			"name": "Sandy"
+			"name": "Chocobo"
 		},
 		{
 			"id": 80,
-			"name": "Sylph"
+			"name": "Cindy"
 		},
 		{
 			"id": 81,
-			"name": "Carbuncle"
+			"name": "Shiva"
 		},
 		{
 			"id": 82,
-			"name": "Mindy"
+			"name": "Lamia"
 		},
 		{
 			"id": 83,
-			"name": "Goblin"
+			"name": "Sandy"
 		},
 		{
 			"id": 84,
-			"name": "Bomb"
+			"name": "Sylph"
 		},
 		{
 			"id": 85,
-			"name": "Remora"
+			"name": "Carbuncle"
 		},
 		{
 			"id": 86,
-			"name": "Ahriman"
+			"name": "Mindy"
 		},
 		{
 			"id": 87,
-			"name": "Imp"
+			"name": "Goblin"
 		},
 		{
 			"id": 88,
-			"name": "Siren"
+			"name": "Bomb"
 		},
 		{
 			"id": 89,
-			"name": "Stingray"
+			"name": "Remora"
 		},
 		{
 			"id": 90,
-			"name": "Catoblepas"
+			"name": "Ahriman"
 		},
 		{
 			"id": 91,
-			"name": "Adamant"
+			"name": "Imp"
 		},
 		{
 			"id": 92,
-			"name": "Serpent"
+			"name": "Siren"
 		},
 		{
 			"id": 93,
-			"name": "Ifrit"
+			"name": "Stingray"
 		},
 		{
 			"id": 94,
-			"name": "Odin"
+			"name": "Catoblepas"
 		},
 		{
 			"id": 95,
-			"name": "Atomos"
+			"name": "Adamant"
 		},
 		{
 			"id": 96,
-			"name": "Golem"
+			"name": "Serpent"
 		},
 		{
 			"id": 97,
-			"name": "Diablos"
+			"name": "Ifrit"
 		},
 		{
 			"id": 98,
-			"name": "Deathguise"
+			"name": "Odin"
 		},
 		{
 			"id": 99,
-			"name": "Typhoon"
+			"name": "Atomos"
 		},
 		{
 			"id": 100,
-			"name": "Alexander"
+			"name": "Golem"
 		},
 		{
 			"id": 101,
-			"name": "Leviathan"
+			"name": "Diablos"
 		},
 		{
 			"id": 102,
-			"name": "Ramuh"
+			"name": "Deathguise"
 		},
 		{
 			"id": 103,
-			"name": "Omega"
+			"name": "Typhoon"
 		},
 		{
 			"id": 104,
-			"name": "Moogles"
+			"name": "Alexander"
 		},
 		{
 			"id": 105,
-			"name": "Valefor"
+			"name": "Leviathan"
 		},
 		{
 			"id": 106,
-			"name": "PuPu"
+			"name": "Ramuh"
 		},
 		{
 			"id": 107,
-			"name": "Cerberus"
+			"name": "Omega"
 		},
 		{
 			"id": 108,
-			"name": "Tonberry"
+			"name": "Moogles"
 		},
 		{
 			"id": 109,
-			"name": "Pandaemonium"
+			"name": "Valefor"
 		},
 		{
 			"id": 110,
-			"name": "Ixion"
+			"name": "PuPu"
 		},
 		{
 			"id": 111,
-			"name": "Gilgamesh"
+			"name": "Cerberus"
 		},
 		{
 			"id": 112,
-			"name": "Phoenix"
+			"name": "Tonberry"
 		},
 		{
 			"id": 113,
-			"name": "Eden"
+			"name": "Pandaemonium"
 		},
 		{
 			"id": 114,
-			"name": "Bahamut"
+			"name": "Ixion"
 		},
 		{
 			"id": 115,
-			"name": "Unused Cure-G 1"
+			"name": "Gilgamesh"
 		},
 		{
 			"id": 116,
-			"name": "Unused Cure-G 2"
+			"name": "Phoenix"
 		},
 		{
 			"id": 117,
-			"name": "Unused Cure-G 3"
+			"name": "Eden"
 		},
 		{
 			"id": 118,
-			"name": "Unused Cure-G 4"
+			"name": "Bahamut"
 		},
 		{
 			"id": 119,
-			"name": "Unused Cure-G 5"
+			"name": "Unused Cure-G 1"
 		},
 		{
 			"id": 120,
-			"name": "Unused Cure-G 6"
+			"name": "Unused Cure-G 2"
 		},
 		{
 			"id": 121,
-			"name": "Unused Cure-G 7"
+			"name": "Unused Cure-G 3"
 		},
 		{
 			"id": 122,
-			"name": "Unused Cure-G 8"
+			"name": "Unused Cure-G 4"
 		},
 		{
 			"id": 123,
-			"name": "Unused Cure-G 9"
+			"name": "Unused Cure-G 5"
 		},
 		{
 			"id": 124,
-			"name": "Wheel-G"
+			"name": "Unused Cure-G 6"
 		},
 		{
 			"id": 125,
-			"name": "Fang-G"
+			"name": "Unused Cure-G 7"
 		},
 		{
 			"id": 126,
-			"name": "Horn-G"
+			"name": "Unused Cure-G 8"
 		},
 		{
 			"id": 127,
-			"name": "Angel-G"
+			"name": "Unused Cure-G 9"
 		},
 		{
 			"id": 128,
-			"name": "Dark-G"
+			"name": "Wheel-G"
 		},
 		{
 			"id": 129,
-			"name": "Shoes-G"
+			"name": "Fang-G"
 		},
 		{
 			"id": 130,
-			"name": "Rock-G 1"
+			"name": "Horn-G"
 		},
 		{
 			"id": 131,
-			"name": "Rock-G 2"
+			"name": "Angel-G"
 		},
 		{
 			"id": 132,
-			"name": "Scissors-G 1"
+			"name": "Dark-G"
 		},
 		{
 			"id": 133,
-			"name": "Scissors-G 2"
+			"name": "Shoes-G"
 		},
 		{
 			"id": 134,
-			"name": "Paper-G 1"
+			"name": "Rock-G 1"
 		},
 		{
 			"id": 135,
-			"name": "Paper-G 2"
+			"name": "Rock-G 2"
 		},
 		{
 			"id": 136,
-			"name": "Crown-G"
+			"name": "Scissors-G 1"
 		},
 		{
 			"id": 137,
-			"name": "Drill-G"
+			"name": "Scissors-G 2"
 		},
 		{
 			"id": 138,
-			"name": "Caterpillar-G 1"
+			"name": "Paper-G 1"
 		},
 		{
 			"id": 139,
-			"name": "Caterpillar-G 2"
+			"name": "Paper-G 2"
 		},
 		{
 			"id": 140,
-			"name": "Unused Cure-G 10"
+			"name": "Crown-G"
 		},
 		{
 			"id": 141,
-			"name": "Unused Cure-G 11"
+			"name": "Drill-G"
 		},
 		{
 			"id": 142,
-			"name": "Unused Cure-G 12"
+			"name": "Caterpillar-G 1"
 		},
 		{
 			"id": 143,
-			"name": "Unused Cure-G 13"
+			"name": "Caterpillar-G 2"
 		},
 		{
 			"id": 144,
-			"name": "Unused Cure-G 14"
+			"name": "Unused Cure-G 10"
 		},
 		{
 			"id": 145,
-			"name": "Unused Cure-G 15"
+			"name": "Unused Cure-G 11"
 		},
 		{
 			"id": 146,
-			"name": "Unused Cure-G 16"
+			"name": "Unused Cure-G 12"
 		},
 		{
 			"id": 147,
-			"name": "Unused Cure-G 17"
+			"name": "Unused Cure-G 13"
 		},
 		{
 			"id": 148,
-			"name": "Unused Cure-G 18"
+			"name": "Unused Cure-G 14"
 		},
 		{
 			"id": 149,
-			"name": "Unused Cure-G 19"
+			"name": "Unused Cure-G 15"
 		},
 		{
 			"id": 150,
-			"name": "Unused Cure-G 20"
+			"name": "Unused Cure-G 16"
 		},
 		{
 			"id": 151,
-			"name": "Unused Cure-G 21"
+			"name": "Unused Cure-G 17"
 		},
 		{
 			"id": 152,
-			"name": "Unused Cure-G 22"
+			"name": "Unused Cure-G 18"
 		},
 		{
 			"id": 153,
-			"name": "Unused Cure-G 23"
+			"name": "Unused Cure-G 19"
 		},
 		{
 			"id": 154,
-			"name": "Unused Cure-G 24"
+			"name": "Unused Cure-G 20"
 		},
 		{
 			"id": 155,
+			"name": "Unused Cure-G 21"
+		},
+		{
+			"id": 156,
+			"name": "Unused Cure-G 22"
+		},
+		{
+			"id": 157,
+			"name": "Unused Cure-G 23"
+		},
+		{
+			"id": 158,
+			"name": "Unused Cure-G 24"
+		},
+		{
+			"id": 159,
 			"name": "Unused Cure-G 25"
 		}
 	]
