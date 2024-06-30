@@ -9474,6 +9474,468 @@
         </CheatEntry>
       </CheatEntries>
     </CheatEntry>
+    <CheatEntry>
+      <ID>1529</ID>
+      <Description>"AP Cost"</Description>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1484</ID>
+          <Description>"AP Cost: High Jump"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26118</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1483</ID>
+          <Description>"AP Cost: Mermaid Kick"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26124</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1482</ID>
+          <Description>"AP Cost: Glide"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26130</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1481</ID>
+          <Description>"AP Cost: Superglide"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2613C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1480</ID>
+          <Description>"AP Cost: Treasure Magnet"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26148</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1479</ID>
+          <Description>"AP Cost: Combo Plus"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26154</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1478</ID>
+          <Description>"AP Cost: Air Combo Plus"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26160</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1477</ID>
+          <Description>"AP Cost: Critical Plus"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2616C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1476</ID>
+          <Description>"AP Cost: Second Wind"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26178</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1475</ID>
+          <Description>"AP Cost: Scan"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26184</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1474</ID>
+          <Description>"AP Cost: Sonic Blade"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26190</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1473</ID>
+          <Description>"AP Cost: Ars Arcanum"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2619C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1472</ID>
+          <Description>"AP Cost: Strike Raid"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D261A8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1471</ID>
+          <Description>"AP Cost: Ragnarok"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D261B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1470</ID>
+          <Description>"AP Cost: Trinity Limit"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D261C0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1469</ID>
+          <Description>"AP Cost: Cheer"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D261CC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1468</ID>
+          <Description>"AP Cost: Vortex"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D261D8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1467</ID>
+          <Description>"AP Cost: Aerial Sweep"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D261E4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1466</ID>
+          <Description>"AP Cost: Counter Attack"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D261F0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1465</ID>
+          <Description>"AP Cost: Blitz"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D261FC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1462</ID>
+          <Description>"AP Cost: Guard"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26208</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1485</ID>
+          <Description>"AP Cost: Dodge Roll"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26214</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1486</ID>
+          <Description>"AP Cost: MP Haste"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26220</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1487</ID>
+          <Description>"AP Cost: MP Rage"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2622C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1488</ID>
+          <Description>"AP Cost: Second Chance"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26238</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1489</ID>
+          <Description>"AP Cost: Berserk"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26244</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1490</ID>
+          <Description>"AP Cost: Jackpot"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26250</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1491</ID>
+          <Description>"AP Cost: Lucky Strike"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2625C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1492</ID>
+          <Description>"AP Cost: Charge"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26268</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1493</ID>
+          <Description>"AP Cost: Rocket"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26274</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1494</ID>
+          <Description>"AP Cost: Tornado"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26280</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1495</ID>
+          <Description>"AP Cost: MP Gift"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2628C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1496</ID>
+          <Description>"AP Cost: Raging Roar"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26298</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1497</ID>
+          <Description>"AP Cost: Asp's Bite"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D262A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1498</ID>
+          <Description>"AP Cost: Healing Herb"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D262B0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1499</ID>
+          <Description>"AP Cost: Wind Armor"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D262BC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1500</ID>
+          <Description>"AP Cost: Crescent"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D262C8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1501</ID>
+          <Description>"AP Cost: Sandstorm"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D262D4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1502</ID>
+          <Description>"AP Cost: Applause!"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D262E0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1503</ID>
+          <Description>"AP Cost: Blazing Fury"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D262EC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1504</ID>
+          <Description>"AP Cost: Icy Terror"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D262F8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1505</ID>
+          <Description>"AP Cost: Bolts of Sorrow"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26304</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1506</ID>
+          <Description>"AP Cost: Ghostly Scream"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26310</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1507</ID>
+          <Description>"AP Cost: Hummingbird"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2631C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1508</ID>
+          <Description>"AP Cost: Time-Out"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26328</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1509</ID>
+          <Description>"AP Cost: Storm's Eye"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26334</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1510</ID>
+          <Description>"AP Cost: Ferocious Lunge"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26340</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1511</ID>
+          <Description>"AP Cost: Furious Bellow"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2634C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1512</ID>
+          <Description>"AP Cost: Spiral Wave"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26358</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1513</ID>
+          <Description>"AP Cost: Thunder Potion"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26364</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1514</ID>
+          <Description>"AP Cost: Cure Potion"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26370</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1515</ID>
+          <Description>"AP Cost: Aero Potion"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2637C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1516</ID>
+          <Description>"AP Cost: Slapshot"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26388</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1517</ID>
+          <Description>"AP Cost: Sliding Dash"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26394</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1518</ID>
+          <Description>"AP Cost: Hurricane Blast"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D263A0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1519</ID>
+          <Description>"AP Cost: Ripple Drive"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D263AC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1520</ID>
+          <Description>"AP Cost: Stun Impact"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D263B8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1521</ID>
+          <Description>"AP Cost: Gravity Break"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D263C4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1522</ID>
+          <Description>"AP Cost: Zantetsuken"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D263D0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1523</ID>
+          <Description>"AP Cost: Tech Boost"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D263DC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1524</ID>
+          <Description>"AP Cost: Encounter Plus"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D263E8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1525</ID>
+          <Description>"AP Cost: Leaf Bracer"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D263F4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1526</ID>
+          <Description>"AP Cost: Evolution"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26400</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1527</ID>
+          <Description>"AP Cost: EXP Zero"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2640C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1528</ID>
+          <Description>"AP Cost: Combo Master"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26418</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
   </CheatEntries>
   <UserdefinedSymbols/>
   <LuaScript>local path_to_game = "C:\\Games\\steamapps\\common\\KINGDOM HEARTS -HD 1.5+2.5 ReMIX-\\KINGDOM HEARTS FINAL MIX.exe" -- Replace with the actual path to your game's executable
