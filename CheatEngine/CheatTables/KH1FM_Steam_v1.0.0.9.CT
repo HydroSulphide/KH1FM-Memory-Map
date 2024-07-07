@@ -60,6 +60,7 @@
             <CheatEntry>
               <ID>11</ID>
               <Description>"Sora: Current HP"</Description>
+              <ShowAsHex>1</ShowAsHex>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>Byte</VariableType>
               <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DE9365</Address>
@@ -74,6 +75,7 @@
             <CheatEntry>
               <ID>26</ID>
               <Description>"Sora: Current MP"</Description>
+              <ShowAsHex>1</ShowAsHex>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>Byte</VariableType>
               <Address>"KINGDOM HEARTS FINAL MIX.exe"+2DE9367</Address>
@@ -8648,7 +8650,7 @@
               <Description>"Fire: Start"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>Byte</VariableType>
-              <Address>7FF79B088C7C</Address>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D28C7C</Address>
             </CheatEntry>
             <CheatEntry>
               <ID>1309</ID>
@@ -9477,6 +9479,7 @@
     <CheatEntry>
       <ID>1529</ID>
       <Description>"AP Cost"</Description>
+      <Options moManualExpandCollapse="1"/>
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
         <CheatEntry>
@@ -9933,6 +9936,3181 @@
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>Byte</VariableType>
           <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D26418</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1555</ID>
+      <Description>"Item Stats"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1532</ID>
+          <Description>"Potion: Strength"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2479E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1533</ID>
+          <Description>"Potion: Price Buy"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D247A0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1534</ID>
+          <Description>"Potion: Price Sell"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D247A2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1531</ID>
+          <Description>"Hi-Potion: Strength"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D247B2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1538</ID>
+          <Description>"Ether: Strength"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D247C6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1539</ID>
+          <Description>"Elixir: Strength"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D247DA</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1540</ID>
+          <Description>"Mega-Potion: Strength"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D24802</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1541</ID>
+          <Description>"Mega-Ether: Strength"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D24816</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1542</ID>
+          <Description>"Megalixir: Strength"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2482A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1558</ID>
+          <Description>"Protect Chain: Symbol/Item Type?"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D248DA</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1556</ID>
+          <Description>"Protect Chain: Strength"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D248DE</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1557</ID>
+          <Description>"Protera Chain: Strength"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D248F2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1535</ID>
+          <Description>"Protega Chain: Strength"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D24906</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1543</ID>
+          <Description>"Thundaga Ring: Strength"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D249BA</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1544</ID>
+          <Description>"Titan Chain: Strength"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D24A82</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1545</ID>
+          <Description>"Crystal Crown: Strength"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D24B36</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1546</ID>
+          <Description>"Omega Arts: ID?"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D24BD6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1547</ID>
+          <Description>"Obsidian Ring: ID?"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D24D16</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1553</ID>
+          <Description>"Kingdom Key: ID?"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D24DDE</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1551</ID>
+          <Description>"Morning Star: ID?"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D24FAA</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1550</ID>
+          <Description>"Tent: Strength"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D252A2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1554</ID>
+          <Description>"Orichalcum: ID?"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D25B76</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1562</ID>
+      <Description>"Protect Chain: HP"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D25B98</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1670</ID>
+      <Description>"Treasure Pointers + Rewards"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1925</ID>
+          <Description>"Reward: Elixir (Leon Traverse Town)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F3E8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1926</ID>
+          <Description>"Reward: Dodge Roll (Goofy)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F3EA</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1732</ID>
+          <Description>"Reward: Mermaid Kick (Atlantica)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F404</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1765</ID>
+          <Description>"Reward: Glide (Neverland)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F406</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1912</ID>
+          <Description>"Reward: Superglide (End Of The World)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F408</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1806</ID>
+          <Description>"Reward: Fireglow (Dragon Maleficent)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F40A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1639</ID>
+          <Description>"Reward: Earthshine (Leon)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F40C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1917</ID>
+          <Description>"Reward: Jungle King (Deep Jungle)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F40E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1692</ID>
+          <Description>"Reward: Three Wishes (Agrabah)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F410</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1764</ID>
+          <Description>"Reward: Fairy Harp (Neverland)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F412</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1750</ID>
+          <Description>"Reward: Pumpkinhead (Halloween Town)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F414</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1733</ID>
+          <Description>"Reward: Crabclaw (Atlantica)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F416</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1814</ID>
+          <Description>"Reward: Divine Rose (Belle)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F418</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1916</ID>
+          <Description>"Reward: Lionheart (Hades Cup Cloud &amp; Leon)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F41A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1833</ID>
+          <Description>"Reward: Metal Chocobo (Hercules Cup Cloud)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F41C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1810</ID>
+          <Description>"Reward: Oathkeeper (Kairi)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F41E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1915</ID>
+          <Description>"Reward: Genji Shield (Hades Cup Yuffie)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F420</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1834</ID>
+          <Description>"Reward: Herc's Shield (Hercules Cup)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F422</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1827</ID>
+          <Description>"Reward: Sonic Blade (Cloud)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F424</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1758</ID>
+          <Description>"Reward: Raven's Claw (Neverland Dark Sora Fight)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F426</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1830</ID>
+          <Description>"Reward: Strike Raid (Pegasus Cup)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F428</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1807</ID>
+          <Description>"Reward: Ragnarok (Riku Ansem)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F42A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1919</ID>
+          <Description>"Reward: Trinity Limit (Hades Cup)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F42C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1762</ID>
+          <Description>"Reward: Ars Arcanum (Neverland Hook Fight)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F42E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1805</ID>
+          <Description>"Reward: Donald Cheer (Maleficent)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F430</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1717</ID>
+          <Description>"Reward: Goofy Cheer (Parasite Cage)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F432</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1855</ID>
+          <Description>"Reward: Lord Fortune (Fairy Godmother)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F434</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1719</ID>
+          <Description>"Treasure: Monstro High Jump (Mouth)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F436</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1699</ID>
+          <Description>"Treasure: Monstro Watergleam (Mouth)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F438</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1712</ID>
+          <Description>"Treasure: Monstro Mythril (Chamber 6)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F43A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1858</ID>
+          <Description>"Reward: Naturespark (Torn Page 1)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F43C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1859</ID>
+          <Description>"Reward: Mythril Shard (Torn Page 2)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F43E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1868</ID>
+          <Description>"Reward: Mythril (Torn Page 4)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F440</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1869</ID>
+          <Description>"Reward: EXP Ring (Torn Page 5)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F442</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1918</ID>
+          <Description>"Reward: Sora Cheer (Hundred Acre Wood)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F444</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1644</ID>
+          <Description>"Reward: Dream Shield (Merlin)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F446</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1835</ID>
+          <Description>"Reward: Olympia (Phil, Pegasus and Hercules Cup)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F448</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1821</ID>
+          <Description>"Treasure: Hollow Bastion Oblivion (Grand Hall)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F44A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1599</ID>
+          <Description>"Treasure: Wonderland Mythril (Tea Party Garden)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F44C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1726</ID>
+          <Description>"Treasure: Traverse Town Wishing Star (Gepetto's House)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F44E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1860</ID>
+          <Description>"Reward: Mythril Shard (42 Puppies)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F450</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1937</ID>
+          <Description>"Reward: Megalixir (60 Puppies)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F452</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1938</ID>
+          <Description>"Reward: Orichalcum (72 Puppies)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F454</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1939</ID>
+          <Description>"Reward: Tech Boost (90 Puppies)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F456</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1924</ID>
+          <Description>"Reward: Brave Warrior (Guard Armor)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F458</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1940</ID>
+          <Description>"Reward: Ifrit's Horn (Trickmaster)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F45A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1826</ID>
+          <Description>"Reward: Inferno Band (Cerberus)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F45C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1941</ID>
+          <Description>"Reward: White Fang (Sabor)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F45E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1664</ID>
+          <Description>"Reward: Ray of Light (Agrabah)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F460</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1749</ID>
+          <Description>"Reward: Holy Circlet (Halloween Town)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F462</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1823</ID>
+          <Description>"Reward: Omega Arts (Behemoth Hollow Bastion)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F464</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1585</ID>
+          <Description>"Treasure: Traverse Town Defense UP (1st District)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F466</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1576</ID>
+          <Description>"Treasure: Traverse Town Elixir (Green Room)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F468</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1642</ID>
+          <Description>"Treasure: Traverse Town AP Up (Mystical House)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F46A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1809</ID>
+          <Description>"Treasure: Traverse Town Orichalcum (Secret Waterway)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F46C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1591</ID>
+          <Description>"Treasure: Wonderland Camping Set (Rabbit Hole)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F46E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1568</ID>
+          <Description>"Treasure: Wonderland Mega-Potion (Rabbit Hole)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F470</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1605</ID>
+          <Description>"Treasure: Wonderland Megalixir (Rabbit Hole)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F472</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1607</ID>
+          <Description>"Treasure: Wonderland Mythril Shard (Bizarre Room Upright)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F474</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1595</ID>
+          <Description>"Treasure: Wonderland Orichalcum (Lotus Forest)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F476</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1842</ID>
+          <Description>"Treasure: Wonderland Lady Luck (Lotus Forest)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F478</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1614</ID>
+          <Description>"Treasure: Deep Jungle Mega-Potion (Tree House)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F47A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1610</ID>
+          <Description>"Treasure: Deep Jungle Protect Chain (Tree House)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F47C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1844</ID>
+          <Description>"Treasure: Deep Jungle Orichalcum (Cavern of Hearts)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F47E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1865</ID>
+          <Description>"Treasure: Hundred Acre Wood Mythril Shard (Bouncing Spot)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F480</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1863</ID>
+          <Description>"Treasure: Hundred Acre Wood AP Up (Bouncing Spot)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F482</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1655</ID>
+          <Description>"Treasure: Agrabah Cottage (Plaza)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F484</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1661</ID>
+          <Description>"Treasure: Agrabah Fire Ring (Bazaar)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F486</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1651</ID>
+          <Description>"Treasure: Agrabah Mythril (Main Street)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F488</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1694</ID>
+          <Description>"Treasure: Agrabah AP Up (Storage Room)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F48A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1675</ID>
+          <Description>"Treasure: Agrabah Elixir (Cave of Wonders: Bottomless Hall)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F48C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1673</ID>
+          <Description>"Treasure: Agrabah Mega-Potion (Cave of Wonders: Bottomless Hall)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F48E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1680</ID>
+          <Description>"Treasure: Agrabah Protera Chain (Cave of Wonders: Dark Chamber)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F490</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1635</ID>
+          <Description>"Treasure: Olympus Coliseum Mythril Shard (Gates)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F492</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1825</ID>
+          <Description>"Treasure: Olympus Coliseum Violetta (Gates)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F494</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1721</ID>
+          <Description>"Treasure: Monstro Mythril Shard (Mouth)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F496</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1812</ID>
+          <Description>"Treasure: Hollow Bastion Defense Up (Rising Falls)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F498</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1795</ID>
+          <Description>"Treasure: Hollow Bastion Orichalcum (Castle Gates)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F49A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1800</ID>
+          <Description>"Treasure: Hollow Bastion Thundara Ring (High Tower)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F49C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1788</ID>
+          <Description>"Treasure: Hollow Bastion AP Up (Entrance Hall)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F49E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1643</ID>
+          <Description>"Reward: Spellbinder (Merlin)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4A0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1856</ID>
+          <Description>"Reward: Dream Rod (Merlin)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4A2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1828</ID>
+          <Description>"Reward: Combo Plus (Phil Cup Solo)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1831</ID>
+          <Description>"Reward: Orichalcum (Pegasus Cup Solo)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4A6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1836</ID>
+          <Description>"Reward: Critical Plus (Hercules Cup Solo)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4A8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1839</ID>
+          <Description>"Reward: Save The Queen (Hades Cup Solo)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4AA</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1829</ID>
+          <Description>"Reward: Tech Boost (Phil Cup Time)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4AC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1832</ID>
+          <Description>"Reward: Dark Matter (Pegasus Cup Time)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4AE</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1837</ID>
+          <Description>"Reward: Gravity Break (Hercules Cup Time)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4B0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1840</ID>
+          <Description>"Reward: Save The King (Hades Cup Time)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4B2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1570</ID>
+          <Description>"Treasure: Destiny Islands Protect Chain (Cove)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1927</ID>
+          <Description>"Reward: Cottage (Postcard 1)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4B6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1928</ID>
+          <Description>"Reward: Mythril Shard (Postcard 2)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4B8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1929</ID>
+          <Description>"Reward: Mega-Potion (Postcard 3)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4BA</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1930</ID>
+          <Description>"Reward: Mega-Ether (Postcard 4)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4BC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1931</ID>
+          <Description>"Reward: Mythril (Postcard 5)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4BE</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1932</ID>
+          <Description>"Reward: Elixir (Postcard 6)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4C0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1933</ID>
+          <Description>"Reward: Megalixir (Postcard 7)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4C2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1934</ID>
+          <Description>"Reward: Orichalcum (Postcard 8)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4C4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1935</ID>
+          <Description>"Reward: AP Up (Postcard 9)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4C6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1936</ID>
+          <Description>"Reward: Defense Up (Postcard 10)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4C8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1861</ID>
+          <Description>"Reward: Mythril (51 Puppies)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4CA</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1624</ID>
+          <Description>"Treasure: Deep Jungle Mega-Potion (Cliff)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4CC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1626</ID>
+          <Description>"Treasure: Deep Jungle Mythril Shard (Cliff)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4CE</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1728</ID>
+          <Description>"Treasure: Wonderland Elixir (Rabbit Hole)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4D0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1612</ID>
+          <Description>"Treasure: Deep Jungle Mithril (Tree House)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4D2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1666</ID>
+          <Description>"Treasure: Agrabah Protera Chain (Palace Gates)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4D4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1684</ID>
+          <Description>"Treasure: Agrabah Thunder Ring (Cave of Wonders: Relic Chamber)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4D6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1761</ID>
+          <Description>"Treasure: Neverland Protera Chain (Ship: Cabin)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4D8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1774</ID>
+          <Description>"Treasure: Hollow Bastion Blizzara Ring (Rising Falls)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4DA</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1778</ID>
+          <Description>"Treasure: Hollow Bastion Fira Ring (Waterway)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4DC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1873</ID>
+          <Description>"Treasure: End Of The World Mythril Shard 1 (Final Dimension)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4DE</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1874</ID>
+          <Description>"Reward: Pretty Stone (End Of The World Fight 1)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4E0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1876</ID>
+          <Description>"Treasure: End Of The World Mega Potion (Final Dimension)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4E2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1877</ID>
+          <Description>"Reward: Mythril (End Of The World Fight 2)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4E4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1879</ID>
+          <Description>"Treasure: End Of The World Elixir (Final Dimension)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4E6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1881</ID>
+          <Description>"Treasure: End Of The World Mythril Shard 2 (Final Dimension)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4E8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1882</ID>
+          <Description>"Reward: Pretty Stone (End Of The World Fight 3)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4EA</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1884</ID>
+          <Description>"Treasure: End Of The World Cottage (Final Dimension)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4EC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1885</ID>
+          <Description>"Reward: Gale (End Of The World Fight 4)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4EE</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1886</ID>
+          <Description>"Reward: AP Up (End Of The World Fight 5)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4F0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1895</ID>
+          <Description>"Treasure: End Of The World Spirit Gem (World Terminus: Traverse Town)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4F6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1897</ID>
+          <Description>"Treasure: End Of The World Thunder Gem (World Terminus: Wonderland)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4F8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1899</ID>
+          <Description>"Treasure: End Of The World Frost Gem (World Terminus: Olympus Coliseum)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4FA</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1901</ID>
+          <Description>"Treasure: End Of The World Bright Gem (World Terminus: Deep Jungle)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4FC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1903</ID>
+          <Description>"Treasure: End Of The World Blaze Gem (World Terminus: Agrabah)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F4FE</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1905</ID>
+          <Description>"Treasure: End Of The World Lucid Gem (World Terminus: Halloween Town)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F500</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1908</ID>
+          <Description>"Treasure: End Of The World Mighty Shield (World Terminus: Neverland)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F502</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1911</ID>
+          <Description>"Treasure: End Of The World Elixir (World Terminus: Hollow Bastion)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F504</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1920</ID>
+          <Description>"Reward: Diamond Dust (Ice Titan)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F510</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1838</ID>
+          <Description>"Reward: One-Winged Angel (Sephiroth)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F512</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1921</ID>
+          <Description>"Reward: Zantetsuken (Kurt Zisa)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F514</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1942</ID>
+          <Description>"Reward: EXP Necklace (The Unknown)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F516</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1922</ID>
+          <Description>"Reward: Encounter Plus (Moogle)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F518</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1601</ID>
+          <Description>"Treasure: Wonderland Dark Matter (Tea Party Garden)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F51A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1731</ID>
+          <Description>"Treasure: Olympus Coliseum Shiva Belt (Gates)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F51C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1867</ID>
+          <Description>"Treasure: Hundred Acre Wood Dark Matter (Bouncing Spot)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F51E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1653</ID>
+          <Description>"Treasure: Agrabah Dark Matter (Main Street)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F520</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1846</ID>
+          <Description>"Treasure: Agrabah Ifrit Belt (Cave of Wonders: Entrance)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F522</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1849</ID>
+          <Description>"Treasure: Monstro Dark Matter (Chamber 6)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F524</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1747</ID>
+          <Description>"Treasure: Halloween Town Orichalcum (Oogie's Manor)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F526</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1754</ID>
+          <Description>"Treasure: Halloween Town Dark Matter (Cemetery)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F528</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1853</ID>
+          <Description>"Treasure: Neverland Dark Matter (Ship: Hold)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F52A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1769</ID>
+          <Description>"Treasure: Neverland Orichalcum (Pirate Ship)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F52C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1816</ID>
+          <Description>"Treasure: Hollow Bastion Ramuh Belt (Lift Stop)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F52E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1803</ID>
+          <Description>"Treasure: Hollow Bastion Royal Crown (Lift Stop)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F530</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1780</ID>
+          <Description>"Treasure: Hollow Bastion Dark Matter (Waterway)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F532</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1818</ID>
+          <Description>"Treasure: Hollow Bastion Dark Matter (Grand Hall)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F534</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1888</ID>
+          <Description>"Treasure: End Of The World Dark Matter (Giant Crevasse)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F536</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1891</ID>
+          <Description>"Treasure: End Of The World Meteor Strike (Giant Crevasse)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS FINAL MIX.exe"+2D2F538</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1943</ID>
+      <Description>"Treasures"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1871</ID>
+          <Description>"Destiny Islands"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1572</ID>
+              <Description>"Treasure: Destiny Islands Protect Chain (Cove)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528D60</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1590</ID>
+          <Description>"Traverse Town"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1584</ID>
+              <Description>"Treasure: Traverse Town Defense Up (First District)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528D88</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1582</ID>
+              <Description>"Treasure: Traverse Town Postcard (First District) (Accessory Shop Roof)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528D8A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1573</ID>
+              <Description>"Treasure: Traverse Town Postcard (Second District)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528D8C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1646</ID>
+              <Description>"Treasure: Traverse Town Mythril Shard (Second District)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528D8E</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1574</ID>
+              <Description>"Treasure: Traverse Town Mega-Potion (Second District)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528D90</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1580</ID>
+              <Description>"Treasure: Traverse Town Potion (Alleyway Balcony)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528D92</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1579</ID>
+              <Description>"Treasure: Traverse Town Pretty Stone (Alleyway)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528D94</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1578</ID>
+              <Description>"Treasure: Traverse Town Potion (Alleyway)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528D96</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1577</ID>
+              <Description>"Treasure: Traverse Town Mythril (Green Room)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528D9A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1575</ID>
+              <Description>"Treasure: Traverse Town Elixir (Green Room)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528D9C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1581</ID>
+              <Description>"Treasure: Traverse Town Pretty Stone (Red Room)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528D9E</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1641</ID>
+              <Description>"Treasure: Traverse Town AP Up (Mystical House)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528DA0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1571</ID>
+              <Description>"Treasure: Traverse Town Mythril Shard (Accessory Shop)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528DA2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1808</ID>
+              <Description>"Treasure: Traverse Town Orichalcum (Secret Waterway)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528DA4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1725</ID>
+              <Description>"Treasure: Traverse Town Wishing Star (Gepetto's House)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528DA6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1723</ID>
+              <Description>"Treasure: Traverse Town Mythril Shard (Item Workshop)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528DA8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1583</ID>
+              <Description>"Treasure: Traverse Town Postcard (First District Blue Trinity)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528DB0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1640</ID>
+              <Description>"Treasure: Traverse Town Puppies (1-3) (Mystical House)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E10</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1638</ID>
+              <Description>"Treasure: Traverse Town Puppies (4-6) (Alleyway)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E12</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1724</ID>
+              <Description>"Treasure: Traverse Town Puppies (7-9) (Item Workshop)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E14</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1645</ID>
+              <Description>"Treasure: Traverse Town Puppies (10-12) (Secret Waterway)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E16</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1608</ID>
+          <Description>"Wonderland"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1727</ID>
+              <Description>"Treasure: Wonderland Elixir (Rabbit Hole)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E18</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1589</ID>
+              <Description>"Treasure: Wonderland Camping Set (Rabbit Hole)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E1A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1567</ID>
+              <Description>"Treasure: Wonderland Mega-Potion (Rabbit Hole)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E1C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1604</ID>
+              <Description>"Treasure: Wonderland Megalixir (Rabbit Hole)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E1E</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1606</ID>
+              <Description>"Treasure: Wonderland Mythril Shard (Bizarre Room Upright)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E20</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1586</ID>
+              <Description>"Treasure: Wonderland Thundara-G (Queen's Castle)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E28</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1587</ID>
+              <Description>"Treasure: Wonderland Puppies (13-15) (Queen's Castle)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E2A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1565</ID>
+              <Description>"Treasure: Wonderland Meteor-G (Queen's Castle)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E2C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1566</ID>
+              <Description>"Treasure: Wonderland Thundara-G (Lotus Forest)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E2E</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1603</ID>
+              <Description>"Treasure: Wonderland Puppies (58-60) (Lotus Forest)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E30</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1594</ID>
+              <Description>"Treasure: Wonderland Orichalcum (Lotus Forest)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E32</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1592</ID>
+              <Description>"Treasure: Wonderland Puppies (16-18) (Lotus Forest)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E34</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1593</ID>
+              <Description>"Treasure: Wonderland Scan-G 2 (Lotus Forest)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E36</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1602</ID>
+              <Description>"Treasure: Wonderland Defense Up (Bizarre Room Sideways)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E38</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1596</ID>
+              <Description>"Treasure: Wonderland Flare-G (Tea Party Garden)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E3C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1597</ID>
+              <Description>"Treasure: Wonderland Puppies (19-21) (Tea Party Garden)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E3E</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1600</ID>
+              <Description>"Treasure: Wonderland Dark Matter (Tea Party Garden)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E40</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1598</ID>
+              <Description>"Treasure: Wonderland Mythril (Tea Party Garden)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E42</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1841</ID>
+              <Description>"Treasure: Wonderland Lady Luck (Lotus Forest)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E44</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1632</ID>
+          <Description>"Deep Jungle"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1613</ID>
+              <Description>"Treasure: Deep Jungle Mega-Potion (Tree House)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E54</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1609</ID>
+              <Description>"Treasure: Deep Jungle Protect Chain (Tree House)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E56</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1620</ID>
+              <Description>"Treasure: Deep Jungle Puppies (25-27) (Hippo's Lagoon)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E58</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1619</ID>
+              <Description>"Treasure: Deep Jungle Mega-Potion (Hippo's Lagoon)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E5A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1618</ID>
+              <Description>"Treasure: Deep Jungle Meteor-G (Hippo's Lagoon)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E5C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1621</ID>
+              <Description>"Treasure: Deep Jungle Mithril (Vines 2)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E60</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1622</ID>
+              <Description>"Treasure: Deep Jungle Puppies (28-30) (Vines)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E62</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1627</ID>
+              <Description>"Treasure: Deep Jungle Thundara-G (Climbing Trees)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E64</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1615</ID>
+              <Description>"Treasure: Deep Jungle Mega-Ether (Tunnel)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E68</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1843</ID>
+              <Description>"Treasure: Deep Jungle Orichalcum (Cavern of Hearts)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E6A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1617</ID>
+              <Description>"Treasure: Deep Jungle Puppies (34-36) (Camp)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E6C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1616</ID>
+              <Description>"Treasure: Deep Jungle Mythril Shard (Tent)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E6E</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1628</ID>
+              <Description>"Treasure: Deep Jungle Mythril Shard (Waterfall Cavern)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E70</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1629</ID>
+              <Description>"Treasure: Deep Jungle Puppies (31-33) (Waterfall Cavern)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E72</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1630</ID>
+              <Description>"Treasure: Deep Jungle Mithril (Waterfall Cavern)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E74</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1631</ID>
+              <Description>"Treasure: Deep Jungle Orichalcum (Waterfall Cavern)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E76</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1623</ID>
+              <Description>"Treasure: Deep Jungle Mega-Potion (Cliff)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E78</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1625</ID>
+              <Description>"Treasure: Deep Jungle Mythril Shard (Cliff)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E7A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1611</ID>
+              <Description>"Treasure: Deep Jungle Mithril (Tree House)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528E7C</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1870</ID>
+          <Description>"Hundred Acre Wood"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1857</ID>
+              <Description>"Treasure: Hundred Acre Wood Mythril Shard (Meadow)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528EAE</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1864</ID>
+              <Description>"Treasure: Hundred Acre Wood Mythril Shard (Bouncing Spot)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528EB0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1866</ID>
+              <Description>"Treasure: Hundred Acre Wood Dark Matter (Bouncing Spot)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528EB2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1862</ID>
+              <Description>"Treasure: Hundred Acre Wood AP Up (Bouncing Spot)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528EB4</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1696</ID>
+          <Description>"Agrabah"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1657</ID>
+              <Description>"Treasure: Agrabah Mega-Potion (Plaza)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528EEA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1656</ID>
+              <Description>"Treasure: Agrabah Mega-Ether (Plaza)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528EEC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1654</ID>
+              <Description>"Treasure: Agrabah Cottage (Plaza)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528EEE</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1695</ID>
+              <Description>"Treasure: Agrabah Mega-Potion (Alley)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528EF0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1659</ID>
+              <Description>"Treasure: Agrabah Thundara-G (Bazaar)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528EF2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1660</ID>
+              <Description>"Treasure: Agrabah Fire Ring (Bazaar)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528EF4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1649</ID>
+              <Description>"Treasure: Agrabah Mega-Ether (Main Street)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528EF6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1652</ID>
+              <Description>"Treasure: Agrabah Dark Matter (Main Street)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528EF8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1650</ID>
+              <Description>"Treasure: Agrabah Mythril (Main Street)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528EFA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1665</ID>
+              <Description>"Treasure: Agrabah Protera Chain (Palace Gates)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528EFC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1662</ID>
+              <Description>"Treasure: Agrabah Puppies (52-54) (Palace Gates)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528EFE</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1663</ID>
+              <Description>"Treasure: Agrabah Osmose-G 1 (Palace Gates)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F00</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1693</ID>
+              <Description>"Treasure: Agrabah AP Up (Storage Room)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F02</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1658</ID>
+              <Description>"Treasure: Agrabah Mega-Potion (Storage Room)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F04</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1667</ID>
+              <Description>"Treasure: Agrabah Mega-Ether (Cave of Wonders: Entrance)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F06</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1668</ID>
+              <Description>"Treasure: Agrabah Puppies (49-51) (Cave of Wonders: Entrance)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F08</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1671</ID>
+              <Description>"Treasure: Agrabah Elixir (Cave of Wonders: Hall)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F0A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1669</ID>
+              <Description>"Treasure: Agrabah Mythril Shard (Cave of Wonders: Hall)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F0C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1676</ID>
+              <Description>"Treasure: Agrabah Cottage (Cave of Wonders: Bottomless Hall)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F0E</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1674</ID>
+              <Description>"Treasure: Agrabah Elixir (Cave of Wonders: Bottomless Hall)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F10</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1672</ID>
+              <Description>"Treasure: Agrabah Mega-Potion (Cave of Wonders: Bottomless Hall)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F12</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1691</ID>
+              <Description>"Treasure: Agrabah Puppies (37-39) (Cave of Wonders: Treasure Room)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F14</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1689</ID>
+              <Description>"Treasure: Agrabah Mytrhil Shard (Cave of Wonders: Treasure Room)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F16</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1690</ID>
+              <Description>"Treasure: Agrabah Thundaga-G (Cave of Wonders: Treasure Room)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F18</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1688</ID>
+              <Description>"Treasure: Agrabah Defense Up (Cave of Wonders: Treasure Room)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F1A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1682</ID>
+              <Description>"Treasure: Agrabah Mythril (Cave of Wonders: Relic Chamber)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F1C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1683</ID>
+              <Description>"Treasure: Agrabah Thunder Ring (Cave of Wonders: Relic Chamber)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F1E</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1679</ID>
+              <Description>"Treasure: Agrabah Protera Chain (Cave of Wonders: Dark Chamber)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F20</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1681</ID>
+              <Description>"Treasure: Agrabah Meteor-G (Cave of Wonders: Dark Chamber)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F22</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1678</ID>
+              <Description>"Treasure: Agrabah Torn Page 3 (Cave of Wonders: Dark Chamber)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F24</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1677</ID>
+              <Description>"Treasure: Agrabah Cottage (Cave of Wonders: Dark Chamber)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F26</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1685</ID>
+              <Description>"Treasure: Agrabah Thundara-G (Cave of Wonders: Silent Chamber)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F28</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1686</ID>
+              <Description>"Treasure: Agrabah Haste2-G (Cave of Wonders: Hidden Room)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F2A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1687</ID>
+              <Description>"Treasure: Agrabah Puppies (46-48) (Cave of Wonders: Hidden Room)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F2C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1647</ID>
+              <Description>"Treasure: Agrabah Scissors-G 1 (Aladdin's House)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F2E</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1648</ID>
+              <Description>"Treasure: Agrabah Megalixir (Aladdin's House)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F30</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1845</ID>
+              <Description>"Treasure: Agrabah Ifrit Belt (Cave of Wonders: Entrance)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F32</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1756</ID>
+          <Description>"Halloween Town"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1847</ID>
+              <Description>"Treasure: Halloween Town Puppies (67-69) (Moonlight Hill)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528FBE</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1741</ID>
+              <Description>"Treasure: Halloween Town Flare-G (Bridge)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528FC0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1738</ID>
+              <Description>"Treasure: Halloween Town Jack-in-the-Box (Graveyard)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528FC2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1740</ID>
+              <Description>"Treasure: Halloween Town Defense Up (Bridge)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528FC4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1753</ID>
+              <Description>"Treasure: Halloween Town Dark Matter (Cemetery)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528FC6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1752</ID>
+              <Description>"Treasure: Halloween Town Puppies (64-66) (Cemetery)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528FC8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1751</ID>
+              <Description>"Treasure: Halloween Town Scissors-G 2 (Cemetery)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528FCA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1746</ID>
+              <Description>"Treasure: Halloween Town Orichalcum (Oogie's Manor)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528FCC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1745</ID>
+              <Description>"Treasure: Halloween Town Mega-Ether (Oogie's Manor)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528FCE</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1748</ID>
+              <Description>"Treasure: Halloween Town Puppies (40-42) (Oogie's Manor)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528FD0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1742</ID>
+              <Description>"Treasure: Halloween Town Mythril Shard (Oogie's Manor)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528FD2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1734</ID>
+              <Description>"Treasure: Halloween Town Power Up (Guillotine Square)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528FD4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1735</ID>
+              <Description>"Treasure: Halloween Town Elixir (Guillotine Square)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528FD6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1743</ID>
+              <Description>"Treasure: Halloween Town Ether (Oogie's Manor Outside)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528FD8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1744</ID>
+              <Description>"Treasure: Halloween Town Ether (Oogie's Manor Inside)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528FDA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1739</ID>
+              <Description>"Treasure: Halloween Town Meteor-G (Bridge)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528FF0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1755</ID>
+              <Description>"Treasure: Halloween Town Holy-G (Cemetery)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528FF2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1737</ID>
+              <Description>"Treasure: Halloween Town Thundara-G (Guillotine Square)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528FF4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1736</ID>
+              <Description>"Treasure: Halloween Town Puppies (70-72) (Guillotine Square)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528FF6</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1637</ID>
+          <Description>"Olympus Coliseum"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1633</ID>
+              <Description>"Treasure: Olympus Coliseum Mega-Potion (Gates)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528FFA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1636</ID>
+              <Description>"Treasure: Olympus Coliseum Puppies (22-24) (Gates)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528FFC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1634</ID>
+              <Description>"Treasure: Olympus Coliseum Mythril Shard (Gates)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528FFE</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1824</ID>
+              <Description>"Treasure: Olympus Coliseum Violetta (Gates)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529000</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1729</ID>
+              <Description>"Treasure: Olympus Coliseum Holy-G (Gates)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529002</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1730</ID>
+              <Description>"Treasure: Olympus Coliseum Shiva Belt (Gates)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529004</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1722</ID>
+          <Description>"Monstro"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1710</ID>
+              <Description>"Treasure: Monstro Megalixir (Chamber 6)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F44</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1709</ID>
+              <Description>"Treasure: Monstro Torn Page 2 (Chamber 6)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F46</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1711</ID>
+              <Description>"Treasure: Monstro Mythril (Chamber 6)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F48</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1708</ID>
+              <Description>"Treasure: Monstro Puppies (76-78) (Chamber 6)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+528F4A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1718</ID>
+              <Description>"Treasure: Monstro High Jump (Mouth)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529016</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1697</ID>
+              <Description>"Treasure: Monstro Cottage (Mouth)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529018</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1700</ID>
+              <Description>"Treasure: Monstro Puppies (73-75) (Mouth)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+52901A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1701</ID>
+              <Description>"Treasure: Monstro Scan-G 2 (Mouth)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+52901C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1720</ID>
+              <Description>"Treasure: Monstro Mythril Shard (Mouth)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+52901E</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1702</ID>
+              <Description>"Treasure: Monstro Cottage (Chamber 2)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529026</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1703</ID>
+              <Description>"Treasure: Monstro Megalixir (Chamber 2)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529028</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1713</ID>
+              <Description>"Treasure: Monstro Mythril (Chamber 5)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529034</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1707</ID>
+              <Description>"Treasure: Monstro Mega-Ether (Chamber 3)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529036</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1704</ID>
+              <Description>"Treasure: Monstro Puppies (55-57) (Chamber 3)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529038</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1706</ID>
+              <Description>"Treasure: Monstro Osmose-G 2 (Chamber 3)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+52903A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1705</ID>
+              <Description>"Treasure: Monstro Flare-G (Chamber 3)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+52903C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1698</ID>
+              <Description>"Treasure: Monstro Watergleam (Mouth)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+52904A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1714</ID>
+              <Description>"Treasure: Monstro Puppies (79-81) (Chamber 5)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+52904C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1716</ID>
+              <Description>"Treasure: Monstro Mega-Ether (Chamber 5)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+52904E</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1715</ID>
+              <Description>"Treasure: Monstro Thundaga-G (Chamber 5)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529050</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1848</ID>
+              <Description>"Treasure: Monstro Dark Matter (Chamber 6)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+52915A</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1770</ID>
+          <Description>"Neverland"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1850</ID>
+              <Description>"Treasure: Neverland Puppies (43-45) (Pirate Ship)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529052</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1768</ID>
+              <Description>"Treasure: Neverland Orichalcum (Pirate Ship)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529054</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1851</ID>
+              <Description>"Treasure: Neverland Orichalcum (Ship: Hold)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529056</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1852</ID>
+              <Description>"Treasure: Neverland Dark Matter (Ship: Hold)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529058</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1757</ID>
+              <Description>"Treasure: Neverland Meteor-G (Ship: Galley)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+52905A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1760</ID>
+              <Description>"Treasure: Neverland Protera Chain (Ship: Cabin)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+52905C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1767</ID>
+              <Description>"Treasure: Neverland Puppies (82-84) (Ship: Hold)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+52905E</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1763</ID>
+              <Description>"Treasure: Neverland Flare-G (Clock Tower)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529086</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1766</ID>
+              <Description>"Treasure: Neverland Paper-G 1 (Ship: Hold)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529088</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1854</ID>
+              <Description>"Treasure: Neverland Puppies (85-87) (Ship: Hold)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+52908A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1759</ID>
+              <Description>"Treasure: Neverland Puppies (88-90) (Captain's Cabin)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+52908C</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1822</ID>
+          <Description>"Hollow Bastion"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1771</ID>
+              <Description>"Treasure: Hollow Bastion Life-G (Rising Falls)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+52908E</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1776</ID>
+              <Description>"Treasure: Hollow Bastion Meteor-G (Rising Falls)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529090</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1811</ID>
+              <Description>"Treasure: Hollow Bastion Defense Up (Rising Falls)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529092</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1772</ID>
+              <Description>"Treasure: Hollow Bastion Puppies (91-93) (Rising Falls)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529094</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1773</ID>
+              <Description>"Treasure: Hollow Bastion Blizzara Ring (Rising Falls)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529096</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1775</ID>
+              <Description>"Treasure: Hollow Bastion Megalixir (Rising Falls)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529098</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1793</ID>
+              <Description>"Treasure: Hollow Bastion Puppies (94-96) (Castle Gates)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+52909A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1794</ID>
+              <Description>"Treasure: Hollow Bastion Orichalcum (Castle Gates)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+52909C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1796</ID>
+              <Description>"Treasure: Hollow Bastion Haste2-G (Castle Gates)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+52909E</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1798</ID>
+              <Description>"Treasure: Hollow Bastion Orichalcum (Great Crest)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290A0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1797</ID>
+              <Description>"Treasure: Hollow Bastion Thundaga-G (Great Crest)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290A2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1801</ID>
+              <Description>"Treasure: Hollow Bastion Osmose-G 2 (High Tower)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290A4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1799</ID>
+              <Description>"Treasure: Hollow Bastion Thundara Ring (High Tower)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290A6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1804</ID>
+              <Description>"Treasure: Hollow Bastion Megalixir (High Tower)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290A8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1787</ID>
+              <Description>"Treasure: Hollow Bastion AP Up (Entrance Hall)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290AA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1791</ID>
+              <Description>"Treasure: Hollow Bastion Ultima-G (Library)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290AC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1815</ID>
+              <Description>"Treasure: Hollow Bastion Ramuh Belt (Lift Stop)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290B6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1790</ID>
+              <Description>"Treasure: Hollow Bastion Osmose-G 1 (Lift Stop)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290B8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1802</ID>
+              <Description>"Treasure: Hollow Bastion Royal Crown (Lift Stop)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290BA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1789</ID>
+              <Description>"Treasure: Hollow Bastion Puppies (97-99) (Lift Stop)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290BC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1792</ID>
+              <Description>"Treasure: Hollow Bastion Orichalcum (Lift Stop)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290BE</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1783</ID>
+              <Description>"Treasure: Hollow Bastion Mythril (Base Level)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290C0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1785</ID>
+              <Description>"Treasure: Hollow Bastion Paper-G 2 (Base Level)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290C2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1784</ID>
+              <Description>"Treasure: Hollow Bastion Thundara-G (Base Level)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290C4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1777</ID>
+              <Description>"Treasure: Hollow Bastion Fira Ring (Waterway)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290C6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1779</ID>
+              <Description>"Treasure: Hollow Bastion Dark Matter (Waterway)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290C8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1786</ID>
+              <Description>"Treasure: Hollow Bastion Thundaga-G (Waterway)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290CA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1781</ID>
+              <Description>"Treasure: Hollow Bastion Ultima-G (Dungeon)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290CC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1782</ID>
+              <Description>"Treasure: Hollow Bastion Thundaga-G (Dungeon)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290CE</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1817</ID>
+              <Description>"Treasure: Hollow Bastion Dark Matter (Grand Hall)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290DE</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1820</ID>
+              <Description>"Treasure: Hollow Bastion Oblivion (Grand Hall)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290E0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1819</ID>
+              <Description>"Treasure: Hollow Bastion Puppies (61-63) (Grand Hall)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290E2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1813</ID>
+              <Description>"Treasure: Hollow Bastion Thundaga-G (Rising Falls)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290E6</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1914</ID>
+          <Description>"End Of The World"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1872</ID>
+              <Description>"Treasure: End Of The World Mythril Shard 1 (Final Dimension)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1875</ID>
+              <Description>"Treasure: End Of The World Mega Potion (Final Dimension)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290EC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1878</ID>
+              <Description>"Treasure: End Of The World Elixir (Final Dimension)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290F0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1880</ID>
+              <Description>"Treasure: End Of The World Mythril Shard 2 (Final Dimension)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290F2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1883</ID>
+              <Description>"Treasure: End Of The World Cottage (Final Dimension)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290F6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1893</ID>
+              <Description>"Treasure: End Of The World Full-Life-G (Giant Crevasse)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290FC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1890</ID>
+              <Description>"Treasure: End Of The World Meteor Strike (Giant Crevasse)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+5290FE</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1889</ID>
+              <Description>"Treasure: End Of The World Drill-G (Giant Crevasse)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529100</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1887</ID>
+              <Description>"Treasure: End Of The World Dark Matter (Giant Crevasse)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529102</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1892</ID>
+              <Description>"Treasure: End Of The World Ultima-G (Giant Crevasse)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529104</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1894</ID>
+              <Description>"Treasure: End Of The World Spirit Gem (World Terminus: Traverse Town)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529106</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1896</ID>
+              <Description>"Treasure: End Of The World Thunder Gem (World Terminus: Wonderland)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529108</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1898</ID>
+              <Description>"Treasure: End Of The World Frost Gem (World Terminus: Olympus Coliseum)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+52910A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1900</ID>
+              <Description>"Treasure: End Of The World Bright Gem (World Terminus: Deep Jungle)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+52910C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1902</ID>
+              <Description>"Treasure: End Of The World Blaze Gem (World Terminus: Agrabah)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+52910E</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1906</ID>
+              <Description>"Treasure: End Of The World AP Up (World Terminus: Atlantica)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529110</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1904</ID>
+              <Description>"Treasure: End Of The World Lucid Gem (World Terminus: Halloween Town)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529112</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1907</ID>
+              <Description>"Treasure: End Of The World Mighty Shield (World Terminus: Neverland)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529114</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1909</ID>
+              <Description>"Treasure: End Of The World Megalixir (World Terminus: Hundred Acre Wood)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529116</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1910</ID>
+              <Description>"Treasure: End Of The World Elixir (World Terminus: Hollow Bastion)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+529118</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1913</ID>
+              <Description>"Treasure: End Of The World Megalixir (Final Rest)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"KINGDOM HEARTS FINAL MIX.exe"+52911A</Address>
+            </CheatEntry>
+          </CheatEntries>
         </CheatEntry>
       </CheatEntries>
     </CheatEntry>
