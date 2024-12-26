@@ -1019,6 +1019,13 @@ local Abilities <const> = {
 	COMBO_MASTER_UNEQUIPPED = 0xC1
 }
 
+local SharedAbilitySlots <const> = {
+	SLOT_1 = 0x2DE98F9,
+	SLOT_2 = 0x2DE98FA,
+	SLOT_3 = 0x2DE98FB,
+	SLOT_4 = 0x2DE98FC
+}
+
 local APCosts <const> = {
 	HIGH_JUMP = 0x2D26118,
 	MERMAID_KICK = 0x2D26124,
@@ -1090,7 +1097,7 @@ local APCosts <const> = {
 local AbilityLevelUpPointers <const> = {
 	SORA_SWORD = 0x2D26866,
 	SORA_SHIELD = 0x2D268CE,
-	SORA_ROD = 0x2D26938,
+	SORA_ROD = 0x2D26936,
 	DONALD = 0x2D26C5D,
 	GOOFY = 0x2D26DF6
 }
@@ -2954,7 +2961,7 @@ local Treasures <const> = {
 
 local Rewards <const> = {
 	LEON_FIGHT_TRAVERSE_TOWN = 0x2D2F3E8,					-- Elixir
-	GOOFY = 0x2D2F3EA,										-- Dodge Roll
+	GOOFY_TRAVERSE_TOWN = 0x2D2F3EA,						-- Dodge Roll
 	URSULA_1 = 0x2D2F404,									-- Mermaid Kick
 	NEVERLAND_1 = 0x2D2F406,								-- Glide
 	CHERNABOG = 0x2D2F408,									-- Superglide
@@ -3105,7 +3112,6 @@ local Rewards <const> = {
 	END_OF_THE_WORLD_GIANT_CREVASSE_2 = 0x2D2F538 			-- Meteor Strike
 }
 
-
 function GlobalConstants:GetCharacterStatPointers()
 	return CharacterStatPointers
 end
@@ -3162,6 +3168,10 @@ function GlobalConstants:GetAbilities()
 	return Abilities
 end
 
+function GlobalConstants:GetSharedAbilitySlots()
+	return SharedAbilitySlots
+end
+
 function GlobalConstants:GetAPCosts()
 	return APCosts
 end
@@ -3212,6 +3222,42 @@ end
 
 function GlobalConstants:GetRewards()
 	return Rewards
+end
+
+function GlobalConstants:ItemToTreasureShort(itemID)
+	return (itemID << 4) | 0x0
+end
+
+function GlobalConstants:GummiToTreasureShort(gummiID)
+	return (gummiID << 4) | 0x2
+end
+
+function GlobalConstants:PuppiesToTreasureShort(puppiesID)
+	return (puppiesID << 4) | 0x4
+end
+
+function GlobalConstants:RewardToTreasureShort(rewardID)
+	return (rewardID << 4) | 0xE
+end
+
+function GlobalConstants:ItemToRewardShort(itemID)
+	return (itemID << 8) | 0xF0
+end
+
+function GlobalConstants:SoraAbilityToRewardShort(abilityID)
+	return (abilityID << 8) | 0x01
+end
+
+function GlobalConstants:DonaldAbilityToRewardShort(abilityID)
+	return (abilityID << 8) | 0x11
+end
+
+function GlobalConstants:GoofyAbilityToRewardShort(abilityID)
+	return (abilityID << 8) | 0x21
+end
+
+function GlobalConstants:SharedAbilityToRewardShort(abilityID)
+	return (abilityID << 8) | 0xB1
 end
 
 return GlobalConstants

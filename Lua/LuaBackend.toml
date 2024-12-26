@@ -1,0 +1,24 @@
+[kh1]
+scripts = [{ path = "scripts/kh1/", relative = true }]
+exe = "KINGDOM HEARTS FINAL MIX.exe"
+game_docs = "My Games/KINGDOM HEARTS HD 1.5+2.5 ReMIX"
+
+[kh2]
+scripts = [{ path = "scripts/kh2/", relative = true }]
+exe = "KINGDOM HEARTS II FINAL MIX.exe"
+game_docs = "My Games/KINGDOM HEARTS HD 1.5+2.5 ReMIX"
+
+[bbs]
+scripts = [{ path = "scripts/bbs/", relative = true }]
+exe = "KINGDOM HEARTS Birth by Sleep FINAL MIX.exe"
+game_docs = "My Games/KINGDOM HEARTS HD 1.5+2.5 ReMIX"
+
+[recom]
+scripts = [{ path = "scripts/recom/", relative = true }]
+exe = "KINGDOM HEARTS Re_Chain of Memories.exe"
+game_docs = "My Games/KINGDOM HEARTS HD 1.5+2.5 ReMIX"
+
+[kh3d]
+scripts = [{ path = "scripts/kh3d/", relative = true }]
+exe = "KINGDOM HEARTS Dream Drop Distance.exe"
+game_docs = "My Games/KINGDOM HEARTS HD 2.8 Final Chapter Prologue"
