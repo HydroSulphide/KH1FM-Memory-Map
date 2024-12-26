@@ -18,7 +18,7 @@ Just add this io_packages folder to the directory, where your lua scripts are lo
 # Steam Deck
 
 Guide to install LuaBackend and get Lua scripts to run on Steam Deck/Linux:
-* Download LuaBackend hook and make sure your LuaBackend.toml looks like [this](https://github.com/HydroSulphide/KH1FM-Memory-Map/Lua/LuaBackend.toml)
+* Download LuaBackend hook and make sure your LuaBackend.toml looks like [this](https://github.com/HydroSulphide/KH1FM-Memory-Map/blob/main/Lua/LuaBackend.toml)
 * Rename DBGHELP.dll to dinput8.dll
 * Copy "dinput8.dll", "lua54.dll" and "LuaBackend.toml" in the same directory as "KINGDOM HEARTS FINAL MIX.exe" (default location: "/home/deck/.local/Steam/steamapps/common/KINGDOM HEARTS -HD 1.5+2.5 ReMIX-")
 * Navigate to the "/Documents/My Games/KINGDOM HEARTS HD 1.5+2.5 ReMIX" directory of the KINGDOM HEARTS HD 1.5+2.5 ReMIX proton prefix: (default location: "/home/deck/.local/share/Steam/steamapps/compatdata/2552430/pfx_drive/users/steamuser/Documents/My Games/KINGDOM HEARTS HD 1.5+2.5 ReMIX")
